@@ -41,15 +41,15 @@
 		- anthropologist 			人类学家
 		- philanthropist 			慈善家
 			1. phil- 爱
-			    - Philadelphia: 	费城 philos "loving" (see -phile) + adelphos "brother"
+			    - Philadelphia: 		费城 philos "loving" (see -phile) + adelphos "brother"
 
         
 ## 8.misogynist    	反女人
 	1. gyne=woman
-		- gynecologist 			妇科医生
+		- gynecologist 				妇科医生
 		- polygyny 				一夫多妻
-		    1. mono-  			单一
-		    2. polys- 			多的
+		    1. mono-  				单一
+		    2. polys- 				多的
 	2. andry=man   					来自拉丁语andros    
 		- polyandry 				一妻多夫
 
