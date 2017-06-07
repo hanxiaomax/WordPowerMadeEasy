@@ -27,12 +27,12 @@
 ## 6.ambivert       	又内向又外向的普通人
 	1. ambi-             				both       向两个方向
 		- ambidextrous 				左右手共用的人，两面派的，灵巧的。
-			1. `Dexterous` 			= skillful
-			2. `Dexterity`			=skill
-			3. `Dexter` 			拉丁语 右撇子（右手是熟练的手，所以是skill和skillful）  
-			4. `sinister` 			拉丁语 左撇子，英语 threating，dangerous，evil,源自祖先们对左撇子的误解和猜测
-			5. `gauche` 			法语 左撇子，英语 clumsy 笨拙的, 粗鲁的,不善交际的。
-			6. `droit` 			法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。 
+			1. Dexterous 			= skillful
+			2. Dexterity			=skill
+			3. Dexter 			拉丁语 右撇子（右手是熟练的手，所以是skill和skillful）  
+			4. sinister 			拉丁语 左撇子，英语 threating，dangerous，evil,源自祖先们对左撇子的误解和猜测
+			5. gauche 			法语 左撇子，英语 clumsy 笨拙的, 粗鲁的,不善交际的。
+			6. droit 			法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。 
 		- ambidextrity
 ## 7.misanthrope 	反人类
 	1. misein 					拉丁语 to hate
@@ -40,25 +40,25 @@
 		- anthropology 				人类学
 		- anthropologist 			人类学家
 		- philanthropist 			慈善家
-			1. `phil`- 爱
-			    - `Philadelphia`: 	费城 philos "loving" (see -phile) + adelphos "brother"
+			1. phil- 爱
+			    - Philadelphia: 	费城 philos "loving" (see -phile) + adelphos "brother"
 
         
 ## 8.misogynist    	反女人
 	1. gyne=woman
-		- `gynecologist` 			妇科医生
-		- `polygyny` 				一夫多妻
-		    1. `mono`-  			单一
-		    2. `polys`- 			多的
+		- gynecologist 			妇科医生
+		- polygyny 				一夫多妻
+		    1. mono-  			单一
+		    2. polys- 			多的
 	2. andry=man   					来自拉丁语andros    
-		- `polyandry` 				一妻多夫
+		- polyandry 				一妻多夫
 
 
 ## 9.misogamist   	反婚姻    
 	1. gamos=marriage 
-		- `monogamy` 				一夫一妻制
-		- `bigamy`				重婚罪 
-		- `polygamy` 				一夫多妻或一妻多夫制
+		- monogamy 				一夫一妻制
+		- bigamy				重婚罪 
+		- polygamy 				一夫多妻或一妻多夫制
 
 ## 10.ascetic        	禁欲主义者
 	1. asketes 					拉丁语，monk，hermit
