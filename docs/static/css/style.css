@@ -1,0 +1,9 @@
+#notepad{
+	background: #f9f8f8;
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
+.note{
+	text-align: center;
+}

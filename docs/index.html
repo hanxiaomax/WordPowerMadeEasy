@@ -1,15 +1,45 @@
 <html>
     <head>
         <link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
-        <script type="text/javascript" src="static/js/jsmind.js"></script>
+        <link rel="stylesheet" href="static/css/style.css" />
+        <link rel="stylesheet" href="static/css/jquery-ui.min.css" />
+        <script src="static/js/jquery.js"></script>
+        <script src="static/js/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8" type></script>
         <!--
             enable drag-and-drop feature
             <script type="text/javascript" src="js/jsmind.draggable.js"></script>
         -->
     </head>
     <body>
-        <div id="jsmind_container"></div>
-        <script type="text/javascript">
+    <div class="note">
+        <div id='notepad' ></div>
+    </div>
+   
+    <div id="jsmind_container"></div>
+     
+    
+    <script type="text/javascript">
+    var _pre_zh = ""
+    $(document).mouseover(function(e){
+        var _div = $(e.target).html();
+        var zh = $(_div).attr('title')
+        if(zh==undefined){
+            zh=_pre_zh;
+        }
+        if(_pre_zh!=zh){
+            console.log(zh);
+            $('#notepad').html(zh)
+            _pre_zh = zh;
+        }
+        else{
+            console.log('no action');
+        }
+        
+    
+    });
+
+
             var mind = {
     /* 元数据，定义思维导图的名称、作者、版本等信息 */
     "meta":{
@@ -20,10 +50,10 @@
     /* 数据格式声明 */
     "format":"node_tree",
     /* 数据内容 */
-    "data":{"id":"root","topic":"jsMind","children":[
-        {"id":"easy","topic":"Easy","direction":"left","expanded":false,"children":[
+    "data":{"id":"root","topic":"How to talk about personality","children":[
+        {"id":"easy","topic":"<div title='1233453461222bkhjbkjhbjhkbkhjbkjhbkjbjkbkjhjvvjhvjhvjhvjhvjhgvjhvjhvjvj6'>easy to use</div>","direction":"left","expanded":false,"children":[
             {"id":"easy1","topic":"Easy to show"},
-            {"id":"easy2","topic":"Easy to edit"},
+            {"id":"easy2","topic":"<div title='123322bkhjbkjhbjhkbkhjbkjhbkjbjkbkjhjvvjhvjhvjhvjhvjhgvjhvjhvjvj6'>easy to 11e</div>"},
             {"id":"easy3","topic":"Easy to store"},
             {"id":"easy4","topic":"Easy to embed"}
         ]},
