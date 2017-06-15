@@ -111,7 +111,7 @@ html {
   z-index: -1;
 }
 .sidebar-nav li:first-child a {
-  background-color: #1a1a1a;
+  background-color: #e08031;
   color: #ffffff;
 }
 .sidebar-nav li:nth-child(2):before {
