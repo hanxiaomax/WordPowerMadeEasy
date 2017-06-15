@@ -1,46 +1,111 @@
 <html>
     <head>
-        <link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
+        
+        <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+        <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
+<link rel="stylesheet" type="text/css" href="static/css/htmleaf-demo.css">
         <link rel="stylesheet" href="static/css/style.css" />
-        <link rel="stylesheet" href="static/css/jquery-ui.min.css" />
-        <script src="static/js/jquery.js"></script>
-        <script src="static/js/jquery-ui.min.js"></script>
-        <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8" type></script>
-        <!--
-            enable drag-and-drop feature
-            <script type="text/javascript" src="js/jsmind.draggable.js"></script>
-        -->
+                <script src="static/js/jquery.js"></script>
+            <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+             <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8" type></script> 
     </head>
     <body>
-    <div class="note">
-        <div id='notepad' ></div>
+    <div class="container-fluid">
+        <div class="row" id="wrapper">
+        <div class="overlay"></div>
+            <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
+            <ul class="nav sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                       Bootstrap 3
+                    </a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-home"></i> How to talk about doctors</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-folder"></i> How to talk about doctors</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-file-o"></i> How to talk about doctors</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-cog"></i> How to talk about doctors</a>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-fw fa-plus"></i> Dropdown <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li class="dropdown-header">Dropdown heading</li>
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-bank"></i> Page four</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-dropbox"></i> Page 5</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-fw fa-twitter"></i> Last page</a>
+                </li>
+            </ul>
+        </nav>
+            <div id="page-content-wrapper">
+                <button type="button" class="hamburger is-closed animated fadeInLeft" data-toggle="offcanvas">
+                    <span class="hamb-top"></span>
+                    <span class="hamb-middle"></span>
+                    <span class="hamb-bottom"></span>
+                </button>
+                    <div id="jsmind_container"></div>
+            </div>
+            
+        </div>
+        
     </div>
-   
-    <div id="jsmind_container"></div>
+    
      
+    <div class="note"><div id='notepad' ></div></div>
     
     <script type="text/javascript">
-    var _pre_zh = ""
-    $(document).mouseover(function(e){
-        var _div = $(e.target).html();
-        var zh = $(_div).attr('title')
-        if(zh==undefined){
-            zh=_pre_zh;
-        }
-        if(_pre_zh!=zh){
-            console.log(zh);
-            $('#notepad').html(zh)
-            _pre_zh = zh;
-        }
-        else{
-            console.log('no action');
-        }
-        
-    
-    });
+        $(document).ready(function () {
+          var trigger = $('.hamburger'),
+              overlay = $('.overlay'),
+             isClosed = false;
 
+            trigger.click(function () {
+              hamburger_cross();      
+            });
 
-            var mind = {
+            function hamburger_cross() {
+
+              if (isClosed == true) {          
+                overlay.hide();
+                trigger.removeClass('is-open');
+                trigger.addClass('is-closed');
+                isClosed = false;
+              } else {   
+                overlay.show();
+                trigger.removeClass('is-closed');
+                trigger.addClass('is-open');
+                isClosed = true;
+              }
+          }
+          
+          $('[data-toggle="offcanvas"]').click(function () {
+                $('#wrapper').toggleClass('toggled');
+          });  
+        });
+    </script>
+    <script type="text/javascript">
+
+    var mind = {
     /* 元数据，定义思维导图的名称、作者、版本等信息 */
     "meta":{
         "name":"jsMind-demo-tree",
@@ -74,11 +139,14 @@
 };
             var options = {
                 container:'jsmind_container',
-                theme:'orange',
+                theme:'clouds',
                 editable:true
             };
             var jm = new jsMind(options);
             jm.show(mind);
         </script>
+
+      
+
     </body>
 </html>
