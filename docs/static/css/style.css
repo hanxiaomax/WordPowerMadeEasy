@@ -58,7 +58,6 @@ html {
 }
 #wrapper.toggled #page-content-wrapper {
   margin-right: -400px;
-  position: absolute;
 }
 #sidebar-wrapper {
   -moz-transition: all 0.5s ease;
