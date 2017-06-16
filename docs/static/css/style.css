@@ -16,6 +16,16 @@
 	z-index:50;
 }
 
+.pop-title{
+	background-color: #e08031;
+	color: #ffffff;
+	margin: -1px;
+}
+.pop-content{
+	background-color: #ffffff;
+	color: #000000;
+}
+
 @import "http://designmodo.github.io/Flat-UI/dist/css/flat-ui.min.css";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
 @import "https://daneden.github.io/animate.css/animate.min.css";

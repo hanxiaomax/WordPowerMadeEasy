@@ -1,15 +1,25 @@
-<html>
+<html lang="zh-cmn-Hans"> 
     <head>
-        
+        <meta charset='utf-8'>
+        <!-- 优先使用 IE 最新版本和 Chrome -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <!-- 页面描述 -->
+        <meta name="description" content=""/>
+        <!-- 页面关键词 -->
+        <meta name="keywords" content=""/>
+        <!-- 网页作者 -->
+        <meta name="author" content="lingfeng_ai, hanxiaomx@qq.com"/>
+        <!-- 搜索引擎抓取 -->
+        <meta name="robots" content="index,follow"/>
         <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
         <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
-        <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
         <!-- <link rel="stylesheet" type="text/css" href="static/css/htmleaf-demo.css"> -->
         <link rel="stylesheet" href="static/css/style.css" />
         <script src="static/js/jquery.js"></script>
         <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
-        <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8" type></script>
     </head>
     <body>
@@ -41,7 +51,7 @@
                                 <li><a href="#">Another action</a></li>
                                 <li><a href="#">Something else here</a></li>
                                 <li role="separator" class="divider"></li>
-                                <li><a href="#">Separated link</a></li>
+                                <li><a href="#">哈哈</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -128,15 +138,15 @@
                 var mind = {
                 /* 元数据，定义思维导图的名称、作者、版本等信息 */
                 "meta":{
-                "name":"jsMind-demo-tree",
-                "author":"hizzgdev@163.com",
+                "name":"How to talk about personality",
+                "author":"lingfeng_ai",
                 "version":"0.2"
                 },
                 /* 数据格式声明 */
                 "format":"node_tree",
                 /* 数据内容 */
                 "data":{"id":"root","topic":"How to talk about personality","children":[
-                {"id":"easy","topic":"<div title='1233453461222bkhjbkjhbjhkbkhjbkjhbkjbjkbkjhjvvjhvjhvjhvjhvjhgvjhvjhvjvj6'>easy to use</div>","direction":"left","expanded":false,"children":[
+                {"id":"easy","topic":"<div data-toggle='popover' data-content='这里是英文翻译'>easy to use</div>","direction":"left","expanded":false,"children":[
                 {"id":"easy1","topic":"Easy to show"},
                 {"id":"easy2","topic":"<div title='123322bkhjbkjhbjhkbkhjbkjhbkjbjkbkjhjvvjhvjhvjhvjhvjhgvjhvjhvjvj6'>easy to 11e</div>"},
                 {"id":"easy3","topic":"Easy to store"},
@@ -158,12 +168,36 @@
                 ]}
                 };
                 var options = {
-                container:'jsmind_container',
-                theme:'clouds',
-                editable:true
+                    container:'jsmind_container',
+                    theme:'clouds',
+                    editable:false,
+                    support_html : true,    // 是否支持节点里的HTML元素
+                    view:{
+                       hmargin:50,        // 思维导图距容器外框的最小水平距离
+                       vmargin:50,         // 思维导图距容器外框的最小垂直距离
+                       line_width:3,       // 思维导图线条的粗细
+                       line_color:'#ffffff'   // 思维导图线条的颜色
+                   },
+                   layout:{
+                       hspace:30,          // 节点之间的水平间距
+                       vspace:30,          // 节点之间的垂直间距
+                       pspace:20           // 节点收缩/展开控制器的尺寸
+                   },
                 };
                 var jm = new jsMind(options);
                 jm.show(mind);
+
+                var options = {
+                    container: 'jmnodes',
+                    trigger:'hover',
+                    placement:'top',
+                    title:'释义',
+                    template:'<div class="popover" role="tooltip"><div class="arrow"></div><h3 class="popover-title pop-title"></h3><div class="popover-content pop-content"></div></div>'
+                    
+                };
+                $(function () {
+                  $('[data-toggle="popover"]').popover(options)
+                })
                 </script>
                 
             </body>

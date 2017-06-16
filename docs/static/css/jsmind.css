@@ -24,14 +24,14 @@ canvas{position:absolute;z-index:1;}
 /* z-index:2 */
 jmnodes{position:absolute;z-index:2;background-color:rgba(0,0,0,0);}/*background color is necessary*/
 jmnode{position:absolute;cursor:default;max-width:400px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-jmexpander{position:absolute;width:11px;height:11px;display:block;overflow:hidden;line-height:12px;font-size:12px;text-align:center;border-radius:6px;border-width:1px;border-style:solid;cursor:pointer;}
+jmexpander{position:absolute;width:16px;height:16px;display:block;overflow:hidden;line-height:12px;font-size:12px;text-align:center;border-radius:6px;border-width:1px;border-style:solid;cursor:pointer;}
 
 /* default theme */
 jmnode{padding:10px;background-color:#fff;color:#333;border-radius:5px;box-shadow:1px 1px 1px #666;font:16px/1.125 Verdana,Arial,Helvetica,sans-serif;}
 jmnode:hover{box-shadow:2px 2px 8px #000;background-color:#ebebeb;color:#333;}
 jmnode.selected{background-color:#11f;color:#fff;box-shadow:2px 2px 8px #000;}
 jmnode.root{font-size:24px;}
-jmexpander{border-color:gray;}
+jmexpander{border-color:#ffffff;}
 jmexpander:hover{border-color:#000;}
 
 @media screen and (max-device-width: 1024px) {
@@ -145,9 +145,9 @@ jmnodes.theme-pomegranate jmexpander:hover{}
 /* clouds theme */
 jmnodes.theme-clouds jmnode{background-color:#ecf0f1;color:#333;}
 jmnodes.theme-clouds jmnode:hover{background-color:#bdc3c7;}
-jmnodes.theme-clouds jmnode.selected{background-color:#11f;color:#fff;}
+jmnodes.theme-clouds jmnode.selected{}
 jmnodes.theme-clouds jmnode.root{}
-jmnodes.theme-clouds jmexpander{}
+jmnodes.theme-clouds jmexpander{color: white;position:absolute;width:16px;height:16px;display:block;overflow:hidden;line-height:12px;font-size:12px;text-align:center;border-radius:6px;border-width:1px;border-style:solid;cursor:pointer;}
 jmnodes.theme-clouds jmexpander:hover{}
 
 /* asbestos theme */
