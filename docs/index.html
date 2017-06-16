@@ -68,10 +68,10 @@
                                     </a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-fw fa-home"></i> How to talk about doctors</a>
+                        <a href="#" onclick="show_map(1)"><i class="fa fa-fw fa-home"></i> How to talk about doctors</a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-fw fa-folder"></i> How to talk about doctors</a>
+                        <a href="#" onclick="show_map(2)"><i class="fa fa-fw fa-folder"></i> How to talk about doctors</a>
                     </li>
                     <li>
                         <a href="#"><i class="fa fa-fw fa-file-o"></i> How to talk about doctors</a>
@@ -105,6 +105,22 @@
     <!-- 思维导图内容 -->
     <script type="text/javascript" src="static/js/mindmaps.js"></script>
     <script type="text/javascript">
+    show_map(1)
+
+    function show_map(n) {
+        switch (n) {
+            case 1:
+                jm.show(mind1);
+                break;
+            case 2:
+                jm.show(mind2);
+                break;
+            default:
+                break;
+        }
+    }
+
+
     $(document).ready(function() {
         var trigger = $('.hamburger'),
             overlay = $('.overlay'),
