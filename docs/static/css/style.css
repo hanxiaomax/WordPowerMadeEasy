@@ -166,34 +166,46 @@ html {
 }
 
 .sidebar-nav li:nth-child(2):before {
-    background-color: #199475;
+    background-color: #00bf8f;
 }
 
 .sidebar-nav li:nth-child(3):before {
-    background-color: #0b6e48;
+    background-color: #10bf8f;
 }
 
 .sidebar-nav li:nth-child(4):before {
-    background-color: #0b6e48;
+    background-color: #199475;
 }
 
 .sidebar-nav li:nth-child(5):before {
-    background-color: #045C3D;
+    background-color: #199475;
 }
 
 .sidebar-nav li:nth-child(6):before {
-    background-color: #045C3D;
+    background-color: #199475;
 }
 
 .sidebar-nav li:nth-child(7):before {
-    background-color: #044D22;
+    background-color: #0b6e48;
 }
 
 .sidebar-nav li:nth-child(8):before {
-    background-color: #044D22;
+    background-color: #0b6e48;
 }
 
 .sidebar-nav li:nth-child(9):before {
+    background-color: #0b6e48;
+}
+
+.sidebar-nav li:nth-child(10):before {
+    background-color: #044D22;
+}
+
+.sidebar-nav li:nth-child(11):before {
+    background-color: #044D22;
+}
+
+.sidebar-nav li:nth-child(12):before {
     background-color: #044D22;
 }
 
@@ -388,7 +400,12 @@ html {
 
 body,
 html {
-    background-color: #119475;
+    background: #119475;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00bf8f, #044D22);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00bf8f, #044D22);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 body h1,
