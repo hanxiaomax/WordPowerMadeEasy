@@ -7,8 +7,8 @@ var mind1 = {
     /* 元数据，定义思维导图的名称、作者、版本等信息 */
     "meta": {
         "name": "How to talk about personality",
-        "author": "lingfeng_ai",
-        "version": "0.2"
+        "author": "lingfeng_ai@foxmail.com",
+        "version": "1.0",
     },
     /* 数据格式声明 */
     "format": "node_tree",
@@ -128,9 +128,11 @@ var options = {
 };
 var jm = new jsMind(options);
 jm.show(mind1);
+console.log(jm.get_meta())
 
 $(document).ready(function() {
     popsetup();
+
 })
 
 var options = {
@@ -144,4 +146,7 @@ var options = {
 
 function popsetup() {
     $('[data-toggle="popover"]').popover(options)
+    $("#copyright").html("作者:\t" + jm.get_meta()['author'])
+    $("#version").html("版本:\t" + jm.get_meta()['version'])
+    $("#liscence").html("许可:\tMIT")
 }

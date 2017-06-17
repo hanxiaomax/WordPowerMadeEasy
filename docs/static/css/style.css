@@ -395,36 +395,40 @@ html {
     opacity: 1;
 }
 
-
-/* SOME DEMO STYLES - NOT REQUIRED */
-
-body,
-html {
-    background: #119475;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #00bf8f, #044D22);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #00bf8f, #044D22);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+.about {
+    margin-top: 50px;
+    font-size: 15px;
+    color: #fff;
 }
 
-body h1,
-body h2,
-body h3,
-body h4 {
-    color: rgba(255, 255, 255, 0.9);
+.about h3 {
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
 }
 
-body p,
-body blockquote {
-    color: rgba(255, 255, 255, 0.7);
+.about a {
+    font-size: 18px;
+    color: #0ce018;
+    text-align: center;
 }
 
-body a {
-    color: rgba(255, 255, 255, 0.8);
-    text-decoration: underline;
-}
-
-body a:hover {
+.about h3:after {
+    height: 1px;
     color: #ffffff;
+}
+
+.about p {
+    margin-left: 20px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.author {
+    font-size: 10px;
+}
+
+.infodropdown a,
+li {
+    font-weight: bold;
 }
