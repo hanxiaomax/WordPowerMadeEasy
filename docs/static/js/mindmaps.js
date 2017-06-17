@@ -125,7 +125,7 @@ var mind13 = {
         "topic": "学习资源",
         "children": [{
             "id": "easy",
-            "topic": "<a href='www.etymonline.com'>在线词源字典</a>",
+            "topic": "<a href='http://www.etymonline.com'>在线词源字典</a>",
             "direction": "right",
             "expanded": true,
         }, {
