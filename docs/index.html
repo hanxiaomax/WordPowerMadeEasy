@@ -66,16 +66,16 @@
                         <a href="#">Word Power Made Easy</a>
                     </li>
                     <li>
-                        <a href="#" onclick="show_map(this)" value='1'> How to talk about doctors</a>
+                        <a href="#" onclick="jm.show(mind1);popsetup();"> How to talk about doctors</a>
                     </li>
                     <li>
-                        <a href="#" onclick="show_map(this)" value='2'> How to talk about doctors</a>
+                        <a href="#" onclick="jm.show(mind2);popsetup();"> How to talk about doctors</a>
                     </li>
                     <li>
-                        <a href="#" onclick="show_map(this)" value='3'> How to talk about doctors</a>
+                        <a href="#" onclick="jm.show(mind1);popsetup();"> How to talk about doctors</a>
                     </li>
                     <li>
-                        <a href="#" onclick="show_map(this)" value='4'> How to talk about doctors</a>
+                        <a href="#" onclick="jm.show(mind1);popsetup();"> How to talk about doctors</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-fw fa-plus"></i> More Maps <span class="caret"></span></a>
@@ -103,40 +103,6 @@
     <!-- 思维导图内容 -->
     <script type="text/javascript" src="static/js/mindmaps.js"></script>
     <script type="text/javascript">
-    $(document).ready(function() {
-        show_map(this);
-        console.log()
-    })
-
-    function show_map(obj) {
-
-        switch ($(obj).attr("value")) {
-            case '1':
-                jm.show(mind1);
-                break;
-            case '2':
-                jm.show(mind2);
-                break;
-            case '3':
-                jm.show(mind3);
-                break;
-            case '4':
-                jm.show(mind4);
-                break;
-            case '5':
-                jm.show(mind5);
-
-                break;
-            case '6':
-                jm.show(mind6);
-                break;
-            default:
-                jm.show(mind1);
-                break;
-        }
-    }
-
-
     $(document).ready(function() {
         var trigger = $('.hamburger'),
             overlay = $('.overlay'),

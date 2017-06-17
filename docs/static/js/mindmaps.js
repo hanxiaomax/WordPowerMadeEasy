@@ -127,6 +127,11 @@ var options = {
     },
 };
 var jm = new jsMind(options);
+jm.show(mind1);
+
+$(document).ready(function() {
+    popsetup();
+})
 
 var options = {
     container: 'jmnodes',
@@ -136,6 +141,7 @@ var options = {
     template: '<div class="popover" role="tooltip"><div class="arrow"></div><h3 class="popover-title pop-title"></h3><div class="popover-content pop-content"></div></div>'
 
 };
-$(function() {
+
+function popsetup() {
     $('[data-toggle="popover"]').popover(options)
-})
+}
