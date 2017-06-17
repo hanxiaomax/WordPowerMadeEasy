@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
     <!-- <link rel="stylesheet" type="text/css" href="static/css/htmleaf-demo.css"> -->
-    <link rel="stylesheet" href="static/css/style.css" />
+    <link rel="stylesheet" href="static/css/style-blue.css" />
     <script src="static/js/jquery.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -73,7 +73,7 @@
             <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
                 <ul class="nav sidebar-nav">
                     <li class="sidebar-brand">
-                        <a href="#">Word Power Made Easy</a>
+                        <a href="#">目录</a>
                     </li>
                     <li>
                         <a href="#" onclick="jm.show(mind1);popsetup();">1. Talk About Personality</a>
@@ -124,7 +124,7 @@
                     <span class="hamb-middle"></span>
                     <span class="hamb-bottom"></span>
                 </button>
-                <div id="jsmind_container"></div>
+                <div id="jsmind_container" data-dismiss="offcanvas"></div>
             </div>
         </div>
     </div>
@@ -141,22 +141,31 @@
             hamburger_cross();
         });
 
+        function close_sidebar() {
+            trigger.removeClass('is-open');
+            trigger.addClass('is-closed');
+            setTimeout(resize_jsmind, 500); //侧边栏关闭后，重新居中
+            isClosed = false;
+        }
+
         function hamburger_cross() {
             if (isClosed == true) {
-                trigger.removeClass('is-open');
-                trigger.addClass('is-closed');
-                setTimeout(resize_jsmind, 500); //侧边栏关闭后，重新居中
-                isClosed = false;
+                close_sidebar();
             } else {
                 trigger.removeClass('is-closed');
                 trigger.addClass('is-open');
                 isClosed = true;
             }
         }
-
+        //点击hamburger 开关侧边栏
         $('[data-toggle="offcanvas"]').click(function() {
             $('#wrapper').toggleClass('toggled');
 
+        });
+        //点击导图关闭侧边栏
+        $('[data-dismiss="offcanvas"]').click(function() {
+            $('#wrapper').removeClass('toggled');
+            close_sidebar();
         });
     });
     </script>

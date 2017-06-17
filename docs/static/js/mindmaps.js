@@ -125,26 +125,10 @@ var mind13 = {
         "topic": "学习资源",
         "children": [{
             "id": "easy",
-            "topic": "<a href='http://www.etymonline.com'>在线词源字典</a>",
+            "topic": "<a href='http://www.etymonline.com' target='_blank'>1.在线词源字典</a>",
             "direction": "right",
             "expanded": true,
-        }, {
-            "id": "open",
-            "topic": "Open Source",
-            "direction": "right",
-            "expanded": true,
-
-        }, {
-            "id": "powerful",
-            "topic": "Powerful",
-            "direction": "right",
-
-        }, {
-            "id": "other",
-            "topic": "test node",
-            "direction": "right",
-
-        }]
+        }, ]
     }
 };
 
@@ -183,6 +167,7 @@ var options = {
 
 };
 
+//切换导图后重新设置 meta 数据和 popup
 function popsetup() {
     $('[data-toggle="popover"]').popover(options)
     $("#copyright").html("作者:\t" + jm.get_meta()['author'])
