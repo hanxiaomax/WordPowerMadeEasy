@@ -109,6 +109,45 @@ var mind2 = {
         }]
     }
 };
+
+var mind13 = {
+    /* 元数据，定义思维导图的名称、作者、版本等信息 */
+    "meta": {
+        "name": "学习资源",
+        "author": "lingfeng_ai",
+        "version": "0.2"
+    },
+    /* 数据格式声明 */
+    "format": "node_tree",
+    /* 数据内容 */
+    "data": {
+        "id": "root",
+        "topic": "学习资源",
+        "children": [{
+            "id": "easy",
+            "topic": "<a href='www.etymonline.com'>在线词源字典</a>",
+            "direction": "right",
+            "expanded": true,
+        }, {
+            "id": "open",
+            "topic": "Open Source",
+            "direction": "right",
+            "expanded": true,
+
+        }, {
+            "id": "powerful",
+            "topic": "Powerful",
+            "direction": "right",
+
+        }, {
+            "id": "other",
+            "topic": "test node",
+            "direction": "right",
+
+        }]
+    }
+};
+
 var options = {
     container: 'jsmind_container',
     theme: 'clouds',

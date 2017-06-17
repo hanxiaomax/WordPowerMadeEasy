@@ -21,7 +21,8 @@
     <script src="static/js/jquery.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8" type></script>
+    <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8"></script>
+    <script type="text/javascript" src="static/js/jsmind.draggable.js" charset="utf-8"></script>
 </head>
 
 <body>
@@ -111,11 +112,8 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-fw fa-plus"></i> More... <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li class="dropdown-header"></li>
-                            <li><a href="#">Action</a></li>
-                            <li><a href="#">Another action</a></li>
-                            <li><a href="#">Something else here</a></li>
-                            <li><a href="#">Separated link</a></li>
-                            <li><a href="#">One more separated link</a></li>
+                            <li><a href="#" onclick="jm.show(mind12);popsetup();">文字笔记</a></li>
+                            <li><a href="#" onclick="jm.show(mind13);popsetup();">词源书籍</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -133,9 +131,11 @@
     <!-- 思维导图内容 -->
     <script type="text/javascript" src="static/js/mindmaps.js"></script>
     <script type="text/javascript">
+    function resize_jsmind() {
+        jm.resize();
+    }
     $(document).ready(function() {
         var trigger = $('.hamburger'),
-            overlay = $('.overlay'),
             isClosed = false;
         trigger.click(function() {
             hamburger_cross();
@@ -143,12 +143,11 @@
 
         function hamburger_cross() {
             if (isClosed == true) {
-                overlay.hide();
                 trigger.removeClass('is-open');
                 trigger.addClass('is-closed');
+                setTimeout(resize_jsmind, 500); //侧边栏关闭后，重新居中
                 isClosed = false;
             } else {
-                overlay.show();
                 trigger.removeClass('is-closed');
                 trigger.addClass('is-open');
                 isClosed = true;
@@ -157,6 +156,7 @@
 
         $('[data-toggle="offcanvas"]').click(function() {
             $('#wrapper').toggleClass('toggled');
+
         });
     });
     </script>
