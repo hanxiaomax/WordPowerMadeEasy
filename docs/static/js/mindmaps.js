@@ -13,48 +13,9 @@ var mind1 = {
     /* 数据格式声明 */
     "format": "node_tree",
     /* 数据内容 */
-    "data": {
-        "id": "root",
-        "topic": "How to talk about personality",
-        "children": [{
-            "id": "easy",
-            "topic": "<div data-toggle='popover' data-content='这里是英文翻译'>easy to use</div>",
-            "direction": "left",
-            "expanded": false,
-            "children": [
-                { "id": "easy1", "topic": "Easy to show" },
-                { "id": "easy2", "topic": "<div title='123322bkhjbkjhbjhkbkhjbkjhbkjbjkbkjhjvvjhvjhvjhvjhvjhgvjhvjhvjvj6'>easy to 11e</div>" },
-                { "id": "easy3", "topic": "Easy to store" },
-                { "id": "easy4", "topic": "Easy to embed" }
-            ]
-        }, {
-            "id": "open",
-            "topic": "Open Source",
-            "direction": "right",
-            "expanded": true,
-            "children": [
-                { "id": "open1", "topic": "on GitHub" },
-                { "id": "open2", "topic": "BSD License" }
-            ]
-        }, {
-            "id": "powerful",
-            "topic": "Powerful",
-            "direction": "right",
-            "children": [
-                { "id": "powerful1", "topic": "Base on Javascript" },
-                { "id": "powerful2", "topic": "Base on HTML5" },
-                { "id": "powerful3", "topic": "Depends on you" }
-            ]
-        }, {
-            "id": "other",
-            "topic": "test node",
-            "direction": "left",
-            "children": [
-                { "id": "other1", "topic": "I'm from local variable" },
-                { "id": "other2", "topic": "I can do everything" }
-            ]
-        }]
-    }
+    "data": { "topic": "How to talk about personality", "id": "root", "children": [{ "topic": "<div data-toggle='popover' data-content='利己主义者'>1.egoist</div>", "direction": "right", "expanded": false, "id": "1.egoist", "children": [{ "topic": "<div data-toggle='popover' data-content='I,self'>1. ego</div>", "id": "1. ego", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='自大的人'>2.egotist</div>", "direction": "right", "expanded": false, "id": "2.egotist", "children": [] }, { "topic": "<div data-toggle='popover' data-content='利他主义者'>3.altruist</div>", "direction": "right", "expanded": false, "id": "3.altruist", "children": [{ "topic": "<div data-toggle='popover' data-content='other'>1. alter</div>", "id": "1. alter", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='内向的人'>4.introvert</div>", "direction": "right", "expanded": false, "id": "4.introvert", "children": [{ "topic": "<div data-toggle='popover' data-content='inward   向内'>1. intro-</div>", "id": "1. intro-", "children": [] }, { "topic": "<div data-toggle='popover' data-content='来自拉丁语 verto=to turn'>2. vert-</div>", "id": "2. vert-", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='外向的人'>5.extrovert</div>", "direction": "right", "expanded": false, "id": "5.extrovert", "children": [{ "topic": "<div data-toggle='popover' data-content='outward 向外'>1. extro-</div>", "id": "1. extro-", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='又内向又外向的普通人'>6.ambivert</div>", "direction": "left", "expanded": false, "id": "6.ambivert", "children": [{ "topic": "<div data-toggle='popover' data-content='both       向两个方向'>1. ambi-</div>", "id": "1. ambi-", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='反人类'>7.misanthrope</div>", "direction": "left", "expanded": false, "id": "7.misanthrope", "children": [{ "topic": "<div data-toggle='popover' data-content='拉丁语 to hate'>1. misein</div>", "id": "1. misein", "children": [] }, { "topic": "<div data-toggle='popover' data-content='人类的  '>2. anthropes</div>", "id": "2. anthropes", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='反女人'>8.misogynist</div>", "direction": "left", "expanded": false, "id": "8.misogynist", "children": [{ "topic": "<div data-toggle='popover' data-content='女人 woman'>1. gyne</div>", "id": "1. gyne", "children": [] }, { "topic": "<div data-toggle='popover' data-content='man,来自拉丁语andros    '>2. andry</div>", "id": "2. andry", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='反婚姻    '>9.misogamist</div>", "direction": "left", "expanded": false, "id": "9.misogamist", "children": [{ "topic": "<div data-toggle='popover' data-content='婚姻,marriage '>1. gamos</div>", "id": "1. gamos", "children": [] }] }, { "topic": "<div data-toggle='popover' data-content='禁欲主义者'>10.ascetic</div>", "direction": "left", "expanded": false, "id": "10.ascetic", "children": [{ "topic": "<div data-toggle='popover' data-content='拉丁语，monk，hermit'>1. asketes</div>", "id": "1. asketes", "children": [] }] }] }
+
+
 };
 var mind2 = {
     /* 元数据，定义思维导图的名称、作者、版本等信息 */
@@ -67,47 +28,71 @@ var mind2 = {
     "format": "node_tree",
     /* 数据内容 */
     "data": {
+        "topic": "How to talk about personality",
         "id": "root",
-        "topic": "How to talk about doctors",
         "children": [{
-            "id": "easy",
-            "topic": "<div data-toggle='popover' data-content='这里是英文翻译'>easy to use</div>",
+            "topic": "<div data-toggle='popover' data-content='利己主义者'>1.egoist</div>",
             "direction": "left",
-            "expanded": false,
-            "children": [
-                { "id": "easy1", "topic": "Easy to show" },
-                { "id": "easy2", "topic": "<div title='123322bkhjbkjhbjhkbkhjbkjhbkjbjkbkjhjvvjhvjhvjhvjhvjhgvjhvjhvjvj6'>easy to 11e</div>" },
-                { "id": "easy3", "topic": "Easy to store" },
-                { "id": "easy4", "topic": "Easy to embed" }
-            ]
+            "expanded": true,
+            "id": "1.egoist",
+            "children": []
         }, {
-            "id": "open",
-            "topic": "Open Source",
+            "topic": "<div data-toggle='popover' data-content='自大的人'>2.egotist</div>",
             "direction": "right",
             "expanded": true,
-            "children": [
-                { "id": "open1", "topic": "on GitHub" },
-                { "id": "open2", "topic": "BSD License" }
-            ]
+            "id": "2.egotist",
+            "children": []
         }, {
-            "id": "powerful",
-            "topic": "Powerful",
+            "topic": "<div data-toggle='popover' data-content='利他主义者'>3.altruist</div>",
             "direction": "right",
-            "children": [
-                { "id": "powerful1", "topic": "Base on Javascript" },
-                { "id": "powerful2", "topic": "Base on HTML5" },
-                { "id": "powerful3", "topic": "Depends on you" }
-            ]
+            "expanded": true,
+            "id": "3.altruist",
+            "children": []
         }, {
-            "id": "other",
-            "topic": "test node",
-            "direction": "left",
-            "children": [
-                { "id": "other1", "topic": "I'm from local variable" },
-                { "id": "other2", "topic": "I can do everything" }
-            ]
+            "topic": "<div data-toggle='popover' data-content='内向的人'>4.introvert</div>",
+            "direction": "right",
+            "expanded": true,
+            "id": "4.introvert",
+            "children": []
+        }, {
+            "topic": "<div data-toggle='popover' data-content='外向的人'>5.extrovert</div>",
+            "direction": "right",
+            "expanded": true,
+            "id": "5.extrovert",
+            "children": []
+        }, {
+            "topic": "<div data-toggle='popover' data-content='又内向又外向的普通人'>6.ambivert</div>",
+            "direction": "right",
+            "expanded": true,
+            "id": "6.ambivert",
+            "children": []
+        }, {
+            "topic": "<div data-toggle='popover' data-content='反人类'>7.misanthrope</div>",
+            "direction": "right",
+            "expanded": true,
+            "id": "7.misanthrope",
+            "children": []
+        }, {
+            "topic": "<div data-toggle='popover' data-content='反女人'>8.misogynist</div>",
+            "direction": "right",
+            "expanded": true,
+            "id": "8.misogynist",
+            "children": []
+        }, {
+            "topic": "<div data-toggle='popover' data-content='反婚姻    '>9.misogamist</div>",
+            "direction": "right",
+            "expanded": true,
+            "id": "9.misogamist",
+            "children": []
+        }, {
+            "topic": "<div data-toggle='popover' data-content='禁欲主义者'>10.ascetic</div>",
+            "direction": "right",
+            "expanded": true,
+            "id": "10.ascetic",
+            "children": []
         }]
     }
+
 };
 
 var mind13 = {
