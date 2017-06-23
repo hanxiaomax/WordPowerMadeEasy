@@ -75,6 +75,3 @@
 ## 10.ascetic        	:禁欲主义者
 
 1. asketes 					:拉丁语，monk，hermit
-
-
-
