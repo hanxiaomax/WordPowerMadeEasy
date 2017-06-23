@@ -11,18 +11,25 @@ l3=re.compile('(?P<tabs>\t+)(?P<session>(-|[\d].+) .+)[\s]*:[\s]*(?P<meaning>.+)
 buf=[]
 nodelist=[]
 
+
+
+with open('How to talk about personality.md','r') as f:
+	l2sum = 0
+	for line in f.readlines():
+		if line.count("#")==2:
+			l2sum +=1
+	print l2sum
+
 def  getParentID(clevel):
 	temp = []
-	print nodelist
 	for (plevel,index) in nodelist:
 		if plevel == clevel-1:
 			temp.append((plevel,index))
-	print clevel,str(temp[-1][0])+"-"+str(temp[-1][0])
 	return str(temp[-1][0])+"-"+str(temp[-1][1])
 
 
 with open('How to talk about personality.md','r') as f:
-	l1current=0
+	l2current=0
 	output=open('data.js','w')
 	for index,line in enumerate(f.readlines()):
 		if line.count("#")==1:
@@ -38,8 +45,9 @@ with open('How to talk about personality.md','r') as f:
 						"parentid":"root", 
 						"topic":topic, 
 						"expanded":False,
-						"direction":"left"}
-			
+						"direction":"right" if l2current>=l2sum/2 else "left",}
+			l2current+=1
+			print l2current
 			nodelist.append((2,index+1))
 			buf.append(data_l2)
 		elif re.match(l2,line):#1. alter=other
@@ -68,10 +76,7 @@ with open('How to talk about personality.md','r') as f:
 			
 			nodelist.append((level,index+1))
 			buf.append(data_n)
-		else:
-			l1current+=1
-	for i,k in enumerate(nodelist):
-		print k
+
 	output.write(json.dumps(buf, ensure_ascii=False))
 
 output.close()

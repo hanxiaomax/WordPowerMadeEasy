@@ -13,8 +13,11 @@ l3=re.compile('(?P<tabs>\t+)(?P<session>(-|[\d].+) .+)[\s]*:[\s]*(?P<meaning>.+)
 
 buf=[]
 
-
-
+with open('How to talk about personality.md','r') as f:
+	l2sum = 0
+	for line in f.readlines():
+		if line.count("#")==2:
+			l2sum +=1
 
 with open('How to talk about personality.md','r') as f:
 	l1current=0
@@ -36,11 +39,11 @@ with open('How to talk about personality.md','r') as f:
 			data_l1 = {
 				"id": "2"+'-'+str(index),
 			    "topic": topic,
-			    "direction":  "left",
+			    "direction":  "right" if l1current>=l2sum/2 else "left",
 			    "expanded": False,
 			    "children": []
 			}
-			
+			l1current+=1
 			buf.append(data_l1)
 
 		elif re.match(l2,line):#1. alter=other
@@ -66,7 +69,7 @@ with open('How to talk about personality.md','r') as f:
 			    "children": []
 			}
 			buf.append(data)
-		
+
 
 	output.write(json.dumps(buf, ensure_ascii=False))
 
