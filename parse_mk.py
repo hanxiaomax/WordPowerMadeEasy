@@ -58,6 +58,7 @@ with open('How to talk about personality.md','r') as f:
 			data_l3 = {"id":"3"+'-'+str(index+1),
 						"parentid":getParentID(3), 
 						"topic":topic, 
+						"expanded":False,
 						"direction":"left"}
 			nodelist.append((3,index+1))
 			buf.append(data_l3)
@@ -70,6 +71,7 @@ with open('How to talk about personality.md','r') as f:
 			data_n = {"id":str(level)+'-'+str(index+1), 
 						"parentid":getParentID(level), 
 						"topic":topic, 
+						"expanded":False,
 						"direction":"left"}
 
 			
