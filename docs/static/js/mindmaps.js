@@ -133,6 +133,26 @@ var options = {
         vspace: 30, // 节点之间的垂直间距
         pspace: 20 // 节点收缩/展开控制器的尺寸
     },
+    shortcut: {
+        enable: true, // 是否启用快捷键
+        handles: {
+            'zoomin': function(jm, e) {
+                // do something...
+            },
+            'zoomout': function(jm, e) {
+                // do something...
+            },
+        }, // 命名的快捷键事件处理器
+        mapping: { // 快捷键映射
+            toggle: 32, // <Space>
+            left: 37, // <Left>
+            up: 38, // <Up>
+            right: 39, // <Right>
+            down: 40, // <Down>
+            zoomin: 80,
+            zoomout: 81,
+        }
+    },
 };
 var jm = new jsMind(options);
 jm.show(mind1);
