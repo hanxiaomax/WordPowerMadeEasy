@@ -27,6 +27,11 @@
     color: #000000;
 }
 
+.modal-header-style {
+    background: cadetblue;
+    color: white;
+}
+
 @import "http://designmodo.github.io/Flat-UI/dist/css/flat-ui.min.css";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
 @import "https://daneden.github.io/animate.css/animate.min.css";
@@ -274,6 +279,21 @@ html {
 
 
 /*-------------------------------*/
+
+.help {
+    background: transparent;
+    border: none;
+    display: block;
+    height: 32px;
+    margin-right: 12px;
+    position: fixed;
+    top: 20px;
+    width: 32px;
+    z-index: 999;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.57);
+    right: 10px;
+}
 
 .hamburger {
     background: transparent;

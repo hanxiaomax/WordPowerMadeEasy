@@ -123,8 +123,8 @@ var options = {
     editable: false,
     support_html: true, // 是否支持节点里的HTML元素
     view: {
-        hmargin: 50, // 思维导图距容器外框的最小水平距离
-        vmargin: 50, // 思维导图距容器外框的最小垂直距离
+        hmargin: 100, // 思维导图距容器外框的最小水平距离
+        vmargin: 150, // 思维导图距容器外框的最小垂直距离
         line_width: 3, // 思维导图线条的粗细
         line_color: '#ffffff' // 思维导图线条的颜色
     },
