@@ -144,7 +144,7 @@ $(document).ready(function() {
 })
 
 var options = {
-    container: 'jmnodes',
+    container: 'body',
     trigger: 'hover',
     placement: 'top',
     title: '释义',
