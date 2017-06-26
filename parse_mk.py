@@ -39,6 +39,8 @@ with open('How to talk about personality.md','r') as f:
 		elif line.count("#")==2:
 			meaning = re.match(l1,line).group('meaning')
 			w = re.match(l1,line).group('session')
+			if w[:2]=="- ":
+				w=w[2:]
 			topic = "<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning,w)
 			
 			data_l2 = {"id":"2"+'-'+str(index+1), 
@@ -54,6 +56,8 @@ with open('How to talk about personality.md','r') as f:
 			result = re.match(l2,line)
 			meaning = result.group('meaning')
 			w = result.group('session').strip()
+			if w[:2]=="- ":
+				w=w[2:]
 			topic = "<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning,w)
 			data_l3 = {"id":"3"+'-'+str(index+1),
 						"parentid":getParentID(3), 
@@ -66,7 +70,9 @@ with open('How to talk about personality.md','r') as f:
 			result = re.match(l3,line)
 			meaning = result.group('meaning')
 			w = result.group('session').strip()
-			topic = "<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning,w)
+			if w[:2]=="- ":
+				w=w[2:]
+			topic = "<div data-toggle='popover' data-html ='true' data-content='{0}'>{1}</div>".format(meaning,w)
 			level = len(result.group('tabs'))+3
 			data_n = {"id":str(level)+'-'+str(index+1), 
 						"parentid":getParentID(level), 
