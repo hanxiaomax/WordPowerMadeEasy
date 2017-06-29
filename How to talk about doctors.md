@@ -98,8 +98,9 @@
 	- neurosis			:神经症
 		1. -osis         :病的，abnormal，diseased condition
 
-	
-##10.psychiatrist 		: 精神病医生
+
+
+## 10.psychiatrist 		: 精神病医生
 
 1. psyche            	: 精神 ，spirit
 	- psychosis        :n.精神病, 精神不正常
