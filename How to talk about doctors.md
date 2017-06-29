@@ -1,29 +1,32 @@
 # How to talk about personality
 
-## 1.internist          : 内科医生
-1.internus             内部  inside
-intern 
+## 1. internist          : 内科医生
 
-## 2.gynecologist       : 妇科医生   
+1. internus             :内部  inside 
 
-1. logos                 科学，研究 science，study
+## 2. gynecologist       : 妇科医生   
+
+1. logos                 :科学，研究 science，study
 
 
-## 3.obstetrician       : 产科医生
+## 3. obstetrician       : 产科医生
 
-1. ician                  专家 expert
-2. obstetrix            助产士, 接生婆 midwife
-	- obstetrics         n.产科学, 助产术
-	- obstetric           adj.产科的
+1. ician                  :专家 expert
+2. obstetrix            :助产士, 接生婆 midwife
+	- obstetrics         :n.产科学, 助产术
+	- obstetric           :adj.产科的
 
 ## 4.pediatrician       : 儿科医生
-1. paidos               儿童 child
-	- pediatrics         n. [医]小儿科
-	- pedagogy         教学法（这里的ped是 paido，child）
+
+1. paidos             :  儿童 child
+	- pediatrics       :  n. [医]小儿科
+	- pedagogy        : 教学法（这里的ped是 paido，child）
 	- demagogue			 :煽动人群的人，政客
 		1. agogos 		:带领，指引 leading
 		2. demos 		:人，people
 2. iatreia               : 治疗 medical healing
+    - geriatrics         :老年病学
+		1. mgeras           :   老的，old
 
 
 3. pedis                 :脚 foot
@@ -34,6 +37,7 @@ intern
 
 
 ## 5.dermatologist      : 皮肤科医生
+
 1. demos               :人，people
 	- demagogue      :煽动人群的人，政客
 		1. agogos     :         带领，指引 leading
@@ -50,6 +54,7 @@ intern
 
 
 ## 6.ophthalmologist    : 眼科医生
+
 1. ophthalmos       	:眼，eye
 	- ophthalmology 	:眼科学
 2. oculus               :眼，eye
@@ -68,20 +73,23 @@ intern
            
 
 ## 7. orthopedist       : 整形外科医生
-1. orthos              直，正确 straight，correct
-	- odontos           牙，tooth
+
+1. orthos             : 直，正确 straight，correct
 	- orthopedic      adj. 整形外科的 
 	- orthodontist    n. 牙齿矫正医师
+		1.Odontos           :牙，tooth
 
 ## 8.cardiologist       : 心脏病学家
-1. kardia              心，heart
-	- cardiology      心脏学
-	- cardiogram     心电图
-	- cardiograph    心电图机
+
+1. kardia              :心，heart
+	- cardiology      :心脏学
+	- cardiogram     :心电图
+	- cardiograph    :心电图机
 	
 
 
 ## 9.neurologist        : 神经病学家
+
 1. neuron            :神经，nerve
 	- neuralgia        :神经痛
 		1.algos            :   疼痛，pain
@@ -92,14 +100,11 @@ intern
 
 	
 ##10.psychiatrist 		: 精神病医生
+
 1. psyche            	: 精神 ，spirit
 	- psychosis        :n.精神病, 精神不正常
 		1. -osis         :病的，abnormal，diseased condition
 	- psychiatry        :精神病学
-2. iatreia :治疗
-	- pediatrics 
-	- geriatrics         :老年病学
-		1.geras           :   老的，old
 
 
 
