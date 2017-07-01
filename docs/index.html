@@ -140,14 +140,14 @@
                     <h3 class="modal-title" id="myModalLabel">Help</h3>
                 </div>
                 <div class="modal-body">
-                    <div>
-                        <h4>快捷键</h4>
+                    <div class="shortcuts">
+                        <h3>快捷键</h3>
                         <ul>
                             <li>
-                                1. 放大 I
+                                1. 放大<span>I</span>
                             </li>
                             <li>
-                                2. 缩小 O
+                                2. 缩小<span>O</span>
                             </li>
                         </ul>
                     </div>
@@ -166,8 +166,8 @@
         editable: false,
         support_html: true, // 是否支持节点里的HTML元素
         view: {
-            hmargin: 50, // 思维导图距容器外框的最小水平距离
-            vmargin: 50, // 思维导图距容器外框的最小垂直距离
+            hmargin: 100, // 思维导图距容器外框的最小水平距离
+            vmargin: 150, // 思维导图距容器外框的最小垂直距离
             line_width: 3, // 思维导图线条的粗细
             line_color: '#ffffff' // 思维导图线条的颜色
         },
@@ -176,10 +176,39 @@
             vspace: 30, // 节点之间的垂直间距
             pspace: 20 // 节点收缩/展开控制器的尺寸
         },
+        shortcut: {
+            enable: true, // 是否启用快捷键
+            handles: {
+                'zoomin': function(jm, e) {
+                    jm.view.zoomIn();
+                },
+                'zoomout': function(jm, e) {
+                    jm.view.zoomOut();
+                },
+                'collapse_all': function(jm, e) {
+                    jm.collapse_all();
+                },
+                'expand_all': function(jm, e) {
+                    jm.expand_all();
+                },
+            }, // 命名的快捷键事件处理器
+            mapping: { // 快捷键映射
+                toggle: 32, // <Space>
+                left: 37, // <Left>
+                up: 38, // <Up>
+                right: 39, // <Right>
+                down: 40, // <Down>
+                zoomin: 73, // i 
+                zoomout: 79, //o_jm.collapse_all();
+                collapse_all: 67, //c
+                expand_all: 69 //d
+
+            }
+        },
     };
     var jm = new jsMind(options);
     $(document).ready(function() {
-        open_ajax('How_to_talk_about_personality.json')
+        open_ajax('How_to_talk_about_personality.json');
     })
 
     var pop_options = {

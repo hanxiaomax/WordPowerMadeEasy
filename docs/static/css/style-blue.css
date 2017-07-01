@@ -32,6 +32,19 @@
     color: white;
 }
 
+.shortcuts {}
+
+.shortcuts span {
+    color: #4682b4;
+    margin-left: 15px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.shortcuts ul li {
+    font-size: 18px;
+}
+
 @import "http://designmodo.github.io/Flat-UI/dist/css/flat-ui.min.css";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
 @import "https://daneden.github.io/animate.css/animate.min.css";
