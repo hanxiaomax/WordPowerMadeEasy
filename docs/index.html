@@ -78,10 +78,10 @@
                         <a href="#">目录</a>
                     </li>
                     <li>
-                        <a href="#" onclick="jm.show(mind1);popsetup();">1. Talk About Personality</a>
+                        <a href="#" onclick="swtich_mind(mind1);">1. Talk About Personality</a>
                     </li>
                     <li>
-                        <a href="#" onclick="jm.show(mind2);popsetup();">2. Talk About Doctors</a>
+                        <a href="#" onclick="swtich_mind(mind2);">2. Talk About Doctors</a>
                     </li>
                     <li>
                         <a href="#" onclick="jm.show(mind3);popsetup();">3. Talk About Various Practitioners</a>
@@ -162,8 +162,19 @@
     <!-- 思维导图内容 -->
     <script type="text/javascript" src="static/js/mindmaps.js"></script>
     <script type="text/javascript">
-    function resize_jsmind() {
-        jm.resize();
+    window.g_current_mind = mind1
+
+    function swtich_mind(mind) {
+        // console.log(mind)
+        jm.show(mind);
+        popsetup();
+        g_current_mind = mind
+
+    }
+
+    function center_map() {
+        console.log('center')
+        jm.show(g_current_mind)
     }
     $(document).ready(function() {
         var trigger = $('.hamburger'),
@@ -173,9 +184,10 @@
         });
 
         function close_sidebar() {
+            console.log("close")
             trigger.removeClass('is-open');
             trigger.addClass('is-closed');
-            setTimeout(resize_jsmind, 500); //侧边栏关闭后，重新居中
+            setTimeout(center_map, 500); //侧边栏关闭后，重新居中
             isClosed = false;
         }
 

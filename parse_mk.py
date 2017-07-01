@@ -33,6 +33,8 @@ def _getTopic(p,line):
 	w = result.group('session')
 	if w[:2]=="- ":
 		w=w[2:]
+	w = "".join(w.split())
+	
 	topic = "<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning,w)
 	return topic
 
@@ -59,7 +61,7 @@ with open('How to talk about personality.md','r') as f:
 			data_l3 = {"id":"3"+'-'+str(index+1),
 						"parentid":_getParentID(3), 
 						"topic":_getTopic(l2,line), 
-						"expanded":False,
+						#"expanded":False,
 						"direction":"left"}
 			nodelist.append((3,index+1))
 			buf.append(data_l3)
@@ -69,7 +71,7 @@ with open('How to talk about personality.md','r') as f:
 			data_n = {"id":str(level)+'-'+str(index+1), 
 						"parentid":_getParentID(level), 
 						"topic":_getTopic(l3,line), 
-						"expanded":False,
+						#"expanded":False,
 						"direction":"left"}
 
 			nodelist.append((level,index+1))
