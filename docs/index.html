@@ -160,12 +160,46 @@
         </div>
     </div>
     <!-- 思维导图内容 -->
-    <script type="text/javascript" src="static/js/mindmaps.js"></script>
+    <!-- <script type="text/javascript" src="static/js/mindmaps.js"></script> -->
     <script type="text/javascript">
+    var options = {
+        container: 'jsmind_container',
+        theme: 'clouds',
+        editable: false,
+        support_html: true, // 是否支持节点里的HTML元素
+        view: {
+            hmargin: 50, // 思维导图距容器外框的最小水平距离
+            vmargin: 50, // 思维导图距容器外框的最小垂直距离
+            line_width: 3, // 思维导图线条的粗细
+            line_color: '#ffffff' // 思维导图线条的颜色
+        },
+        layout: {
+            hspace: 30, // 节点之间的水平间距
+            vspace: 30, // 节点之间的垂直间距
+            pspace: 20 // 节点收缩/展开控制器的尺寸
+        },
+    };
     $(document).ready(function() {
+        var jm = new jsMind(options);
         open_ajax('How_to_talk_about_personality.json')
     })
 
+    var pop_options = {
+        container: 'jmnodes',
+        trigger: 'hover',
+        placement: 'top',
+        title: '释义',
+        template: '<div class="popover" role="tooltip"><div class="arrow"></div><h3 class="popover-title pop-title"></h3><div class="popover-content pop-content"></div></div>'
+
+    };
+
+    //切换导图后重新设置 meta 数据和 popup
+    function popsetup() {
+        $('[data-toggle="popover"]').popover(pop_options)
+        $("#copyright").html("作者:\t" + jm.get_meta()['author'])
+        $("#version").html("版本:\t" + jm.get_meta()['version'])
+        $("#liscence").html("许可:\tMIT")
+    }
 
     function open_ajax(mind_url) {
         jsMind.util.ajax.get(mind_url, function(mind) {
