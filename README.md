@@ -1,5 +1,9 @@
 ## *Word Power Made Easy*
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
+<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
 ### 作者简介
 
 >Norman Lewis (28 June 1908–22 July 2003) was a prolific British writer best known for his travel writing. Though not widely known, "Norman Lewis is one of the best writers, not of any particular decade, but of our century", according to Graham Greene.
