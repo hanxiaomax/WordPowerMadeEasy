@@ -80,7 +80,7 @@ for md in _getMarkDownFile():
 				data_l3 = {"id":"3"+'-'+str(index+1),
 							"parentid":_getParentID(3), 
 							"topic":_getTopic(l2,line), 
-							#"expanded":False,
+							"expanded":False,
 							"direction":"left"}
 				nodelist.append((3,index+1))
 				buf.append(data_l3)
@@ -90,7 +90,7 @@ for md in _getMarkDownFile():
 				data_n = {"id":str(level)+'-'+str(index+1), 
 							"parentid":_getParentID(level), 
 							"topic":_getTopic(l3,line), 
-							#"expanded":False,
+							"expanded":False,
 							"direction":"left"}
 
 				nodelist.append((level,index+1))

@@ -20,6 +20,7 @@
         {
             "topic": "<div data-toggle='popover' data-content='内部  inside '>1.internus</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-5", 
             "parentid": "2-3"
         }, 
@@ -33,6 +34,7 @@
         {
             "topic": "<div data-toggle='popover' data-content='科学，研究 science，study'>1.logos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-9", 
             "parentid": "2-7"
         }, 
@@ -46,24 +48,28 @@
         {
             "topic": "<div data-toggle='popover' data-content='专家 expert'>1.ician</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-14", 
             "parentid": "2-12"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='助产士, 接生婆 midwife'>2.obstetrix</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-15", 
             "parentid": "2-12"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.产科学, 助产术'>obstetrics</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-16", 
             "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.产科的'>obstetric</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-17", 
             "parentid": "3-15"
         }, 
@@ -77,72 +83,84 @@
         {
             "topic": "<div data-toggle='popover' data-content='儿童 child'>1.paidos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-21", 
             "parentid": "2-19"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. [医]小儿科'>pediatrics</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-22", 
             "parentid": "3-21"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='教学法（这里的ped是 paido，child）'>pedagogy</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-23", 
             "parentid": "3-21"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='煽动人群的人，政客'>demagogue</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-24", 
             "parentid": "3-21"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1.agogos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-25", 
             "parentid": "4-24"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='人，people'>2.demos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-26", 
             "parentid": "4-24"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='治疗 medical healing'>2.iatreia</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-27", 
             "parentid": "2-19"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='老的，old'>1.mgeras</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-29", 
             "parentid": "4-24"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='脚 foot'>3.pedis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-32", 
             "parentid": "2-19"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='步行者 （这里的ped 是foot）'>pedestrian</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-33", 
             "parentid": "3-32"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='踏板\t'>pedal</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-34", 
             "parentid": "3-32"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='底座'>pedestal</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-35", 
             "parentid": "3-32"
         }, 
@@ -156,66 +174,77 @@
         {
             "topic": "<div data-toggle='popover' data-content='人，people'>1.demos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-41", 
             "parentid": "2-39"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='煽动人群的人，政客'>demagogue</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-42", 
             "parentid": "3-41"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1.agogos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-43", 
             "parentid": "4-42"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='皮肤，skin'>2.derma</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-45", 
             "parentid": "2-39"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.皮下注射的, 表皮的，n.皮下注射,皮下注射器'>hypodermic</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-46", 
             "parentid": "3-45"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='下面，under'>1.hypos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-47", 
             "parentid": "4-46"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='皮肤学'>dermatology</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-48", 
             "parentid": "3-45"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='表皮'>epidermis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-49", 
             "parentid": "3-45"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='剥皮师'>taxidermist</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-50", 
             "parentid": "3-45"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='厚皮动物，厚脸皮的人'>pachyderm</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-51", 
             "parentid": "3-45"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='皮炎'>dermatitis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-52", 
             "parentid": "3-45"
         }, 
@@ -229,54 +258,63 @@
         {
             "topic": "<div data-toggle='popover' data-content='眼，eye'>1.ophthalmos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-58", 
             "parentid": "2-56"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='眼科学'>ophthalmology</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-59", 
             "parentid": "3-58"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='眼，eye'>2.oculus</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-60", 
             "parentid": "2-56"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='独眼镜片'>monocle</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-61", 
             "parentid": "3-60"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='双眼望远镜'>binoculars</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-62", 
             "parentid": "3-60"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='二，two'>1.bi-</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-63", 
             "parentid": "4-62"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='眼科医生'>oculist</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-64", 
             "parentid": "3-60"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='注射 （针“眼”）'>inoculate</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-65", 
             "parentid": "3-60"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='视力，vision，sight'>3.opsis，optikos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-67", 
             "parentid": "2-56"
         }, 
@@ -290,12 +328,14 @@
         {
             "topic": "<div data-toggle='popover' data-content='直，正确 straight，correct'>1.orthos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-77", 
             "parentid": "2-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='牙，tooth'>1.Odontos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-80", 
             "parentid": "4-65"
         }, 
@@ -309,24 +349,28 @@
         {
             "topic": "<div data-toggle='popover' data-content='心，heart'>1.kardia</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-84", 
             "parentid": "2-82"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='心脏学'>cardiology</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-85", 
             "parentid": "3-84"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='心电图'>cardiogram</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-86", 
             "parentid": "3-84"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='心电图机'>cardiograph</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-87", 
             "parentid": "3-84"
         }, 
@@ -340,42 +384,49 @@
         {
             "topic": "<div data-toggle='popover' data-content='神经，nerve'>1.neuron</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-93", 
             "parentid": "2-91"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='神经痛'>neuralgia</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-94", 
             "parentid": "3-93"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='疼痛，pain'>1.algos</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-95", 
             "parentid": "4-94"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='神经炎，神经机能症'>neuritis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-96", 
             "parentid": "3-93"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='炎症，inflammation'>1.-itis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-97", 
             "parentid": "4-96"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='神经症'>neurosis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-98", 
             "parentid": "3-93"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1.-osis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-99", 
             "parentid": "4-98"
         }, 
@@ -389,24 +440,28 @@
         {
             "topic": "<div data-toggle='popover' data-content='精神 ，spirit'>1.psyche</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "3-105", 
             "parentid": "2-103"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.精神病, 精神不正常'>psychosis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-106", 
             "parentid": "3-105"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1.-osis</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "5-107", 
             "parentid": "4-106"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='精神病学'>psychiatry</div>", 
             "direction": "left", 
+            "expanded": false, 
             "id": "4-108", 
             "parentid": "3-105"
         }
