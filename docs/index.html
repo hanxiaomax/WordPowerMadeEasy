@@ -162,14 +162,15 @@
     <!-- 思维导图内容 -->
     <script type="text/javascript" src="static/js/mindmaps.js"></script>
     <script type="text/javascript">
-    window.g_current_mind = mind1
+    $(document).ready(function() {
+        open_ajax('How_to_talk_about_personality.json')
+    })
+
 
     function open_ajax(mind_url) {
         jsMind.util.ajax.get(mind_url, function(mind) {
-            cousole.log()
-            jm.show(mind);
             popsetup();
-            g_current_mind = mind
+            window.g_current_mind = mind
             _jm.show(mind);
         });
     }
