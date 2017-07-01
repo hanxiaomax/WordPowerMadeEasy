@@ -1,5 +1,10 @@
 ## *Word Power Made Easy*
 
+### 思维导图
+
+[MindMap](https://hanxiaomax.github.io/WordPowerMadeEasy/)
+
+### 文字笔记
 
 - 第一章：[How To Talk About Personality](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20personality.md)
 
