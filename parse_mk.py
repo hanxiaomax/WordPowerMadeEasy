@@ -85,7 +85,7 @@ for md in _getMarkDownFile():
 				nodelist.append((level,index+1))
 				buf.append(data_n)
 
-		output.write(json.dumps(buf, ensure_ascii=False))
+		output.write(json.dumps(buf, indent=4, sort_keys=False,ensure_ascii=False))
 
 	output.close()
 
