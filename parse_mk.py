@@ -51,7 +51,7 @@ for md in _getMarkDownFile():
         "version": "0.2"
     },
     #数据格式声明 
-    "format": "node_",
+    "format": "node_array",
     #数据内容 
     "data": buf
 	}
