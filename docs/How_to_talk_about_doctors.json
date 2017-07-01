@@ -1,323 +1,415 @@
-[
-    {
-        "topic": "How to talk about personality", 
-        "id": "root", 
-        "isroot": true
+{
+    "meta": {
+        "version": "0.2", 
+        "name": "How to talk about doctors", 
+        "author": "lingfeng_ai"
     }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='利己主义者'>1.egoist</div>", 
-        "direction": "left", 
-        "expanded": false, 
-        "id": "2-3", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='I,self'>1.ego</div>", 
-        "direction": "left", 
-        "id": "3-5", 
-        "parentid": "2-3"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='自我'>ego</div>", 
-        "direction": "left", 
-        "id": "4-6", 
-        "parentid": "3-5"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='自我为中心的'>egocentric</div>", 
-        "direction": "left", 
-        "id": "4-7", 
-        "parentid": "3-5"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='极端利己主义者, 极端自我主义者,自大狂'>egomaniac</div>", 
-        "direction": "left", 
-        "id": "4-8", 
-        "parentid": "3-5"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='极端利己的'>egomaniacal</div>", 
-        "direction": "left", 
-        "id": "4-9", 
-        "parentid": "3-5"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='自大的人'>2.egotist</div>", 
-        "direction": "left", 
-        "expanded": false, 
-        "id": "2-11", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='利他主义者'>3.altruist</div>", 
-        "direction": "left", 
-        "expanded": false, 
-        "id": "2-13", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='other'>1.alter</div>", 
-        "direction": "left", 
-        "id": "3-15", 
-        "parentid": "2-13"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='利他主义'>alism</div>", 
-        "direction": "left", 
-        "id": "4-16", 
-        "parentid": "3-15"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='利他主义的'>altruistic</div>", 
-        "direction": "left", 
-        "id": "4-17", 
-        "parentid": "3-15"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='other possible 替代物，skip one and take other 间隔，轮换'>alternate</div>", 
-        "direction": "left", 
-        "id": "4-18", 
-        "parentid": "3-15"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='other choice   替代物            '>alternative</div>", 
-        "direction": "left", 
-        "id": "4-19", 
-        "parentid": "3-15"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='a verbal dispute 争吵'>altercation</div>", 
-        "direction": "left", 
-        "id": "4-20", 
-        "parentid": "3-15"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='a change 改变'>alteration</div>", 
-        "direction": "left", 
-        "id": "4-21", 
-        "parentid": "3-15"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='另一个我'>alterego</div>", 
-        "direction": "left", 
-        "id": "4-22", 
-        "parentid": "3-15"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='内向的人'>4.introvert</div>", 
-        "direction": "left", 
-        "expanded": false, 
-        "id": "2-24", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='inward   向内'>1.intro-</div>", 
-        "direction": "left", 
-        "id": "3-26", 
-        "parentid": "2-24"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='来自拉丁语 verto=to turn'>2.vert-</div>", 
-        "direction": "left", 
-        "id": "3-27", 
-        "parentid": "2-24"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='外向的人'>5.extrovert</div>", 
-        "direction": "left", 
-        "expanded": false, 
-        "id": "2-29", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='outward 向外'>1.extro-</div>", 
-        "direction": "left", 
-        "id": "3-31", 
-        "parentid": "2-29"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='又内向又外向的普通人'>6.ambivert</div>", 
-        "direction": "right", 
-        "expanded": false, 
-        "id": "2-33", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='both       向两个方向'>1.ambi-</div>", 
-        "direction": "left", 
-        "id": "3-35", 
-        "parentid": "2-33"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='左右手共用的人，两面派的，灵巧的。'>ambidextrous</div>", 
-        "direction": "left", 
-        "id": "4-36", 
-        "parentid": "3-35"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='skillful'>1.Dexterous</div>", 
-        "direction": "left", 
-        "id": "5-37", 
-        "parentid": "4-36"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='skill'>2.Dexterity</div>", 
-        "direction": "left", 
-        "id": "5-38", 
-        "parentid": "4-36"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='拉丁语 右撇子（右手是熟练的手，所以是skill和skillful）  '>3.Dexter</div>", 
-        "direction": "left", 
-        "id": "5-39", 
-        "parentid": "4-36"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='拉丁语 左撇子，英语 threating，dangerous，evil,源自祖先们对左撇子的误解和猜测'>4.sinister</div>", 
-        "direction": "left", 
-        "id": "5-40", 
-        "parentid": "4-36"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='法语 左撇子，英语 clumsy 笨拙的, 粗鲁的,不善交际的。'>5.gauche</div>", 
-        "direction": "left", 
-        "id": "5-41", 
-        "parentid": "4-36"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。 '>6.droit</div>", 
-        "direction": "left", 
-        "id": "5-42", 
-        "parentid": "4-36"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='两手俱技巧独特'>ambidextrity</div>", 
-        "direction": "left", 
-        "id": "4-43", 
-        "parentid": "3-35"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='反人类'>7.misanthrope</div>", 
-        "direction": "right", 
-        "expanded": false, 
-        "id": "2-45", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='拉丁语 to hate'>1.misein</div>", 
-        "direction": "left", 
-        "id": "3-48", 
-        "parentid": "2-45"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='人类的  '>2.anthropes</div>", 
-        "direction": "left", 
-        "id": "3-49", 
-        "parentid": "2-45"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='人类学'>anthropology</div>", 
-        "direction": "left", 
-        "id": "4-50", 
-        "parentid": "3-49"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='人类学家'>anthropologist</div>", 
-        "direction": "left", 
-        "id": "4-51", 
-        "parentid": "3-49"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='慈善家'>philanthropist</div>", 
-        "direction": "left", 
-        "id": "4-52", 
-        "parentid": "3-49"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='爱'>1.phil-</div>", 
-        "direction": "left", 
-        "id": "5-53", 
-        "parentid": "4-52"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='费城 philos \"loving\" (see -phile) + adelphos \"brother\"'>Philadelphia:</div>", 
-        "direction": "left", 
-        "id": "6-54", 
-        "parentid": "5-53"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='反女人'>8.misogynist</div>", 
-        "direction": "right", 
-        "expanded": false, 
-        "id": "2-57", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='女人 woman'>1.gyne</div>", 
-        "direction": "left", 
-        "id": "3-59", 
-        "parentid": "2-57"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='妇科医生'>gynecologist</div>", 
-        "direction": "left", 
-        "id": "4-60", 
-        "parentid": "3-59"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='一夫多妻'>polygyny</div>", 
-        "direction": "left", 
-        "id": "4-61", 
-        "parentid": "3-59"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='man,来自拉丁语andros    '>2.andry</div>", 
-        "direction": "left", 
-        "id": "3-64", 
-        "parentid": "2-57"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='反婚姻    '>9.misogamist</div>", 
-        "direction": "right", 
-        "expanded": false, 
-        "id": "2-68", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='婚姻,marriage '>1.gamos</div>", 
-        "direction": "left", 
-        "id": "3-70", 
-        "parentid": "2-68"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='一夫一妻制'>monogamy</div>", 
-        "direction": "left", 
-        "id": "4-71", 
-        "parentid": "3-70"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='重婚罪 '>bigamy</div>", 
-        "direction": "left", 
-        "id": "4-72", 
-        "parentid": "3-70"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='一夫多妻或一妻多夫制'>polygamy</div>", 
-        "direction": "left", 
-        "id": "4-73", 
-        "parentid": "3-70"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='禁欲主义者'>10.ascetic</div>", 
-        "direction": "right", 
-        "expanded": false, 
-        "id": "2-75", 
-        "parentid": "root"
-    }, 
-    {
-        "topic": "<div data-toggle='popover' data-content='拉丁语，monk，hermit'>1.asketes</div>", 
-        "direction": "left", 
-        "id": "3-77", 
-        "parentid": "2-75"
-    }
-]
+    "data": [
+        {
+            "topic": "How to talk about personality", 
+            "id": "root", 
+            "isroot": true
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='内科医生'>1.internist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-3", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='内部  inside '>1.internus</div>", 
+            "direction": "left", 
+            "id": "3-5", 
+            "parentid": "2-3"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='妇科医生   '>2.gynecologist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-7", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='科学，研究 science，study'>1.logos</div>", 
+            "direction": "left", 
+            "id": "3-9", 
+            "parentid": "2-7"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='产科医生'>3.obstetrician</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-12", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='专家 expert'>1.ician</div>", 
+            "direction": "left", 
+            "id": "3-14", 
+            "parentid": "2-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='助产士, 接生婆 midwife'>2.obstetrix</div>", 
+            "direction": "left", 
+            "id": "3-15", 
+            "parentid": "2-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.产科学, 助产术'>obstetrics</div>", 
+            "direction": "left", 
+            "id": "4-16", 
+            "parentid": "3-15"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj.产科的'>obstetric</div>", 
+            "direction": "left", 
+            "id": "4-17", 
+            "parentid": "3-15"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='儿科医生'>4.pediatrician</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-19", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='儿童 child'>1.paidos</div>", 
+            "direction": "left", 
+            "id": "3-21", 
+            "parentid": "2-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [医]小儿科'>pediatrics</div>", 
+            "direction": "left", 
+            "id": "4-22", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='教学法（这里的ped是 paido，child）'>pedagogy</div>", 
+            "direction": "left", 
+            "id": "4-23", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='煽动人群的人，政客'>demagogue</div>", 
+            "direction": "left", 
+            "id": "4-24", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1.agogos</div>", 
+            "direction": "left", 
+            "id": "5-25", 
+            "parentid": "4-24"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='人，people'>2.demos</div>", 
+            "direction": "left", 
+            "id": "5-26", 
+            "parentid": "4-24"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='治疗 medical healing'>2.iatreia</div>", 
+            "direction": "left", 
+            "id": "3-27", 
+            "parentid": "2-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='老的，old'>1.mgeras</div>", 
+            "direction": "left", 
+            "id": "5-29", 
+            "parentid": "4-24"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='脚 foot'>3.pedis</div>", 
+            "direction": "left", 
+            "id": "3-32", 
+            "parentid": "2-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='步行者 （这里的ped 是foot）'>pedestrian</div>", 
+            "direction": "left", 
+            "id": "4-33", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='踏板\t'>pedal</div>", 
+            "direction": "left", 
+            "id": "4-34", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='底座'>pedestal</div>", 
+            "direction": "left", 
+            "id": "4-35", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='皮肤科医生'>5.dermatologist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-39", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='人，people'>1.demos</div>", 
+            "direction": "left", 
+            "id": "3-41", 
+            "parentid": "2-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='煽动人群的人，政客'>demagogue</div>", 
+            "direction": "left", 
+            "id": "4-42", 
+            "parentid": "3-41"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1.agogos</div>", 
+            "direction": "left", 
+            "id": "5-43", 
+            "parentid": "4-42"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='皮肤，skin'>2.derma</div>", 
+            "direction": "left", 
+            "id": "3-45", 
+            "parentid": "2-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj.皮下注射的, 表皮的，n.皮下注射,皮下注射器'>hypodermic</div>", 
+            "direction": "left", 
+            "id": "4-46", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='下面，under'>1.hypos</div>", 
+            "direction": "left", 
+            "id": "5-47", 
+            "parentid": "4-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='皮肤学'>dermatology</div>", 
+            "direction": "left", 
+            "id": "4-48", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='表皮'>epidermis</div>", 
+            "direction": "left", 
+            "id": "4-49", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='剥皮师'>taxidermist</div>", 
+            "direction": "left", 
+            "id": "4-50", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='厚皮动物，厚脸皮的人'>pachyderm</div>", 
+            "direction": "left", 
+            "id": "4-51", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='皮炎'>dermatitis</div>", 
+            "direction": "left", 
+            "id": "4-52", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='眼科医生'>6.ophthalmologist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-56", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='眼，eye'>1.ophthalmos</div>", 
+            "direction": "left", 
+            "id": "3-58", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='眼科学'>ophthalmology</div>", 
+            "direction": "left", 
+            "id": "4-59", 
+            "parentid": "3-58"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='眼，eye'>2.oculus</div>", 
+            "direction": "left", 
+            "id": "3-60", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='独眼镜片'>monocle</div>", 
+            "direction": "left", 
+            "id": "4-61", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='双眼望远镜'>binoculars</div>", 
+            "direction": "left", 
+            "id": "4-62", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='二，two'>1.bi-</div>", 
+            "direction": "left", 
+            "id": "5-63", 
+            "parentid": "4-62"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='眼科医生'>oculist</div>", 
+            "direction": "left", 
+            "id": "4-64", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='注射 （针“眼”）'>inoculate</div>", 
+            "direction": "left", 
+            "id": "4-65", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='视力，vision，sight'>3.opsis，optikos</div>", 
+            "direction": "left", 
+            "id": "3-67", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='整形外科医生'>7.orthopedist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-75", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='直，正确 straight，correct'>1.orthos</div>", 
+            "direction": "left", 
+            "id": "3-77", 
+            "parentid": "2-75"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='牙，tooth'>1.Odontos</div>", 
+            "direction": "left", 
+            "id": "5-80", 
+            "parentid": "4-65"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='心脏病学家'>8.cardiologist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-82", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='心，heart'>1.kardia</div>", 
+            "direction": "left", 
+            "id": "3-84", 
+            "parentid": "2-82"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='心脏学'>cardiology</div>", 
+            "direction": "left", 
+            "id": "4-85", 
+            "parentid": "3-84"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='心电图'>cardiogram</div>", 
+            "direction": "left", 
+            "id": "4-86", 
+            "parentid": "3-84"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='心电图机'>cardiograph</div>", 
+            "direction": "left", 
+            "id": "4-87", 
+            "parentid": "3-84"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='神经病学家'>9.neurologist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-91", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='神经，nerve'>1.neuron</div>", 
+            "direction": "left", 
+            "id": "3-93", 
+            "parentid": "2-91"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='神经痛'>neuralgia</div>", 
+            "direction": "left", 
+            "id": "4-94", 
+            "parentid": "3-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='疼痛，pain'>1.algos</div>", 
+            "direction": "left", 
+            "id": "5-95", 
+            "parentid": "4-94"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='神经炎，神经机能症'>neuritis</div>", 
+            "direction": "left", 
+            "id": "4-96", 
+            "parentid": "3-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='炎症，inflammation'>1.-itis</div>", 
+            "direction": "left", 
+            "id": "5-97", 
+            "parentid": "4-96"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='神经症'>neurosis</div>", 
+            "direction": "left", 
+            "id": "4-98", 
+            "parentid": "3-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1.-osis</div>", 
+            "direction": "left", 
+            "id": "5-99", 
+            "parentid": "4-98"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='精神病医生'>10.psychiatrist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-103", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='精神 ，spirit'>1.psyche</div>", 
+            "direction": "left", 
+            "id": "3-105", 
+            "parentid": "2-103"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.精神病, 精神不正常'>psychosis</div>", 
+            "direction": "left", 
+            "id": "4-106", 
+            "parentid": "3-105"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1.-osis</div>", 
+            "direction": "left", 
+            "id": "5-107", 
+            "parentid": "4-106"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='精神病学'>psychiatry</div>", 
+            "direction": "left", 
+            "id": "4-108", 
+            "parentid": "3-105"
+        }
+    ], 
+    "format": "node_tree"
+}

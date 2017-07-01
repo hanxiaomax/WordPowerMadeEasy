@@ -166,6 +166,7 @@
 
     function open_ajax(mind_url) {
         jsMind.util.ajax.get(mind_url, function(mind) {
+            cousole.log()
             jm.show(mind);
             popsetup();
             g_current_mind = mind

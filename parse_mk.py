@@ -4,18 +4,33 @@ import re
 import json
 import os
 
-l1=re.compile('## (?P<session>[\d]+.[\w]+)[\s]*:[\s]*(?P<meaning>.+)')
+l1=re.compile('## (?P<session>[\d]+.[\s]*[\w]+)[\s]*:[\s]*(?P<meaning>.+)')
 l2=re.compile('^(?P<session>(-|[\d]+.) .+)[\s]*:[\s]*(?P<meaning>.+)')
 l3=re.compile('(?P<tabs>\t+)(?P<session>(-|[\d].+) .+)[\s]*:[\s]*(?P<meaning>.+)')
 
 buf=[]
 nodelist=[]
 
+def  _getParentID(clevel):
+	temp = []
+	for (plevel,index) in nodelist:
+		if plevel == clevel-1:
+			temp.append((plevel,index))
+	return str(temp[-1][0])+"-"+str(temp[-1][1])
+
+def _getTopic(p,line):
+	result = re.match(p,line)
+	meaning = result.group('meaning')
+	w = result.group('session')
+	if w[:2]=="- ":
+		w=w[2:]
+	w = "".join(w.split())
+	
+	topic = "<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning,w)
+	return topic
 
 def _getMarkDownFile():
 	return [file for file in os.listdir(".") if ((os.path.splitext(file)[1]=='.md') and (file!="README.md"))]
-
-print _getMarkDownFile()
 
 
 for md in _getMarkDownFile():
@@ -26,31 +41,26 @@ for md in _getMarkDownFile():
 		for line in f.readlines():
 			if line.count("#")==2:
 				l2sum +=1
-		print l2sum
 
-	def  _getParentID(clevel):
-		temp = []
-		for (plevel,index) in nodelist:
-			if plevel == clevel-1:
-				temp.append((plevel,index))
-		return str(temp[-1][0])+"-"+str(temp[-1][1])
+	mind  = {
+    #元数据，定义思维导图的名称、作者、版本等信息 
+    "meta": {
+        "name": os.path.splitext(md)[0]	,
+        "author": "lingfeng_ai",
+        "version": "0.2"
+    },
+    #数据格式声明 
+    "format": "node_tree",
+    #数据内容 
+    "data": buf
+	}
 
-	def _getTopic(p,line):
-		result = re.match(p,line)
-		meaning = result.group('meaning')
-		w = result.group('session')
-		if w[:2]=="- ":
-			w=w[2:]
-		w = "".join(w.split())
-		
-		topic = "<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning,w)
-		return topic
-
-	with open('How to talk about personality.md','r') as f:
+	with open(input_file,'r') as f:
 		l2current=0
 		output=open(output_file,'w')
 
 		for index,line in enumerate(f.readlines()):
+			#print line
 			if line.count("#")==1:
 				root = {"id":"root", "isroot":True, "topic":line.replace('#','').strip()}
 				nodelist.append((1,index+1))
@@ -85,7 +95,7 @@ for md in _getMarkDownFile():
 				nodelist.append((level,index+1))
 				buf.append(data_n)
 
-		output.write(json.dumps(buf, indent=4, sort_keys=False,ensure_ascii=False))
+		output.write(json.dumps(mind, indent=4, sort_keys=False,ensure_ascii=False))
 
 	output.close()
 

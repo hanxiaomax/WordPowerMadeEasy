@@ -91,6 +91,7 @@ var mind13 = {
     }
 };
 
+
 var options = {
     container: 'jsmind_container',
     theme: 'clouds',
