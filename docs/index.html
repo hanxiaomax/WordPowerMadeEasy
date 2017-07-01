@@ -173,31 +173,29 @@
     }
 
     function center_map() {
-        console.log('center')
         jm.show(g_current_mind)
     }
     $(document).ready(function() {
         var trigger = $('.hamburger'),
-            isClosed = false;
+            isSideBarOpen = false;
         trigger.click(function() {
             hamburger_cross();
         });
 
         function close_sidebar() {
-            console.log("close")
             trigger.removeClass('is-open');
             trigger.addClass('is-closed');
             setTimeout(center_map, 500); //侧边栏关闭后，重新居中
-            isClosed = false;
+            isSideBarOpen = false;
         }
 
         function hamburger_cross() {
-            if (isClosed == true) {
+            if (isSideBarOpen == true) {
                 close_sidebar();
             } else {
                 trigger.removeClass('is-closed');
                 trigger.addClass('is-open');
-                isClosed = true;
+                isSideBarOpen = true;
             }
         }
         //点击hamburger 开关侧边栏
@@ -207,8 +205,11 @@
         });
         //点击导图关闭侧边栏
         $('[data-dismiss="offcanvas"]').click(function() {
-            $('#wrapper').removeClass('toggled');
-            close_sidebar();
+            if (isSideBarOpen) {
+                $('#wrapper').removeClass('toggled');
+                close_sidebar();
+            }
+
         });
     });
     </script>
