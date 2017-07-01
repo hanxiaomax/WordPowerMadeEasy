@@ -1,8 +1,12 @@
 ## *Word Power Made Easy*
 
+### 作者简介
+
+>Norman Lewis (28 June 1908–22 July 2003) was a prolific British writer best known for his travel writing. Though not widely known, "Norman Lewis is one of the best writers, not of any particular decade, but of our century", according to Graham Greene.
+
 ### 思维导图
 
-[MindMap](https://hanxiaomax.github.io/WordPowerMadeEasy/)
+- [MindMap](https://hanxiaomax.github.io/WordPowerMadeEasy/)
 
 ### 文字笔记
 
