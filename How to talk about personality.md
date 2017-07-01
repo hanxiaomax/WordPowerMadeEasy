@@ -1,4 +1,4 @@
-# How to talk about personality
+# How To Talk About Personality
 
 ## 1.egoist           	:	利己主义者
 

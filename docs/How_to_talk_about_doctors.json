@@ -6,7 +6,7 @@
     }, 
     "data": [
         {
-            "topic": "How to talk about personality", 
+            "topic": "How To Talk About Doctors", 
             "id": "root", 
             "isroot": true
         }, 
@@ -411,5 +411,5 @@
             "parentid": "3-105"
         }
     ], 
-    "format": "node_array"
+    "format": "node_"
 }

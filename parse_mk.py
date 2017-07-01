@@ -8,8 +8,7 @@ l1=re.compile('## (?P<session>[\d]+.[\s]*[\w]+)[\s]*:[\s]*(?P<meaning>.+)')
 l2=re.compile('^(?P<session>(-|[\d]+.) .+)[\s]*:[\s]*(?P<meaning>.+)')
 l3=re.compile('(?P<tabs>\t+)(?P<session>(-|[\d].+) .+)[\s]*:[\s]*(?P<meaning>.+)')
 
-buf=[]
-nodelist=[]
+
 
 def  _getParentID(clevel):
 	temp = []
@@ -34,6 +33,8 @@ def _getMarkDownFile():
 
 
 for md in _getMarkDownFile():
+	buf=[]
+	nodelist=[]
 	input_file = md
 	output_file = 'docs/'+os.path.splitext(md)[0].replace(' ','_')+'.json'
 	with open(input_file,'r') as f:
@@ -50,7 +51,7 @@ for md in _getMarkDownFile():
         "version": "0.2"
     },
     #数据格式声明 
-    "format": "node_array",
+    "format": "node_",
     #数据内容 
     "data": buf
 	}
