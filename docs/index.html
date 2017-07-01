@@ -179,8 +179,9 @@
             pspace: 20 // 节点收缩/展开控制器的尺寸
         },
     };
-
+    var _jm = null;
     $(document).ready(function() {
+        _jm = jsMind.show(options);
         open_ajax('How_to_talk_about_personality.json')
     })
 
@@ -205,6 +206,7 @@
         jsMind.util.ajax.get(mind_url, function(mind) {
             // popsetup();
             window.g_current_mind = mind
+
             _jm.show(mind);
         });
     }
