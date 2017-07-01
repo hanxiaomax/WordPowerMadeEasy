@@ -20,7 +20,7 @@ print _getMarkDownFile()
 
 for md in _getMarkDownFile():
 	input_file = md
-	output_file = os.path.splitext(md)[0]+'.json'
+	output_file = 'docs/'+os.path.splitext(md)[0].replace(' ','_')+'.json'
 	with open(input_file,'r') as f:
 		l2sum = 0
 		for line in f.readlines():

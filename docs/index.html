@@ -78,10 +78,10 @@
                         <a href="#">目录</a>
                     </li>
                     <li>
-                        <a href="#" onclick="swtich_mind(mind1);">1. Talk About Personality</a>
+                        <a href="#" onclick="open_ajax('How_to_talk_about_personality.json')">1. Talk About Personality</a>
                     </li>
                     <li>
-                        <a href="#" onclick="swtich_mind(mind2);">2. Talk About Doctors</a>
+                        <a href="#" onclick="open_ajax('How_to_talk_about_doctors.json')">2. Talk About Doctors</a>
                     </li>
                     <li>
                         <a href="#" onclick="jm.show(mind3);popsetup();">3. Talk About Various Practitioners</a>
@@ -164,12 +164,13 @@
     <script type="text/javascript">
     window.g_current_mind = mind1
 
-    function swtich_mind(mind) {
-        // console.log(mind)
-        jm.show(mind);
-        popsetup();
-        g_current_mind = mind
-
+    function open_ajax(mind_url) {
+        jsMind.util.ajax.get(mind_url, function(mind) {
+            jm.show(mind);
+            popsetup();
+            g_current_mind = mind
+            _jm.show(mind);
+        });
     }
 
     function center_map() {
