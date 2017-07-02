@@ -48,7 +48,7 @@ for md in _getMarkDownFile():
     "meta": {
         "name": os.path.splitext(md)[0]	,
         "author": "lingfeng_ai",
-        "version": "0.2"
+        "version": "1.0"
     },
     #数据格式声明 
     "format": "node_array",
