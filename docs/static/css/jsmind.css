@@ -53,9 +53,10 @@ jmnode {
     position: absolute;
     cursor: default;
     max-width: 400px;
-    white-space: nowrap;
+    /*white-space: nowrap;*/
     overflow: hidden;
     text-overflow: ellipsis;
+    cursor: help;
 }
 
 jmexpander {
