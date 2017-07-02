@@ -44,6 +44,7 @@ jmnodes {
     position: absolute;
     z-index: 2;
     background-color: rgba(0, 0, 0, 0);
+    min-width: 420px;
 }
 
 
@@ -54,8 +55,9 @@ jmnode {
     cursor: default;
     max-width: 400px;
     /*white-space: nowrap;*/
-    overflow: hidden;
+/*    overflow: hidden;
     text-overflow: ellipsis;
+*/
     cursor: help;
 }
 
