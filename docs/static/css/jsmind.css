@@ -55,7 +55,7 @@ jmnode {
     cursor: default;
     max-width: 400px;
     /*white-space: nowrap;*/
-/*    overflow: hidden;
+    /*    overflow: hidden;
     text-overflow: ellipsis;
 */
     cursor: help;
@@ -83,7 +83,7 @@ jmnode {
     padding: 10px;
     background-color: #fff;
     color: #333;
-    border-radius: 5px;
+    border-radius: 15px;
     box-shadow: 1px 1px 1px #666;
     font: 16px/1.125 Verdana, Arial, Helvetica, sans-serif;
 }
