@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
     <link rel="stylesheet" href="static/css/style-blue.css" />
+    <link rel="stylesheet" href="static/css/donate.css" />
     <link href="https://cdn.bootcss.com/octicons/4.4.0/font/octicons.css" rel="stylesheet">
     <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8"></script>
 </head>
@@ -115,6 +116,18 @@
                         </ul>
                     </li>
                 </ul>
+                <div class="container">
+                    <div class="row">
+                        <div id="DonateText" class="tr3"></div>
+                        <ul id="donateBox" class="list pos-f tr3">
+                            <li id="AliPay">AliPay</li>
+                            <li id="WeChat">WeChat</li>
+                        </ul>
+                        <div id="QRBox" class="pos-f left-100">
+                            <div id="MainBox"></div>
+                        </div>
+                    </div>
+                </div>
             </nav>
             <div id="page-content-wrapper">
                 <button type="button" class="hamburger is-closed animated fadeInLeft" data-toggle="offcanvas">
@@ -164,6 +177,7 @@
     <script type="text/javascript" src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="static/js/donate.js"></script>
     <script type="text/javascript">
     var options = {
         container: 'jsmind_container',
@@ -279,7 +293,7 @@
             }
 
         });
-        open_ajax('How_to_talk_about_personality.json');
+        // open_ajax('How_to_talk_about_personality.json');
     });
     </script>
 </body>
