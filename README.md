@@ -19,7 +19,7 @@
 
 - 第二章：[How To Talk About Doctors](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20doctors.md)
 
-- 第三章：[How To Talk About Various Practitioners]()
+- 第三章：[How To Talk About Various Practitioners](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20various%20practitioners.md)
 
 - 第四章：[How To Talk About Science And Scientists]()
 
