@@ -168,7 +168,19 @@
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="static/js/minimap.min.js"></script>
     <script type="text/javascript">
-    var previewBody = $('body').minimap();
+    var op = {
+        heightRatio: 0.16,
+        widthRatio: 0.15,
+        offsetHeightRatio: 0.73,
+        offsetWidthRatio: 0.035,
+        position: "right",
+        touch: true,
+        smoothScroll: true,
+        smoothScrollDelay: 200,
+        onPreviewChange: function(minimap, scale) {},
+        disableFind: false
+    }
+    var previewBody = $('body').minimap(op);
     var options = {
         container: 'jsmind_container',
         theme: 'clouds',
