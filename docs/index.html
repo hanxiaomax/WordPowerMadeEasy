@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
     <link rel="stylesheet" href="static/css/style-blue.css" />
+    <link rel="stylesheet" href="static/css/minimap.min.css" />
     <link href="https://cdn.bootcss.com/octicons/4.4.0/font/octicons.css" rel="stylesheet">
     <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8"></script>
 </head>
@@ -125,6 +126,7 @@
                 <button type="button" class="help is-closed animated fadeInLeft" data-toggle="modal" data-target="#Helpinfomodal">
                     <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span>
                 </button>
+                <button type="button" class="donate" data-toggle="modal" data-target="#donate">赞赏</button>
                 <div id="jsmind_container" data-dismiss="offcanvas"></div>
             </div>
         </div>
@@ -164,7 +166,9 @@
     <script type="text/javascript" src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="static/js/minimap.min.js"></script>
     <script type="text/javascript">
+    var previewBody = $('body').minimap();
     var options = {
         container: 'jsmind_container',
         theme: 'clouds',

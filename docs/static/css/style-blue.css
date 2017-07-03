@@ -317,6 +317,20 @@ html {
     right: 10px;
 }
 
+.donate {
+    background: transparent;
+    border: none;
+    display: block;
+    height: 32px;
+    margin-right: 12px;
+    position: fixed;
+    top: 20px;
+    z-index: 999;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.57);
+    right: 70px;
+}
+
 .hamburger {
     background: transparent;
     border: none;
