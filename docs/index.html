@@ -180,7 +180,7 @@
         onPreviewChange: function(minimap, scale) {},
         disableFind: false
     }
-    var previewBody = $('body').minimap(op);
+
     var options = {
         container: 'jsmind_container',
         theme: 'clouds',
@@ -296,6 +296,7 @@
 
         });
         open_ajax('How_to_talk_about_personality.json');
+        var previewBody = $('canvas').minimap(op);
     });
     </script>
 </body>
