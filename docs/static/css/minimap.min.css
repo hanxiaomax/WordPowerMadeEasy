@@ -26,6 +26,7 @@ SOFTWARE.
 .miniregion {
     position: fixed;
     cursor: pointer;
+    background: #000000;
 }
 
 .minimap {
@@ -37,7 +38,6 @@ SOFTWARE.
     z-index: 10001;
     background: 0 0;
     border: 2px solid silver;
-    border-radius: 10%;
     cursor: -webkit-grab;
     cursor: -moz-grab
 }
