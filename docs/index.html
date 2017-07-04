@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link type="text/css" rel="stylesheet" href="static/css/jsmind.css" />
     <link rel="stylesheet" href="static/css/style-blue.css" />
-    <link rel="stylesheet" href="static/css/minimap.min.css" />
     <link href="https://cdn.bootcss.com/octicons/4.4.0/font/octicons.css" rel="stylesheet">
     <script type="text/javascript" src="static/js/jsmind.js" charset="utf-8"></script>
 </head>
@@ -166,7 +165,6 @@
     <script type="text/javascript" src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="static/js/minimap.min.js"></script>
     <script type="text/javascript">
     var options = {
         container: 'jsmind_container',
@@ -283,24 +281,7 @@
 
         });
         open_ajax('How_to_talk_about_personality.json');
-        var op = {
-            heightRatio: 0.16,
-            widthRatio: 0.15,
-            offsetHeightRatio: 0.73,
-            offsetWidthRatio: 0.035,
-            position: "right",
-            touch: true,
-            smoothScroll: true,
-            smoothScrollDelay: 200,
-            onPreviewChange: function(minimap, scale) {},
-            disableFind: false
-        }
 
-        var previewBody = $('body').minimap(op);
-        $('jmnode').on('click', function() {
-            console.log('aa')
-            var previewBody = $('body').minimap(op);
-        })
     });
     </script>
 </body>
