@@ -125,7 +125,7 @@
                 <button type="button" class="help is-closed animated fadeInLeft" data-toggle="modal" data-target="#Helpinfomodal">
                     <span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span>
                 </button>
-                <button type="button" class="donate" data-toggle="modal" data-target="#donate">赞赏</button>
+                <button type="button" class="donate" data-toggle="modal" data-target="#donate">赞助</button>
                 <div id="jsmind_container" data-dismiss="offcanvas"></div>
             </div>
         </div>
@@ -162,6 +162,33 @@
             </div>
         </div>
     </div>
+    <div class="modal fade" tabindex="-1" role="dialog" id='donate' aria-labelledby="donate ">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header modal-header-style">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="gridSystemModalLabel">赞助</h4>
+                </div>
+                <div class="modal-body qrcode">
+                    <div class="row">
+                        <div class="col-md-6"><img src="static/imgs/WeChanQR.png"></div>
+                        <div class="col-md-6 "><img src="static/imgs/WeChanQR.png"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p>微信</p>
+                        </div>
+                        <div class="col-md-6 ">
+                            <p>支付宝</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
     <script type="text/javascript" src="https://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>

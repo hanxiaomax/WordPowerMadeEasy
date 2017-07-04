@@ -324,11 +324,23 @@ html {
     height: 32px;
     margin-right: 12px;
     position: fixed;
-    top: 20px;
+    top: 25px;
     z-index: 999;
-    font-size: 15px;
+    font-size: 20px;
     color: rgba(255, 255, 255, 0.57);
     right: 70px;
+}
+
+.qrcode {
+    text-align: center;
+}
+
+.qrcode img {
+    max-width: 250px;
+}
+
+.qrcode p {
+    margin-top: 10px;
 }
 
 .hamburger {
