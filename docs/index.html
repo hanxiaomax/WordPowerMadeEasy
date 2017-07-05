@@ -169,17 +169,42 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title" id="gridSystemModalLabel">赞助</h4>
                 </div>
-                <div class="modal-body qrcode">
+                <div class="modal-body">
                     <div class="row">
-                        <div class="col-md-6"><img src="static/imgs/WeChanQR.png"></div>
-                        <div class="col-md-6 "><img src="static/imgs/WeChanQR.png"></div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <p>微信</p>
+                        <div class="col-sm-12">
+                            如果您觉得有所收获，可以通过以下方式来支持我 ：）
+                            <ul>
+                                <li>
+                                    在知乎关注<a href="https://www.zhihu.com/people/lingfeng/">@Lingfeng Ai</a>
+                                </li>
+                                <li>
+                                    <a data-container="body" data-toggle="popover-qrcode" data-placement="left" data-content='<div class="modal-body qrcode">
+                                    <div class="row">
+                                        <div class="col-sm-6"><img src="static/imgs/WeChanQR.png"></div>
+                                        <div class="col-sm-6 "><img src="static/imgs/WeChanQR.png"></div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <p>微信</p>
+                                        </div>
+                                        <div class="col-sm-6 ">
+                                            <p>支付宝</p>
+                                        </div>
+                                    </div>
+                                </div>'>
+                                        打赏
+                                    </a> 小艾一根冰棒~
+                                </li>
+                                <li>
+                                    评论一下~
+                                </li>
+                            </ul>
                         </div>
-                        <div class="col-md-6 ">
-                            <p>支付宝</p>
+                        <div class="col-sm-12 comment">
+                            <!-- UY BEGIN -->
+                            <div id="uyan_frame"></div>
+                            <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1600462"></script>
+                            <!-- UY END -->
                         </div>
                     </div>
                 </div>
@@ -243,12 +268,20 @@
 
 
     var pop_options = {
+        html: true,
         container: 'body',
         trigger: 'hover',
         placement: 'top',
         title: '释义',
         template: '<div class="popover" role="tooltip"><div class="arrow"></div><h3 class="popover-title pop-title"></h3><div class="popover-content pop-content"></div></div>'
-
+    };
+    var qrcode_options = {
+        html: true,
+        container: 'body',
+        trigger: 'hover',
+        placement: 'right',
+        title: '赏你啦~',
+        template: '<div class="popover" role="tooltip"><div class="arrow"></div><h3 class="popover-title pop-title"></h3><div class="popover-content pop-content"></div></div>'
     };
 
     //切换导图后重新设置 meta 数据和 popup
@@ -308,6 +341,7 @@
 
         });
         open_ajax('How_to_talk_about_personality.json');
+        $('[data-toggle="popover-qrcode"]').popover(qrcode_options)
 
     });
     </script>
