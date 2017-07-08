@@ -1,14 +1,22 @@
 # How To Talk About Liars And Lying
 
 ## 1. A notorious liar                 :     臭名昭著的骗子
-
+notus              know         知道
+1.notoriety         n.臭名昭著, 恶名, 声名狼籍
+（改变音节可以改变语气，childlike是天真的，childish是幼稚的）
 ## 2. A consummate liar                :     说慌老手
+summus          heightest  最高点
+2.consummate  adj.圆满的, 完美的, 完全的 vt.完成, 使达到极点, 圆房
 
 ## 3. An incorrigible liar             :     积习难改的骗子
+in-                   negative prefix，intensify the root，in。否定前缀，加强词根，内部
+corrigo            to correct ，set straight   矫正
 
 ## 4. An inveterate liar               :     说谎成瘾的人
-
+vetus               old                     老
+senex              old                     老
 ## 5. A congenial liar                 :     天生的骗子
+genesis           birth，origin       出生，起源
 
 ## 6. A chronic liar                   :     常年说谎的骗子
 
@@ -21,17 +29,8 @@
 ## 10. A egregious liar                :     恶名昭彰的的说谎者
 
 
-notus              know         知道
-summus          heightest  最高点
-corrigo            to correct ，set straight   矫正
-vetus               old                     老
-senex              old                     老
-genesis           birth，origin       出生，起源
-logos               study，science  学科，研究
-in-                   negative prefix，intensify the root，in。否定前缀，加强词根，内部
-1.notoriety         n.臭名昭著, 恶名, 声名狼籍
-（改变音节可以改变语气，childlike是天真的，childish是幼稚的）
-2.consummate  adj.圆满的, 完美的, 完全的 vt.完成, 使达到极点, 圆房
+
+
 （summus 是最高点的意思，这也是sum的出处，另外 to consummate=bring it to the heightest porint）
 3.incorrigible adj.无药可救的, 积习难改的, 固执的（in-否定词缀+corrigible 矫正）
 4.inveteracy n. 根深蒂固, 积习, 慢性 （in-在内部+veter老+acy名词词缀。-ness，-acy，-ion都是名词词缀，-ate一般变成-ation）
