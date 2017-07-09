@@ -63,20 +63,20 @@
 
 ## 8. podiatrist            : 脚病医生
 
-- pous,podos      			:	脚，foot
-	1. podiatry           :		 足病学
-	2. octopus              :章鱼 （八个角）
-		- okto                 : 八，eight
-	3. platypus                 :鸭嘴兽（flat foot 平脚）
-		- platys               :平，flat
-	4. podium                :演讲台（放脚的地方）
-		-ium                  :地方，where
-	5. tripod              :三脚架
-		- tri-             :三，three
+1. pous,podos      			:	脚，foot
+	- podiatry           :		 足病学
+	- octopus              :章鱼 （八个角）
+		1. okto                 : 八，eight
+	- platypus                 :鸭嘴兽（flat foot 平脚）
+		1. platys               :平，flat
+	- podium                :演讲台（放脚的地方）
+		1. ium                  :地方，where
+	- tripod              :三脚架
+		1. tri-             :三，three
 
 ## 9. graphologist        :笔迹学家
 
-1.graphein                  	:写， to write
+1. graphein                  	:写， to write
 	- graphology              	:笔体学（尤用以推测书写者的性格）,笔迹相法,图表法
 	- calligraphy               :书法（美+写）
 		1.kallos  （calli-）   	 :美， beauty

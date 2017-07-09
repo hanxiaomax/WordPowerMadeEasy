@@ -326,63 +326,70 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='脚，foot'>pous,podos</div>", 
+            "topic": "<div data-toggle='popover' data-content='脚，foot'>1.pous,podos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-66", 
             "parentid": "2-64"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='足病学'>1.podiatry</div>", 
+            "topic": "<div data-toggle='popover' data-content='足病学'>podiatry</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-67", 
             "parentid": "3-66"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='章鱼 （八个角）'>2.octopus</div>", 
+            "topic": "<div data-toggle='popover' data-content='章鱼 （八个角）'>octopus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-68", 
             "parentid": "3-66"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='八，eight'>okto</div>", 
+            "topic": "<div data-toggle='popover' data-content='八，eight'>1.okto</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-69", 
             "parentid": "4-68"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='鸭嘴兽（flat foot 平脚）'>3.platypus</div>", 
+            "topic": "<div data-toggle='popover' data-content='鸭嘴兽（flat foot 平脚）'>platypus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-70", 
             "parentid": "3-66"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='平，flat'>platys</div>", 
+            "topic": "<div data-toggle='popover' data-content='平，flat'>1.platys</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-71", 
             "parentid": "4-70"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='演讲台（放脚的地方）'>4.podium</div>", 
+            "topic": "<div data-toggle='popover' data-content='演讲台（放脚的地方）'>podium</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-72", 
             "parentid": "3-66"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='三脚架'>5.tripod</div>", 
+            "topic": "<div data-toggle='popover' data-content='地方，where'>1.ium</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-73", 
+            "parentid": "4-72"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='三脚架'>tripod</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-74", 
             "parentid": "3-66"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='三，three'>tri-</div>", 
+            "topic": "<div data-toggle='popover' data-content='三，three'>1.tri-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-75", 
@@ -396,18 +403,25 @@
             "parentid": "root"
         }, 
         {
+            "topic": "<div data-toggle='popover' data-content='写， to write'>1.graphein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-79", 
+            "parentid": "2-77"
+        }, 
+        {
             "topic": "<div data-toggle='popover' data-content='笔体学（尤用以推测书写者的性格）,笔迹相法,图表法'>graphology</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-80", 
-            "parentid": "3-66"
+            "parentid": "3-79"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='书法（美+写）'>calligraphy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-81", 
-            "parentid": "3-66"
+            "parentid": "3-79"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='美， beauty'>1.kallos（calli-）</div>", 
@@ -428,7 +442,7 @@
             "direction": "left", 
             "expanded": false, 
             "id": "4-84", 
-            "parentid": "3-66"
+            "parentid": "3-79"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='丑， bad，harsh'>1.kakos（caco-）</div>", 
@@ -449,7 +463,7 @@
             "direction": "left", 
             "expanded": false, 
             "id": "4-87", 
-            "parentid": "3-66"
+            "parentid": "3-79"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='远，distance'>1.tele-</div>", 
@@ -463,7 +477,7 @@
             "direction": "left", 
             "expanded": false, 
             "id": "4-89", 
-            "parentid": "3-66"
+            "parentid": "3-79"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='光，light'>1.photos</div>", 
@@ -477,7 +491,7 @@
             "direction": "left", 
             "expanded": false, 
             "id": "4-91", 
-            "parentid": "3-66"
+            "parentid": "3-79"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='生命，life'>1.bio-</div>", 
@@ -491,7 +505,7 @@
             "direction": "left", 
             "expanded": false, 
             "id": "4-93", 
-            "parentid": "3-66"
+            "parentid": "3-79"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='心，heart'>1.kardia（cardi-）</div>", 

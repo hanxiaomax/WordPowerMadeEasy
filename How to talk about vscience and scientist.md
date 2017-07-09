@@ -23,6 +23,7 @@
 	- nautical                      :	海上的, 航海的, 船员的
 
 ## 3. geologist      :    地质学家
+
 1. ge（geo-）        :          土地 earth
 	- geology        :         地质学家（土地+学科）
 	- geometry       :         几何（土地+测量）
@@ -44,7 +45,7 @@
 
 ## 5. botanist        :     植物学家
 
-1. botane            :		植物plant
+1. botane            :		植物	plant
 
 ## 6. zoologist       :     动物学家
 
@@ -53,6 +54,7 @@
 	- zodiac          :               黄道带, 十二宫图（十二星座由动物组成）
 
 ## 7. entomologist    :  昆虫学家
+
 1. en-                     : 	内 in
 2. tome                    :	切断,切下 a cutting
 	- atom                 : 	原子（否+分割=当然认为原子不能再被分割了）
@@ -93,26 +95,16 @@
 
 
 ## 9. semanticist      :  语义学家
-semantic              :		语义学
+
+1. semantic              :		语义学
 
 ## 10. sociologist    :   社会学家
+
 1. socius                   :	陪伴，同伴 companion
 	- sociology             : 	社会学（陪伴，社会+学科）
 	- asocial               : 	反社会的，不合群的（反对+同伴，社会）
 
 
-
-
-
-kentron                 中心 center
-
-eccentric             古怪的, 反常的, 不同圆心的 （反+中心）
-
-
-biblion                   书 book
-
-bibliophile             n.爱书者, 藏书家(书+爱)
-bibliography         参考书目（书+写）
 
 
 

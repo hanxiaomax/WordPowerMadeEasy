@@ -1,0 +1,533 @@
+{
+    "meta": {
+        "version": "1.0", 
+        "name": "How to talk about vscience and scientist", 
+        "author": "lingfeng_ai"
+    }, 
+    "data": [
+        {
+            "topic": "How To Talk About Science And Scientist", 
+            "id": "root", 
+            "isroot": true
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='人类学家'>1.anthropologist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-4", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='人类 mankind'>1.anthropos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-6", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='人类学（人类+科学）'>anthropology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-7", 
+            "parentid": "3-6"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='科学，研究 science，study 文字 word'>2.logos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-8", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='天文学家'>2.astronomer</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-10", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='星星 star'>1.astron</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-12", 
+            "parentid": "2-10"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='天文学家（星星+秩序)'>astronomer</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-13", 
+            "parentid": "3-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='占星学（星星+科学）'>astrology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-14", 
+            "parentid": "3-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='宇航员（星星+水手）'>astronaut</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-15", 
+            "parentid": "3-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='宇航员（宇宙+水手）'>cosmonaut</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-16", 
+            "parentid": "3-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='宇宙 universe'>1.cos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-17", 
+            "parentid": "4-16"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='星号'>asterisk</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-18", 
+            "parentid": "3-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='灾难（反+星星=星星站在你的对立面，于是就有灾难）'>disaster</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-19", 
+            "parentid": "3-12"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='反 against'>1.dis-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-20", 
+            "parentid": "4-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='水手 sailor'>2.nautes</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-21", 
+            "parentid": "2-10"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='船 ship'>3.naus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-22", 
+            "parentid": "2-10"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='海上的, 航海的, 船员的'>nautical</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-23", 
+            "parentid": "3-22"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='地质学家'>3.geologist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-25", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='土地 earth'>1.ge（geo-）</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-27", 
+            "parentid": "2-25"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='地质学家（土地+学科）'>geology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-28", 
+            "parentid": "3-27"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='几何（土地+测量）'>geometry</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-29", 
+            "parentid": "3-27"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='地理（土地+画）'>geography</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-30", 
+            "parentid": "3-27"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='写 to write'>2.graphein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-31", 
+            "parentid": "2-25"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='生物学家'>4.biologist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-34", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='生命 life'>1.bios</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-36", 
+            "parentid": "2-34"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='生物学（生命+学科）'>biology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-37", 
+            "parentid": "3-36"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='传记（生命+写）'>biography</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-38", 
+            "parentid": "3-36"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='自传（自己+生命+写）'>autobiography</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-39", 
+            "parentid": "3-36"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='自动 self'>1.autos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-40", 
+            "parentid": "4-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='自治（自己+法律）'>autonomy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-41", 
+            "parentid": "5-40"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='法律，安排，秩序  law，arrangement，order'>nomos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-42", 
+            "parentid": "5-40"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='活组织检查'>biopsy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-43", 
+            "parentid": "3-36"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='验尸, 解剖'>1.autopsy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-44", 
+            "parentid": "4-43"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='植物学家'>5.botanist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-46", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='植物\tplant'>1.botane</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-48", 
+            "parentid": "2-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='动物学家'>6.zoologist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-50", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='动物学（动物+学科）'>zoology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-53", 
+            "parentid": "3-48"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='黄道带, 十二宫图（十二星座由动物组成）'>zodiac</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-54", 
+            "parentid": "3-48"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='昆虫学家'>7.entomologist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-56", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='内 in'>1.en-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-58", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='切断,切下 a cutting'>2.tome</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-59", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='原子（否+分割=当然认为原子不能再被分割了）'>atom</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-60", 
+            "parentid": "3-59"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='否定 not，negative'>1.a-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-61", 
+            "parentid": "4-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='解剖学（在...上+切割）'>anatomy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-63", 
+            "parentid": "3-59"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='上 up'>1.ana-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-64", 
+            "parentid": "4-63"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='一大本书，大部头'>tome</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-65", 
+            "parentid": "3-59"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='一分为二的（二+切=一分为二）'>dichotomous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-66", 
+            "parentid": "3-59"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='in two'>1.dicha-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-67", 
+            "parentid": "4-66"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='缩影'>epitome</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-68", 
+            "parentid": "3-59"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='在。。上 on upon'>1.epi-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-69", 
+            "parentid": "4-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='内 in'>3.in-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-71", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='切 cut'>4.sectus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-72", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='语言学者, 文献学者'>8.philologist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-76", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='爱 to love'>1.philein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-78", 
+            "parentid": "2-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='语言学，文字学（爱+文字）'>philology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-79", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='慈善（爱+人）'>philanthropy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-80", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='调戏妇女的人（这个我也不知道为什么是爱+男。。。）'>philander</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-81", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='春药'>philter</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-82", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.春药 adj.引起性欲的'>aphrodisiac</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-83", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='哲学（爱+智慧）'>philosophy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-84", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='智慧 wise'>1.sophos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-85", 
+            "parentid": "4-84"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='（美国）费城'>philidaphia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-86", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='兄弟 brother'>1.adelphos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-87", 
+            "parentid": "4-86"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='亲英派的人（英国的+爱）'>anglophile</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-88", 
+            "parentid": "3-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='英国的 english'>1.anglus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-89", 
+            "parentid": "4-88"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='文字，演讲 word，speech'>2.logos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-92", 
+            "parentid": "2-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='舌头 tongue'>3.lingua</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-93", 
+            "parentid": "2-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='语言学的'>linguistic</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-94", 
+            "parentid": "3-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='语义学家'>9.semanticist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-97", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='语义学'>1.semantic</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-99", 
+            "parentid": "2-97"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='社会学家'>10.sociologist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-101", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='陪伴，同伴 companion'>1.socius</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-103", 
+            "parentid": "2-101"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='社会学（陪伴，社会+学科）'>sociology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-104", 
+            "parentid": "3-103"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='反社会的，不合群的（反对+同伴，社会）'>asocial</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-105", 
+            "parentid": "3-103"
+        }
+    ], 
+    "format": "node_array"
+}
