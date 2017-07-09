@@ -18,7 +18,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='I,self'>1.ego</div>", 
+            "topic": "<div data-toggle='popover' data-content='I,self'>1. ego</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-5", 
@@ -67,7 +67,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='other'>1.alter</div>", 
+            "topic": "<div data-toggle='popover' data-content='other'>1. alter</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-15", 
@@ -95,7 +95,7 @@
             "parentid": "3-15"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='other choice   替代物            '>alternative</div>", 
+            "topic": "<div data-toggle='popover' data-content='other choice 替代物'>alternative</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-19", 
@@ -116,7 +116,7 @@
             "parentid": "3-15"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='另一个我'>alterego</div>", 
+            "topic": "<div data-toggle='popover' data-content='另一个我'>alter ego</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-22", 
@@ -130,14 +130,14 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='inward   向内'>1.intro-</div>", 
+            "topic": "<div data-toggle='popover' data-content='inward 向内'>1. intro-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-26", 
             "parentid": "2-24"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='来自拉丁语 verto=to turn'>2.vert-</div>", 
+            "topic": "<div data-toggle='popover' data-content='来自拉丁语 verto=to turn'>2. vert-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-27", 
@@ -151,7 +151,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='outward 向外'>1.extro-</div>", 
+            "topic": "<div data-toggle='popover' data-content='outward 向外'>1. extro-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-31", 
@@ -165,7 +165,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='both       向两个方向'>1.ambi-</div>", 
+            "topic": "<div data-toggle='popover' data-content='both 向两个方向'>1. ambi-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-35", 
@@ -179,42 +179,42 @@
             "parentid": "3-35"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='skillful'>1.Dexterous</div>", 
+            "topic": "<div data-toggle='popover' data-content='skillful'>1. Dexterous</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-37", 
             "parentid": "4-36"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='skill'>2.Dexterity</div>", 
+            "topic": "<div data-toggle='popover' data-content='skill'>2. Dexterity</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-38", 
             "parentid": "4-36"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='拉丁语 右撇子（右手是熟练的手，所以是skill和skillful）  '>3.Dexter</div>", 
+            "topic": "<div data-toggle='popover' data-content='拉丁语 右撇子（右手是熟练的手，所以是skill和skillful）'>3. Dexter</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-39", 
             "parentid": "4-36"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='拉丁语 左撇子，英语 threating，dangerous，evil,源自祖先们对左撇子的误解和猜测'>4.sinister</div>", 
+            "topic": "<div data-toggle='popover' data-content='拉丁语 左撇子，英语 threating，dangerous，evil,源自祖先们对左撇子的误解和猜测'>4. sinister</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-40", 
             "parentid": "4-36"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='法语 左撇子，英语 clumsy 笨拙的, 粗鲁的,不善交际的。'>5.gauche</div>", 
+            "topic": "<div data-toggle='popover' data-content='法语 左撇子，英语 clumsy 笨拙的, 粗鲁的,不善交际的。'>5. gauche</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-41", 
             "parentid": "4-36"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。 '>6.droit</div>", 
+            "topic": "<div data-toggle='popover' data-content='法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。'>6. droit</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-42", 
@@ -235,14 +235,14 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='拉丁语 to hate'>1.misein</div>", 
+            "topic": "<div data-toggle='popover' data-content='拉丁语 to hate'>1. misein</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-48", 
             "parentid": "2-45"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='人类的  '>2.anthropes</div>", 
+            "topic": "<div data-toggle='popover' data-content='人类的'>2. anthropes</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-49", 
@@ -270,7 +270,7 @@
             "parentid": "3-49"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='爱'>1.phil-</div>", 
+            "topic": "<div data-toggle='popover' data-content='爱'>1. phil-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-53", 
@@ -291,7 +291,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='女人 woman'>1.gyne</div>", 
+            "topic": "<div data-toggle='popover' data-content='女人 woman'>1. gyne</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-59", 
@@ -312,21 +312,21 @@
             "parentid": "3-59"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='man,来自拉丁语andros    '>2.andry</div>", 
+            "topic": "<div data-toggle='popover' data-content='man,来自拉丁语andros'>2. andry</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-64", 
             "parentid": "2-57"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='反婚姻    '>9.misogamist</div>", 
+            "topic": "<div data-toggle='popover' data-content='反婚姻'>9.misogamist</div>", 
             "direction": "right", 
             "expanded": false, 
             "id": "2-68", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='婚姻,marriage '>1.gamos</div>", 
+            "topic": "<div data-toggle='popover' data-content='婚姻,marriage'>1. gamos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-70", 
@@ -340,7 +340,7 @@
             "parentid": "3-70"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='重婚罪 '>bigamy</div>", 
+            "topic": "<div data-toggle='popover' data-content='重婚罪'>bigamy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-72", 
@@ -361,7 +361,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='拉丁语，monk，hermit'>1.asketes</div>", 
+            "topic": "<div data-toggle='popover' data-content='拉丁语，monk，hermit'>1. asketes</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-77", 

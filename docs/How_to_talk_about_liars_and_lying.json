@@ -11,14 +11,14 @@
             "isroot": true
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='臭名昭著的骗子'>1.Anotoriousliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='臭名昭著的骗子'>1. A notorious liar</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-3", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='know         知道'>1.notus</div>", 
+            "topic": "<div data-toggle='popover' data-content='know 知道'>1. notus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-5", 
@@ -32,14 +32,14 @@
             "parentid": "3-5"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='说慌老手'>2.Aconsummateliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='说慌老手'>2. A consummate liar</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-8", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='heightest  最高点'>1.summus</div>", 
+            "topic": "<div data-toggle='popover' data-content='heightest 最高点'>1. summus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-10", 
@@ -53,35 +53,35 @@
             "parentid": "3-10"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='积习难改的骗子'>3.Anincorrigibleliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='积习难改的骗子'>3. An incorrigible liar</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-13", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='negative prefix，intensify the root，in。否定前缀，加强词根，内部'>1.in-</div>", 
+            "topic": "<div data-toggle='popover' data-content='negative prefix，intensify the root，in。否定前缀，加强词根，内部'>1. in-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-15", 
             "parentid": "2-13"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='to correct ，set straight   矫正'>2.corrigo</div>", 
+            "topic": "<div data-toggle='popover' data-content='to correct ，set straight 矫正'>2. corrigo</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-16", 
             "parentid": "2-13"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='说谎成瘾的人'>4.Aninveterateliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='说谎成瘾的人'>4. An inveterate liar</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-18", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='old 老'>1.vetus</div>", 
+            "topic": "<div data-toggle='popover' data-content='old 老'>1. vetus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-20", 
@@ -95,21 +95,21 @@
             "parentid": "3-20"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='old 老'>2.senex</div>", 
+            "topic": "<div data-toggle='popover' data-content='old 老'>2. senex</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-22", 
             "parentid": "2-18"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='天生的骗子'>5.Acongenialliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='天生的骗子'>5. A congenial liar</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-25", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='birth，origin       出生，起源\t'>1.genesis</div>", 
+            "topic": "<div data-toggle='popover' data-content='birth，origin 出生，起源'>1. genesis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-27", 
@@ -144,14 +144,14 @@
             "parentid": "3-27"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='常年说谎的骗子'>6.Achronicliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='常年说谎的骗子'>6. A chronic liar</div>", 
             "direction": "right", 
             "expanded": false, 
             "id": "2-33", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='time                               '>1.chronos</div>", 
+            "topic": "<div data-toggle='popover' data-content='time'>1. chronos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-35", 
@@ -172,7 +172,7 @@
             "parentid": "3-35"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='negative prefix                   '>1.ana-，a-</div>", 
+            "topic": "<div data-toggle='popover' data-content='negative prefix'>1. ana-，a-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-38", 
@@ -214,7 +214,7 @@
             "parentid": "3-35"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='together，with（sym-为前缀在p前面时的respelling形式）'>1.syn-，sym-</div>", 
+            "topic": "<div data-toggle='popover' data-content='together，with（sym-为前缀在p前面时的respelling形式）'>1. syn-，sym-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-44", 
@@ -228,7 +228,7 @@
             "parentid": "5-44"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='disease，suffering，feeling'>1.pathos</div>", 
+            "topic": "<div data-toggle='popover' data-content='disease，suffering，feeling'>1. pathos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "7-46", 
@@ -249,7 +249,7 @@
             "parentid": "7-46"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='against'>1.anti-</div>", 
+            "topic": "<div data-toggle='popover' data-content='against'>1. anti-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "9-49", 
@@ -270,7 +270,7 @@
             "parentid": "7-46"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='in-（em-为前缀在p前面时的respelling形式）'>1.en-，em-</div>", 
+            "topic": "<div data-toggle='popover' data-content='in-（em-为前缀在p前面时的respelling形式）'>1. en-，em-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "9-52", 
@@ -291,49 +291,49 @@
             "parentid": "7-46"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='distance'>1.tele-</div>", 
+            "topic": "<div data-toggle='popover' data-content='distance'>1. tele-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "9-55", 
             "parentid": "8-54"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='verb prefix'>2.-ize</div>", 
+            "topic": "<div data-toggle='popover' data-content='verb prefix'>2. -ize</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-56", 
             "parentid": "4-43"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='病态撒谎者'>7.Apathologicalliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='病态撒谎者'>7. A pathological liar</div>", 
             "direction": "right", 
             "expanded": false, 
             "id": "2-58", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='无意的说谎者'>8.Anunconscionableliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='无意的说谎者'>8. An unconscionable liar</div>", 
             "direction": "right", 
             "expanded": false, 
             "id": "2-60", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='negative prefix'>1.un-</div>", 
+            "topic": "<div data-toggle='popover' data-content='negative prefix'>1. un-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-62", 
             "parentid": "2-60"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='together，with'>2.con-</div>", 
+            "topic": "<div data-toggle='popover' data-content='together，with'>2. con-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-63", 
             "parentid": "2-60"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='knowing'>3.sciens</div>", 
+            "topic": "<div data-toggle='popover' data-content='knowing'>3. sciens</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-64", 
@@ -354,7 +354,7 @@
             "parentid": "3-64"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='all'>1.omnis</div>", 
+            "topic": "<div data-toggle='popover' data-content='all'>1. omnis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-67", 
@@ -368,7 +368,7 @@
             "parentid": "3-64"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='before'>1.pre-</div>", 
+            "topic": "<div data-toggle='popover' data-content='before'>1. pre-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-70", 
@@ -382,28 +382,28 @@
             "parentid": "3-64"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='negative prefix'>1.ne-</div>", 
+            "topic": "<div data-toggle='popover' data-content='negative prefix'>1. ne-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-72", 
             "parentid": "4-71"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='油嘴滑舌的说谎者'>9.Aglibliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='油嘴滑舌的说谎者'>9. A glib liar</div>", 
             "direction": "right", 
             "expanded": false, 
             "id": "2-74", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='恶名昭彰的的说谎者'>10.Aegregiousliar</div>", 
+            "topic": "<div data-toggle='popover' data-content='恶名昭彰的的说谎者'>10. A egregious liar</div>", 
             "direction": "right", 
             "expanded": false, 
             "id": "2-76", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='herd，flock       兽群，人群  '>1.grex，gregis</div>", 
+            "topic": "<div data-toggle='popover' data-content='herd，flock 兽群，人群'>1. grex，gregis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-78", 
@@ -438,7 +438,7 @@
             "parentid": "3-78"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='to，toward（在g前面加该词根的时候就用ag-）'>1.ad-，ag-</div>", 
+            "topic": "<div data-toggle='popover' data-content='to，toward（在g前面加该词根的时候就用ag-）'>1. ad-，ag-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-83", 

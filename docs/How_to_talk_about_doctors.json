@@ -11,49 +11,49 @@
             "isroot": true
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='内科医生'>1.internist</div>", 
+            "topic": "<div data-toggle='popover' data-content='内科医生'>1. internist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-3", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='内部  inside '>1.internus</div>", 
+            "topic": "<div data-toggle='popover' data-content='内部 inside'>1. internus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-5", 
             "parentid": "2-3"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='妇科医生   '>2.gynecologist</div>", 
+            "topic": "<div data-toggle='popover' data-content='妇科医生'>2. gynecologist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-7", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='科学，研究 science，study'>1.logos</div>", 
+            "topic": "<div data-toggle='popover' data-content='科学，研究 science，study'>1. logos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-9", 
             "parentid": "2-7"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='产科医生'>3.obstetrician</div>", 
+            "topic": "<div data-toggle='popover' data-content='产科医生'>3. obstetrician</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "2-12", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='专家 expert'>1.ician</div>", 
+            "topic": "<div data-toggle='popover' data-content='专家 expert'>1. ician</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-14", 
             "parentid": "2-12"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='助产士, 接生婆 midwife'>2.obstetrix</div>", 
+            "topic": "<div data-toggle='popover' data-content='助产士, 接生婆 midwife'>2. obstetrix</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-15", 
@@ -81,7 +81,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='儿童 child'>1.paidos</div>", 
+            "topic": "<div data-toggle='popover' data-content='儿童 child'>1. paidos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-21", 
@@ -109,35 +109,35 @@
             "parentid": "3-21"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1.agogos</div>", 
+            "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1. agogos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-25", 
             "parentid": "4-24"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='人，people'>2.demos</div>", 
+            "topic": "<div data-toggle='popover' data-content='人，people'>2. demos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-26", 
             "parentid": "4-24"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='治疗 medical healing'>2.iatreia</div>", 
+            "topic": "<div data-toggle='popover' data-content='治疗 medical healing'>2. iatreia</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-27", 
             "parentid": "2-19"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='老的，old'>1.mgeras</div>", 
+            "topic": "<div data-toggle='popover' data-content='老的，old'>1. mgeras</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-29", 
             "parentid": "4-24"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='脚 foot'>3.pedis</div>", 
+            "topic": "<div data-toggle='popover' data-content='脚 foot'>3. pedis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-32", 
@@ -151,7 +151,7 @@
             "parentid": "3-32"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='踏板\t'>pedal</div>", 
+            "topic": "<div data-toggle='popover' data-content='踏板'>pedal</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-34", 
@@ -172,7 +172,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='人，people'>1.demos</div>", 
+            "topic": "<div data-toggle='popover' data-content='人，people'>1. demos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-41", 
@@ -186,14 +186,14 @@
             "parentid": "3-41"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1.agogos</div>", 
+            "topic": "<div data-toggle='popover' data-content='带领，指引 leading'>1. agogos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-43", 
             "parentid": "4-42"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='皮肤，skin'>2.derma</div>", 
+            "topic": "<div data-toggle='popover' data-content='皮肤，skin'>2. derma</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-45", 
@@ -207,7 +207,7 @@
             "parentid": "3-45"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='下面，under'>1.hypos</div>", 
+            "topic": "<div data-toggle='popover' data-content='下面，under'>1. hypos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-47", 
@@ -256,7 +256,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='眼，eye'>1.ophthalmos</div>", 
+            "topic": "<div data-toggle='popover' data-content='眼，eye'>1. ophthalmos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-58", 
@@ -270,7 +270,7 @@
             "parentid": "3-58"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='眼，eye'>2.oculus</div>", 
+            "topic": "<div data-toggle='popover' data-content='眼，eye'>2. oculus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-60", 
@@ -291,7 +291,7 @@
             "parentid": "3-60"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='二，two'>1.bi-</div>", 
+            "topic": "<div data-toggle='popover' data-content='二，two'>1. bi-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-63", 
@@ -312,21 +312,21 @@
             "parentid": "3-60"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='视力，vision，sight'>3.opsis，optikos</div>", 
+            "topic": "<div data-toggle='popover' data-content='视力，vision，sight'>3. opsis，optikos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-67", 
             "parentid": "2-56"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='整形外科医生'>7.orthopedist</div>", 
+            "topic": "<div data-toggle='popover' data-content='整形外科医生'>7. orthopedist</div>", 
             "direction": "right", 
             "expanded": false, 
             "id": "2-75", 
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='直，正确 straight，correct'>1.orthos</div>", 
+            "topic": "<div data-toggle='popover' data-content='直，正确 straight，correct'>1. orthos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-77", 
@@ -347,7 +347,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='心，heart'>1.kardia</div>", 
+            "topic": "<div data-toggle='popover' data-content='心，heart'>1. kardia</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-84", 
@@ -382,7 +382,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='神经，nerve'>1.neuron</div>", 
+            "topic": "<div data-toggle='popover' data-content='神经，nerve'>1. neuron</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-93", 
@@ -410,7 +410,7 @@
             "parentid": "3-93"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='炎症，inflammation'>1.-itis</div>", 
+            "topic": "<div data-toggle='popover' data-content='炎症，inflammation'>1. -itis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-97", 
@@ -424,7 +424,7 @@
             "parentid": "3-93"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1.-osis</div>", 
+            "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1. -osis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-99", 
@@ -438,7 +438,7 @@
             "parentid": "root"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='精神 ，spirit'>1.psyche</div>", 
+            "topic": "<div data-toggle='popover' data-content='精神 ，spirit'>1. psyche</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-105", 
@@ -452,7 +452,7 @@
             "parentid": "3-105"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1.-osis</div>", 
+            "topic": "<div data-toggle='popover' data-content='病的，abnormal，diseased condition'>1. -osis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-107", 

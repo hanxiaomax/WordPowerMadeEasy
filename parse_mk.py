@@ -24,8 +24,9 @@ def _getTopic(p,line):
 	w = result.group('session')
 	if w[:2]=="- ":
 		w=w[2:]
-	w = "".join(w.split())
 	
+	w = " ".join(w.split())
+	meaning  = " ".join(meaning.split())
 	topic = "<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning,w)
 	return topic
 
