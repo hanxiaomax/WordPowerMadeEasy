@@ -23,7 +23,7 @@
 
 - 第四章：[How To Talk About Science And Scientists]()
 
-- 第五章：[How To Talk About Liars And Lying]()
+- 第五章：[How To Talk About Liars And Lying](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20liars%20and%20lying.md)
 
 - 第六章：[How To Talk About Actions]()
 
