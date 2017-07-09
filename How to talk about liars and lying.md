@@ -43,7 +43,7 @@
 	- synchronize  				:		vt.使同步, 使同时发生 vi.同时发生（syn-同，一起+chronos时间）
 		1. syn-，sym-         	:		together，with（sym-为前缀在p前面时的respelling形式）
 			- sympathy    		:		n.同情, 同情心, 同感, 赞同, 慰问（sym-同+pathos感觉）
-				1. pathos                disease，suffering，feeling
+				1. pathos           :    disease，suffering，feeling
 					- pathology 	:   n. 病理学（path病+logos学科）
 					- antipathy    	:	n.憎恶, 反感, 不相容（anti-反对+pathos感觉=有反对的感觉）
 						1. anti-  	:   against

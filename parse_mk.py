@@ -15,7 +15,7 @@ def  _getParentID(clevel):
 	for (plevel,index) in nodelist:
 		if plevel == clevel-1:
 			temp.append((plevel,index))
-	print "temp",temp
+	# print "temp",temp
 	return str(temp[-1][0])+"-"+str(temp[-1][1])
 
 def _getTopic(p,line):
@@ -99,7 +99,7 @@ for md in _getMarkDownFile():
 					buf.append(data_n)
 			except Exception,e:
 				print level,line,e
-				#raise
+				raise
 		output.write(json.dumps(mind, indent=4, sort_keys=False,ensure_ascii=False))
 
 	output.close()

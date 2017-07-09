@@ -228,6 +228,76 @@
             "parentid": "5-44"
         }, 
         {
+            "topic": "<div data-toggle='popover' data-content='disease，suffering，feeling'>1.pathos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "7-46", 
+            "parentid": "6-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 病理学（path病+logos学科）'>pathology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "8-47", 
+            "parentid": "7-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.憎恶, 反感, 不相容（anti-反对+pathos感觉=有反对的感觉）'>antipathy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "8-48", 
+            "parentid": "7-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='against'>1.anti-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "9-49", 
+            "parentid": "8-48"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.冷漠（a-否定+pathos感觉=没有感觉）'>apathy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "8-50", 
+            "parentid": "7-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.移情作用, 共鸣, [心]神入（em-进入+pathos感觉）'>empathy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "8-51", 
+            "parentid": "7-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='in-（em-为前缀在p前面时的respelling形式）'>1.en-，em-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "9-52", 
+            "parentid": "8-51"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj.可怜的, 不足的, 感伤的, 悲哀的'>pathetic</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "8-53", 
+            "parentid": "7-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.心灵感应, 传心术（tele-远程+pathos 感觉）'>telepathy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "8-54", 
+            "parentid": "7-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='distance'>1.tele-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "9-55", 
+            "parentid": "8-54"
+        }, 
+        {
             "topic": "<div data-toggle='popover' data-content='verb prefix'>2.-ize</div>", 
             "direction": "left", 
             "expanded": false, 
