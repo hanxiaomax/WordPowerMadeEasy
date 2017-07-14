@@ -99,7 +99,7 @@ for md in _getMarkDownFile():
 					nodelist.append((level,index+1))
 					buf.append(data_n)
 			except Exception,e:
-				print level,line,e
+				print line,e
 				raise
 		output.write(json.dumps(mind, indent=4, sort_keys=False,ensure_ascii=False))
 
