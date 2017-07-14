@@ -21,7 +21,7 @@
 
 - 第三章：[How To Talk About Various Practitioners](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20various%20practitioners.md)
 
-- 第四章：[How To Talk About Science And Scientists]()
+- 第四章：[How To Talk About Science And Scientists](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20vscience%20and%20scientist.md)
 
 - 第五章：[How To Talk About Liars And Lying](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20liars%20and%20lying.md)
 
