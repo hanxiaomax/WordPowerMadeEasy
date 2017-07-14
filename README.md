@@ -25,7 +25,7 @@
 
 - 第五章：[How To Talk About Liars And Lying](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20liars%20and%20lying.md)
 
-- 第六章：[How To Talk About Actions]()
+- 第六章：[How To Talk About Actions](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20To%20Talk%20About%20Actions.md)
 
 - 第七章：[How To Talk About Various Speech Habits]()
 
