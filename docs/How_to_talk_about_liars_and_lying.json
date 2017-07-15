@@ -22,14 +22,14 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-5", 
-            "parentid": "2-3"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.臭名昭著, 恶名, 声名狼籍（改变音节可以改变语气，childlike是天真的，childish是幼稚的）'>notoriety</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-6", 
-            "parentid": "3-5"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='说慌老手'>2. A consummate liar</div>", 
@@ -43,14 +43,14 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-10", 
-            "parentid": "2-8"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.圆满的, 完美的, 完全的 vt.完成, 使达到极点, 圆房（summus 是最高点的意思，这也是sum的出处，另外 to consummate=bring it to the heightest porint）'>consummate</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-11", 
-            "parentid": "3-10"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='积习难改的骗子'>3. An incorrigible liar</div>", 
@@ -64,14 +64,14 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-15", 
-            "parentid": "2-13"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='to correct ，set straight 矫正'>2. corrigo</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-16", 
-            "parentid": "2-13"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='说谎成瘾的人'>4. An inveterate liar</div>", 
@@ -85,21 +85,21 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-20", 
-            "parentid": "2-18"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 根深蒂固, 积习, 慢性 （in-在内部+veter老+acy名词词缀。-ness，-acy，-ion都是名词词缀，-ate一般变成-ation）'>inveteracy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-21", 
-            "parentid": "3-20"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='old 老'>2. senex</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-22", 
-            "parentid": "2-18"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='天生的骗子'>5. A congenial liar</div>", 
@@ -113,35 +113,35 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-27", 
-            "parentid": "2-25"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.遗传学 genetic adj.遗传的 geneticist 遗传学家'>genetics</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-28", 
-            "parentid": "3-27"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='基因'>gene</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-29", 
-            "parentid": "3-27"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='系谱学家（注意和遗传学家的不同。有点类似天文学家和占星学家）'>genealogist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-30", 
-            "parentid": "3-27"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 起源, 发生 Genesis：《创世纪》（旧约圣经第一卷）'>genesis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-31", 
-            "parentid": "3-27"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='常年说谎的骗子'>6. A chronic liar</div>", 
@@ -155,154 +155,154 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-35", 
-            "parentid": "2-33"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.长期的, 慢性的, 惯常的'>chronic</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-36", 
-            "parentid": "3-35"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 不合潮流的人(物)，被置错时代或年代的事物（ana-反+chronos时间）'>anachronism</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-37", 
-            "parentid": "3-35"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='negative prefix'>1. ana-，a-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-38", 
-            "parentid": "4-37"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.按时间顺序的'>chronological</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-39", 
-            "parentid": "3-35"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.年代学,年表,（chronos时间+logos学科）'>chronology</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-40", 
-            "parentid": "3-35"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.精密时计（尤用于航海）, 经线仪,天文（时间+测量）'>chronometer</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-41", 
-            "parentid": "3-35"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 年代学者'>chronologist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-42", 
-            "parentid": "3-35"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='vt.使同步, 使同时发生 vi.同时发生（syn-同，一起+chronos时间）'>synchronize</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-43", 
-            "parentid": "3-35"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='together，with（sym-为前缀在p前面时的respelling形式）'>1. syn-，sym-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-44", 
-            "parentid": "4-43"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.同情, 同情心, 同感, 赞同, 慰问（sym-同+pathos感觉）'>sympathy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-45", 
-            "parentid": "5-44"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='disease，suffering，feeling'>1. pathos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "7-46", 
-            "parentid": "6-45"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 病理学（path病+logos学科）'>pathology</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-47", 
-            "parentid": "7-46"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.憎恶, 反感, 不相容（anti-反对+pathos感觉=有反对的感觉）'>antipathy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-48", 
-            "parentid": "7-46"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='against'>1. anti-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "9-49", 
-            "parentid": "8-48"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.冷漠（a-否定+pathos感觉=没有感觉）'>apathy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-50", 
-            "parentid": "7-46"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.移情作用, 共鸣, [心]神入（em-进入+pathos感觉）'>empathy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-51", 
-            "parentid": "7-46"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='in-（em-为前缀在p前面时的respelling形式）'>1. en-，em-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "9-52", 
-            "parentid": "8-51"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.可怜的, 不足的, 感伤的, 悲哀的'>pathetic</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-53", 
-            "parentid": "7-46"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.心灵感应, 传心术（tele-远程+pathos 感觉）'>telepathy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-54", 
-            "parentid": "7-46"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='distance'>1. tele-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "9-55", 
-            "parentid": "8-54"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='verb prefix'>2. -ize</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-56", 
-            "parentid": "4-43"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='病态撒谎者'>7. A pathological liar</div>", 
@@ -323,70 +323,70 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-62", 
-            "parentid": "2-60"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='together，with'>2. con-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-63", 
-            "parentid": "2-60"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='knowing'>3. sciens</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-64", 
-            "parentid": "2-60"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 不受良心控制（un-否定+con共同+scio知道+ion+able形容词+ility名词）'>unconscionability</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-65", 
-            "parentid": "3-64"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.全知的, 无所不知的（omni全+sciens知道）'>omniscient</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-66", 
-            "parentid": "3-64"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='all'>1. omnis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-67", 
-            "parentid": "4-66"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.预知的,有先见之明的（pre-提前+sciens知道）'>prescient</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-69", 
-            "parentid": "3-64"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='before'>1. pre-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-70", 
-            "parentid": "4-69"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 无知, [哲]不可知论'>nescience</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-71", 
-            "parentid": "3-64"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='negative prefix'>1. ne-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-72", 
-            "parentid": "4-71"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='油嘴滑舌的说谎者'>9. A glib liar</div>", 
@@ -407,42 +407,42 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-78", 
-            "parentid": "2-76"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 恶名昭彰的, 过份的, 非常的（e-出来+gregis群=坏的很出名）'>egregious</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-79", 
-            "parentid": "3-78"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='v.使集合, 聚集, 集合 adj.集体的（con-共同+gregis群）'>congregate</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-80", 
-            "parentid": "3-78"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.隔离, 种族隔离, 分离（se-分开+gregis群）'>segregation</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-81", 
-            "parentid": "3-78"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.合计的, 总的 n.总计, 进球总数, 集料 v.（使）聚集, 总计（ag-去+gregis人群=to come together）'>aggregate</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-82", 
-            "parentid": "3-78"
+            "parentid": "1-1"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='to，toward（在g前面加该词根的时候就用ag-）'>1. ad-，ag-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-83", 
-            "parentid": "4-82"
+            "parentid": "1-1"
         }
     ], 
     "format": "node_array"

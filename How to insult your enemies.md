@@ -15,7 +15,7 @@
 1. vir-                     :      man（male）男
 2. pater，patris            :      father
 	- patrimony             :      n. 遗产；祖传的财物（patris 父亲+ -mony ）
-	- patronymic            :      n. 源于父名的姓或名字（比如鲁滨逊Robinson这货，你猜他爸叫robin，八九不离十就才对了 patris 父亲+onyma 名字）
+	- patronymic            :      n. 源于父名的姓或名字（比如鲁滨逊Robinson这货，你猜他爸叫robin，八九不离十就对了 patris 父亲+onyma 名字）
 		1. onyma            :       name
 			- synonym       :        n. 同义词（syn- 一起，一同+onyma 名字）
 				1. syn-     :        with，together
