@@ -29,7 +29,7 @@
 
 - 第七章：[How To Talk About Various Speech Habits](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20various%20speech%20habits.md)
 
-- 第八章：[How To Insult Your Enemies]()
+- 第八章：[How To Insult Your Enemies](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20insult%20your%20enemies.md)
 
 - 第九章：[How To Flatter Your Friends]()
 
@@ -41,4 +41,32 @@
 
 
 
+### 如何参与
 
+1. fork本项目
+2. 编辑根目录下的markdown文档
+
+```
+# 标题（请勿修改）
+
+## 1. mainword      : meaning
+    1. root1        : meaning
+        - word1     : meaning
+            1. root1    : meaning  
+            2. root2    : meaning
+            .....
+    2. root2        : meaning
+    3. root3        : meaning
+    ...    
+```
+
+- mainword请勿修改
+- meaning为该单词或词缀的解释，将显示为tooltpis
+- root为词根词缀 （请用有序列表）
+- word为该词根派生词（请用无序列表）
+- `## 1. mainword中的空格为必须`
+
+
+您可以在文档的基础上继续向下联想或补充某个词根的派生词，markdown修改完成后，运行`python parse_mk.py`将其转换为json格式（可选操作），然后创建pull request
+
+3. 打赏本项目作者小艾一根鸡腿，并下达指令由小艾进行补充（滑稽）
