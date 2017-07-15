@@ -22,35 +22,35 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-5", 
-            "parentid": "1-1"
+            "parentid": "2-3"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='自我'>ego</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-6", 
-            "parentid": "1-1"
+            "parentid": "3-5"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='自我为中心的'>egocentric</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-7", 
-            "parentid": "1-1"
+            "parentid": "3-5"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='极端利己主义者, 极端自我主义者,自大狂'>egomaniac</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-8", 
-            "parentid": "1-1"
+            "parentid": "3-5"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='极端利己的'>egomaniacal</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-9", 
-            "parentid": "1-1"
+            "parentid": "3-5"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='自大的人'>2.egotist</div>", 
@@ -71,56 +71,56 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-15", 
-            "parentid": "1-1"
+            "parentid": "2-13"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='利他主义'>alism</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-16", 
-            "parentid": "1-1"
+            "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='利他主义的'>altruistic</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-17", 
-            "parentid": "1-1"
+            "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='other possible 替代物，skip one and take other 间隔，轮换'>alternate</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-18", 
-            "parentid": "1-1"
+            "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='other choice 替代物'>alternative</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-19", 
-            "parentid": "1-1"
+            "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='a verbal dispute 争吵'>altercation</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-20", 
-            "parentid": "1-1"
+            "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='a change 改变'>alteration</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-21", 
-            "parentid": "1-1"
+            "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='另一个我'>alter ego</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-22", 
-            "parentid": "1-1"
+            "parentid": "3-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='内向的人'>4.introvert</div>", 
@@ -134,14 +134,14 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-26", 
-            "parentid": "1-1"
+            "parentid": "2-24"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='来自拉丁语 verto=to turn'>2. vert-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-27", 
-            "parentid": "1-1"
+            "parentid": "2-24"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='外向的人'>5.extrovert</div>", 
@@ -155,7 +155,7 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-31", 
-            "parentid": "1-1"
+            "parentid": "2-29"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='又内向又外向的普通人'>6.ambivert</div>", 
@@ -169,63 +169,63 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-35", 
-            "parentid": "1-1"
+            "parentid": "2-33"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='左右手共用的人，两面派的，灵巧的。'>ambidextrous</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-36", 
-            "parentid": "1-1"
+            "parentid": "3-35"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='skillful'>1. Dexterous</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-37", 
-            "parentid": "1-1"
+            "parentid": "4-36"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='skill'>2. Dexterity</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-38", 
-            "parentid": "1-1"
+            "parentid": "4-36"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='拉丁语 右撇子（右手是熟练的手，所以是skill和skillful）'>3. Dexter</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-39", 
-            "parentid": "1-1"
+            "parentid": "4-36"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='拉丁语 左撇子，英语 threating，dangerous，evil,源自祖先们对左撇子的误解和猜测'>4. sinister</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-40", 
-            "parentid": "1-1"
+            "parentid": "4-36"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='法语 左撇子，英语 clumsy 笨拙的, 粗鲁的,不善交际的。'>5. gauche</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-41", 
-            "parentid": "1-1"
+            "parentid": "4-36"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='法语 右撇子 ，英语里面变成 adroit 灵巧的，精明的，干练的。'>6. droit</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-42", 
-            "parentid": "1-1"
+            "parentid": "4-36"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='两手俱技巧独特'>ambidextrity</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-43", 
-            "parentid": "1-1"
+            "parentid": "3-35"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='反人类'>7.misanthrope</div>", 
@@ -239,49 +239,49 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-48", 
-            "parentid": "1-1"
+            "parentid": "2-45"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='人类的'>2. anthropes</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-49", 
-            "parentid": "1-1"
+            "parentid": "2-45"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='人类学'>anthropology</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-50", 
-            "parentid": "1-1"
+            "parentid": "3-49"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='人类学家'>anthropologist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-51", 
-            "parentid": "1-1"
+            "parentid": "3-49"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='慈善家'>philanthropist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-52", 
-            "parentid": "1-1"
+            "parentid": "3-49"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='爱'>1. phil-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-53", 
-            "parentid": "1-1"
+            "parentid": "4-52"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='费城 philos \"loving\" (see -phile) + adelphos \"brother\"'>Philadelphia:</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-54", 
-            "parentid": "1-1"
+            "parentid": "5-53"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='反女人'>8.misogynist</div>", 
@@ -295,42 +295,42 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-59", 
-            "parentid": "1-1"
+            "parentid": "2-57"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='妇科医生'>gynecologist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-60", 
-            "parentid": "1-1"
+            "parentid": "3-59"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='一夫多妻'>polygyny</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-61", 
-            "parentid": "1-1"
+            "parentid": "3-59"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='单一'>1. mono-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-62", 
-            "parentid": "1-1"
+            "parentid": "4-61"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='多的'>2. polys-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-63", 
-            "parentid": "1-1"
+            "parentid": "4-61"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='man,来自拉丁语andros'>2. andry</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-64", 
-            "parentid": "1-1"
+            "parentid": "2-57"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='反婚姻'>9.misogamist</div>", 
@@ -344,28 +344,28 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-70", 
-            "parentid": "1-1"
+            "parentid": "2-68"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='一夫一妻制'>monogamy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-71", 
-            "parentid": "1-1"
+            "parentid": "3-70"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='重婚罪'>bigamy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-72", 
-            "parentid": "1-1"
+            "parentid": "3-70"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='一夫多妻或一妻多夫制'>polygamy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-73", 
-            "parentid": "1-1"
+            "parentid": "3-70"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='禁欲主义者'>10.ascetic</div>", 
@@ -379,7 +379,7 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-77", 
-            "parentid": "1-1"
+            "parentid": "2-75"
         }
     ], 
     "format": "node_array"

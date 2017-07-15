@@ -1,817 +1,953 @@
 {
     "meta": {
-        "version": "1.0",
-        "name": "How to insult your enemies",
+        "version": "1.0", 
+        "name": "How to insult your enemies", 
         "author": "lingfeng_ai"
-    },
-    "data": [{
-        "topic": "How To Insult Your Enemies",
-        "id": "root",
-        "isroot": true
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 严格执行纪律的人'>1. martinet</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "2-3",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 谄媚者；奉承者'>2. sycophant</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "2-4",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='fig'>1. sykon</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-5",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 谄媚；奉承；追随；拍马屁'>sycophancy</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-6",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='to show'>2. phanein</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-7",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 业余爱好者；半吊子'>3. dilettante</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "2-9",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='to delight 起初是褒义的'>1. dilettare</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-10",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 业余爱好者（需要装逼的同学请把最后一个e改为i，迅速拥有意大利范儿）'>dilettante</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-11",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 业余的艺术爱好；浅薄涉猎；浅涉文艺'>dilettantism</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-12",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.泼妇'>4. virago</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "2-14",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='man（male）男'>1. vir-</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-15",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='father'>2. pater，patris</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-16",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 遗产；祖传的财物（patris 父亲+ -mony ）'>patrimony</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-17",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 源于父名的姓或名字（比如鲁滨逊Robinson这货，你猜他爸叫robin，八九不离十就才对了 patris 父亲+onyma 名字）'>patronymic</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-18",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='name'>1. onyma</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-19",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 同义词（syn- 一起，一同+onyma 名字）'>synonym</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-20",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='with，together'>1. syn-</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "7-21",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.反义词（anti 反+onyma 名字）'>antonym</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-22",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='agains'>1. anti</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "7-23",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 同音异义词（homos 相同+onyma 名字）'>homonym</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-24",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 同音异形异义字（homos 相同+phone 声音）'>homophone</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-25",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='sound'>1. phone</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "7-26",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='same'>2. homos</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "7-27",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 父权；父系；父系后裔'>paternity</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-28",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 父亲的；得自父亲的；父亲般的（pater 父亲+al）'>paternal</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-29",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 家长；族长（pater 父亲+arch 管理）'>patriarch</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-30",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 杀父；杀父者；杀父罪（patris 父亲+cide 杀）'>patricide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-31",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='mother'>3. mater，matris</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-32",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 女家长；女统治者（matris 母亲+arch 管理）'>matriarch</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-33",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='to rule'>1. archein</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-34",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 母性，母道 adj. 产科的'>maternity</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-35",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 主妇；保姆；妇女'>matron</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-36",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 主妇似的；稳重的'>matronly</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-37",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='母校；校歌 （alma 灵魂+mater 母亲）'>alma mater</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-38",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='soul'>1. alma</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-39",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 结婚，婚礼；婚姻生活(matris 母亲 +mony）'>matrimony</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-40",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='of oneself'>4. sui</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-41",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='sister'>5. soror</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-42",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 妇女联谊会；女学生联谊会（soror 姐妹+ity）'>sorority</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-43",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='brother'>6. frater，fratris</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-44",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='vi. 友善；结有深交（frater 兄弟+ ize 使成为）'>fraternize</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-45",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 兄弟般的；友好的（frater 兄弟+ al）'>fraternal</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-46",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='human，people'>7. homo</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-47",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='king'>8. rex，regis</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-48",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 帝王的；王室的；豪华的（regis 王+al）'>regal</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-49",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 王国；王位；王权'>regality</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-50",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 标记；徽章；王权'>regalia</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-51",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='wife'>9. uxor</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-52",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 怕老婆的；溺爱妻子的 （uxor 妻子+ous）'>uxorious</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-53",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='husband'>10. maritus</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-54",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 婚姻的；夫妇间的 （maritus 丈夫+al）'>marital</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-55",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 私通的，婚外的，通奸的（extra 外+marital 婚姻）'>extramarital</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-56",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 婚前的（pre-前+marital 婚姻）'>premarital</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-57",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='baby'>11. infans，infantis</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-58",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='race，kind'>12. genos</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-59",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='killing'>13. cide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-60",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 弑母（matris 母亲+cide 杀）'>matricide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-61",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.自杀（sui-自己+cide杀）'>suicide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-62",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 杀害兄弟者或行为（fratri 兄弟+cide杀）'>fratricide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-63",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 杀害亲姐妹者或行为（soror 姐妹+cide杀）'>sororicide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-64",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 杀人；杀人犯（homo 人类+cide杀）'>homicide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-65",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 弑君；弑君者；弑君罪（regis 皇帝+cide杀）'>regicide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-66",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 种族灭绝（genos 种族+cide杀）'>genocide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-67",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 杀父母（罪）'>parricide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-68",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 杀虫剂（insect 昆虫+cide杀）'>insecticide</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-69",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.沙文主义者，盲目爱国者'>5. chauvinist</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "2-71",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.偏执狂'>6. monomaniac</div>",
-        "direction": "right",
-        "expanded": false,
-        "id": "2-73",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='one'>1. monos</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-74",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 一神教，一神论（mono- 一+theos 神+ism）'>monotheism</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-75",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='madness'>2. mania</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-76",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 偏执狂（mono-单一+mania 疯狂）'>monomania</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-77",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 偏执狂者；狂热者（mania+c 变成 人 形容词 maniacal）'>monomaniac</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-78",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 饮酒狂（dipsa 渴+mania 疯狂）'>dipsomania</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-79",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='thirst'>1. dipsa</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-80",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 盗窃癖（klepte 偷+mania 疯狂）'>kleptomania</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-81",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='thief'>1. klepte</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-82",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 放火狂；纵火癖（pyros 火+ mania 疯狂）'>pyromania</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-83",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='fire'>1. pyros</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-84",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='to set fire'>2. incendo，incensus</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-85",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 燃烧弹；纵火犯，放火者；煽动者'>incendiary</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-86",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='to burn'>3. ardo，arsus</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-87",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 纵火；纵火罪'>arson</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-88",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 夸大狂；狂妄自大(megus 大+mania 疯狂)'>megalomania</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-89",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 女色情狂；花痴（nymphe 姑娘+mania 疯狂）'>nymphomaniac</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-90",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='noun suffix “one who”'>1. -ac</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-91",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='bride'>2. nymphe</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-92",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.男色情狂（satyr 色狼+mania 疯狂）'>satyromania</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-93",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='satyr'>1. satyros</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-94",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. [心理] 男子色情狂'>satyriasis</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-95",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='morbid dread'>3. phobia</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-96",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 幽闭恐怖症（claustrum 封闭空间+phobia 病态害怕）'>claustrophobia</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-97",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='enclosed place'>1. claustrum</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-98",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 旷野恐怖 （agora 集市+phobia 病态害怕）'>agoraphobia</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-99",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='market place'>1. agora</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-100",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 恐高症，高处恐怖症 （akros 高+phobia 病态害怕）'>acrophobia</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-101",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='highest'>1. akros</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-102",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 高空恐惧症患者（phobia变成phobe 成为 人，形容词phobic）'>acrophobe</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-103",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 偶像破坏者；提倡打破旧习的人'>7. iconoclast</div>",
-        "direction": "right",
-        "expanded": false,
-        "id": "2-105",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='religious image'>1. eikon</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-106",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='to break'>2. klaein</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-107",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 打破旧习；破坏偶像主义（eikon 偶像+klaein 打破+ism）'>iconoclasm</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-108",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.无神论者'>8. atheist</div>",
-        "direction": "right",
-        "expanded": false,
-        "id": "2-110",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='否定'>1. a-</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-111",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.无神论 （a- 否定+theos 神+ism）'>atheism</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-112",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. /adj.不可知论者/的 (a- 否定+gnostos 知道+ic)'>agnostic</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-113",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='know'>1. gnostos</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-114",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 诊断（dia- 通过+gonstos 知道）'>diagnosis</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-115",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='through'>1. dia-</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "7-116",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 透明的；精致的；模糊的'>diaphanous</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "8-117",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 诊断专家；诊断医生（diagnosis 诊断+cian 专家）'>diagnostician</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-118",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. [医] 预后；预知（pro-先+gnostos 知道）'>prognosis</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-119",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='before'>1. pro-</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "7-120",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='God'>2. theos</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-121",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 多神论；多神教（poly- 多+theos 神+ism）'>polytheism</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-122",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='one'>1. monos</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-123",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='many'>2. polys</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-124",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='all'>3. pan</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "5-125",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 泛神论；多神教（pan- 全+theos 神+ism）'>pantheism</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "6-126",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 神学；宗教体系(theos 神+logy 学科，研究）'>theology</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-127",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.色狼'>9. lecher</div>",
-        "direction": "right",
-        "expanded": false,
-        "id": "2-130",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='to lick 舔'>1. lechier</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-131",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 好色；淫荡（来自法语lechier 舔）'>lechery</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-132",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 性欲的；好色的；淫荡的（来自 libido 快乐，性欲）'>libidinous</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-133",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 好色的；淫荡的；挑动情欲的'>lascivious</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-134",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 光滑的；淫荡的；不稳定的'>lubricious</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-135",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 淫荡的；猥亵的；下流的'>lewd</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-136",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 好色的；贪欲的；渴望的'>lustful</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-137",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='adj. 好色的；淫乱的；渴望的（prurop 痒痒）'>prurient</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-138",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n.臆想狂'>10.hypochondriac</div>",
-        "direction": "right",
-        "expanded": false,
-        "id": "2-140",
-        "parentid": "root"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='under'>1. hypos</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-141",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 忧郁症；臆想病'>hypochondria</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-142",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 低血压，血压过低（hypos 低+tension 紧张，压力，张力）'>hypotension</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-143",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='over'>2. hyper</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "3-144",
-        "parentid": "1-1"
-    }, {
-        "topic": "<div data-toggle='popover' data-content='n. 高血压；过度紧张 （hyper 高+tension 紧张，压力，张力）'>hypertension</div>",
-        "direction": "left",
-        "expanded": false,
-        "id": "4-145",
-        "parentid": "1-1"
-    }],
+    }, 
+    "data": [
+        {
+            "topic": "How To Insult Your Enemies", 
+            "id": "root", 
+            "isroot": true
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 严格执行纪律的人'>1. martinet</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-3", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 谄媚者；奉承者'>2. sycophant</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-4", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='fig'>1. sykon</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-5", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 谄媚；奉承；追随；拍马屁'>sycophancy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-6", 
+            "parentid": "3-5"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to show'>2. phanein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-7", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 业余爱好者；半吊子'>3. dilettante</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-9", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to delight 起初是褒义的'>1. dilettare</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-10", 
+            "parentid": "2-9"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 业余爱好者（需要装逼的同学请把最后一个e改为i，迅速拥有意大利范儿）'>dilettante</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-11", 
+            "parentid": "3-10"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 业余的艺术爱好；浅薄涉猎；浅涉文艺'>dilettantism</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-12", 
+            "parentid": "3-10"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.泼妇'>4. virago</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-14", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='man（male）男'>1. vir-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-15", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='father'>2. pater，patris</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-16", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 遗产；祖传的财物（patris 父亲+ -mony ）'>patrimony</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-17", 
+            "parentid": "3-16"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 源于父名的姓或名字（比如鲁滨逊Robinson这货，你猜他爸叫robin，八九不离十就对了 patris 父亲+onyma 名字）'>patronymic</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-18", 
+            "parentid": "3-16"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='name'>1. onyma</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-19", 
+            "parentid": "4-18"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 同义词（syn- 一起，一同+onyma 名字）'>synonym</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-20", 
+            "parentid": "5-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='with，together'>1. syn-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "7-21", 
+            "parentid": "6-20"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.反义词（anti 反+onyma 名字）'>antonym</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-22", 
+            "parentid": "5-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='agains'>1. anti</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "7-23", 
+            "parentid": "6-22"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 同音异义词（homos 相同+onyma 名字）'>homonym</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-24", 
+            "parentid": "5-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 同音异形异义字（homos 相同+phone 声音）'>homophone</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-25", 
+            "parentid": "5-19"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='sound'>1. phone</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "7-26", 
+            "parentid": "6-25"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='same'>2. homos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "7-27", 
+            "parentid": "6-25"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 父权；父系；父系后裔'>paternity</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-28", 
+            "parentid": "3-16"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 父亲的；得自父亲的；父亲般的（pater 父亲+al）'>paternal</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-29", 
+            "parentid": "3-16"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 家长；族长（pater 父亲+arch 管理）'>patriarch</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-30", 
+            "parentid": "3-16"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 杀父；杀父者；杀父罪（patris 父亲+cide 杀）'>patricide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-31", 
+            "parentid": "3-16"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='mother'>3. mater，matris</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-32", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 女家长；女统治者（matris 母亲+arch 管理）'>matriarch</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-33", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to rule'>1. archein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-34", 
+            "parentid": "4-33"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 母性，母道 adj. 产科的'>maternity</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-35", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 主妇；保姆；妇女'>matron</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-36", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 主妇似的；稳重的'>matronly</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-37", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='母校；校歌 （alma 灵魂+mater 母亲）'>alma mater</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-38", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='soul'>1. alma</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-39", 
+            "parentid": "4-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 结婚，婚礼；婚姻生活(matris 母亲 +mony）'>matrimony</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-40", 
+            "parentid": "3-32"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='of oneself'>4. sui</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-41", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='sister'>5. soror</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-42", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 妇女联谊会；女学生联谊会（soror 姐妹+ity）'>sorority</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-43", 
+            "parentid": "3-42"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='brother'>6. frater，fratris</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-44", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='vi. 友善；结有深交（frater 兄弟+ ize 使成为）'>fraternize</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-45", 
+            "parentid": "3-44"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 兄弟般的；友好的（frater 兄弟+ al）'>fraternal</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-46", 
+            "parentid": "3-44"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='human，people'>7. homo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-47", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='king'>8. rex，regis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-48", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 帝王的；王室的；豪华的（regis 王+al）'>regal</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-49", 
+            "parentid": "3-48"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 王国；王位；王权'>regality</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-50", 
+            "parentid": "3-48"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 标记；徽章；王权'>regalia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-51", 
+            "parentid": "3-48"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='wife'>9. uxor</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-52", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 怕老婆的；溺爱妻子的 （uxor 妻子+ous）'>uxorious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-53", 
+            "parentid": "3-52"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='husband'>10. maritus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-54", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 婚姻的；夫妇间的 （maritus 丈夫+al）'>marital</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-55", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 私通的，婚外的，通奸的（extra 外+marital 婚姻）'>extramarital</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-56", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 婚前的（pre-前+marital 婚姻）'>premarital</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-57", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='baby'>11. infans，infantis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-58", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='race，kind'>12. genos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-59", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='killing'>13. cide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-60", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 弑母（matris 母亲+cide 杀）'>matricide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-61", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.自杀（sui-自己+cide杀）'>suicide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-62", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 杀害兄弟者或行为（fratri 兄弟+cide杀）'>fratricide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-63", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 杀害亲姐妹者或行为（soror 姐妹+cide杀）'>sororicide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-64", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 杀人；杀人犯（homo 人类+cide杀）'>homicide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-65", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 弑君；弑君者；弑君罪（regis 皇帝+cide杀）'>regicide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-66", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 种族灭绝（genos 种族+cide杀）'>genocide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-67", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 杀父母（罪）'>parricide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-68", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 杀虫剂（insect 昆虫+cide杀）'>insecticide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-69", 
+            "parentid": "3-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.沙文主义者，盲目爱国者'>5. chauvinist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-71", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.偏执狂'>6. monomaniac</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-73", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='one'>1. monos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-74", 
+            "parentid": "2-73"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 一神教，一神论（mono- 一+theos 神+ism）'>monotheism</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-75", 
+            "parentid": "3-74"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='madness'>2. mania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-76", 
+            "parentid": "2-73"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 偏执狂（mono-单一+mania 疯狂）'>monomania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-77", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 偏执狂者；狂热者（mania+c 变成 人 形容词 maniacal）'>monomaniac</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-78", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 饮酒狂（dipsa 渴+mania 疯狂）'>dipsomania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-79", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='thirst'>1. dipsa</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-80", 
+            "parentid": "4-79"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 盗窃癖（klepte 偷+mania 疯狂）'>kleptomania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-81", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='thief'>1. klepte</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-82", 
+            "parentid": "4-81"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 放火狂；纵火癖（pyros 火+ mania 疯狂）'>pyromania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-83", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='fire'>1. pyros</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-84", 
+            "parentid": "4-83"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to set fire'>2. incendo，incensus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-85", 
+            "parentid": "4-83"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 燃烧弹；纵火犯，放火者；煽动者'>incendiary</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-86", 
+            "parentid": "5-85"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to burn'>3. ardo，arsus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-87", 
+            "parentid": "4-83"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 纵火；纵火罪'>arson</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-88", 
+            "parentid": "5-87"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 夸大狂；狂妄自大(megus 大+mania 疯狂)'>megalomania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-89", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 女色情狂；花痴（nymphe 姑娘+mania 疯狂）'>nymphomaniac</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-90", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='noun suffix “one who”'>1. -ac</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-91", 
+            "parentid": "4-90"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='bride'>2. nymphe</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-92", 
+            "parentid": "4-90"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.男色情狂（satyr 色狼+mania 疯狂）'>satyromania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-93", 
+            "parentid": "3-76"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='satyr'>1. satyros</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-94", 
+            "parentid": "4-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [心理] 男子色情狂'>satyriasis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-95", 
+            "parentid": "5-94"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='morbid dread'>3. phobia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-96", 
+            "parentid": "2-73"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 幽闭恐怖症（claustrum 封闭空间+phobia 病态害怕）'>claustrophobia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-97", 
+            "parentid": "3-96"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='enclosed place'>1. claustrum</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-98", 
+            "parentid": "4-97"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 旷野恐怖 （agora 集市+phobia 病态害怕）'>agoraphobia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-99", 
+            "parentid": "3-96"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='market place'>1. agora</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-100", 
+            "parentid": "4-99"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 恐高症，高处恐怖症 （akros 高+phobia 病态害怕）'>acrophobia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-101", 
+            "parentid": "3-96"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='highest'>1. akros</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-102", 
+            "parentid": "4-101"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 高空恐惧症患者（phobia变成phobe 成为 人，形容词phobic）'>acrophobe</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-103", 
+            "parentid": "3-96"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 偶像破坏者；提倡打破旧习的人'>7. iconoclast</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-105", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='religious image'>1. eikon</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-106", 
+            "parentid": "2-105"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to break'>2. klaein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-107", 
+            "parentid": "2-105"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 打破旧习；破坏偶像主义（eikon 偶像+klaein 打破+ism）'>iconoclasm</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-108", 
+            "parentid": "3-107"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.无神论者'>8. atheist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-110", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='否定'>1. a-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-111", 
+            "parentid": "2-110"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.无神论 （a- 否定+theos 神+ism）'>atheism</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-112", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. /adj.不可知论者/的 (a- 否定+gnostos 知道+ic)'>agnostic</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-113", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='know'>1. gnostos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-114", 
+            "parentid": "4-113"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 诊断（dia- 通过+gonstos 知道）'>diagnosis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-115", 
+            "parentid": "5-114"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='through'>1. dia-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "7-116", 
+            "parentid": "6-115"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 透明的；精致的；模糊的'>diaphanous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "8-117", 
+            "parentid": "7-116"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 诊断专家；诊断医生（diagnosis 诊断+cian 专家）'>diagnostician</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-118", 
+            "parentid": "5-114"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [医] 预后；预知（pro-先+gnostos 知道）'>prognosis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-119", 
+            "parentid": "5-114"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='before'>1. pro-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "7-120", 
+            "parentid": "6-119"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='God'>2. theos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-121", 
+            "parentid": "2-110"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 多神论；多神教（poly- 多+theos 神+ism）'>polytheism</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-122", 
+            "parentid": "3-121"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='one'>1. monos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-123", 
+            "parentid": "4-122"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='many'>2. polys</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-124", 
+            "parentid": "4-122"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='all'>3. pan</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-125", 
+            "parentid": "4-122"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 泛神论；多神教（pan- 全+theos 神+ism）'>pantheism</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-126", 
+            "parentid": "5-125"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 神学；宗教体系(theos 神+logy 学科，研究）'>theology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-127", 
+            "parentid": "3-121"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.色狼'>9. lecher</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-130", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to lick 舔'>1. lechier</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-131", 
+            "parentid": "2-130"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 好色；淫荡（来自法语lechier 舔）'>lechery</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-132", 
+            "parentid": "3-131"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 性欲的；好色的；淫荡的（来自 libido 快乐，性欲）'>libidinous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-133", 
+            "parentid": "3-131"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 好色的；淫荡的；挑动情欲的'>lascivious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-134", 
+            "parentid": "3-131"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 光滑的；淫荡的；不稳定的'>lubricious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-135", 
+            "parentid": "3-131"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 淫荡的；猥亵的；下流的'>lewd</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-136", 
+            "parentid": "3-131"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 好色的；贪欲的；渴望的'>lustful</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-137", 
+            "parentid": "3-131"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 好色的；淫乱的；渴望的（prurop 痒痒）'>prurient</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-138", 
+            "parentid": "3-131"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.臆想狂'>10.hypochondriac</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-140", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='under'>1. hypos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-141", 
+            "parentid": "2-140"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 忧郁症；臆想病'>hypochondria</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-142", 
+            "parentid": "3-141"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 低血压，血压过低（hypos 低+tension 紧张，压力，张力）'>hypotension</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-143", 
+            "parentid": "3-141"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='over'>2. hyper</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-144", 
+            "parentid": "2-140"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 高血压；过度紧张 （hyper 高+tension 紧张，压力，张力）'>hypertension</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-145", 
+            "parentid": "3-144"
+        }
+    ], 
     "format": "node_array"
 }

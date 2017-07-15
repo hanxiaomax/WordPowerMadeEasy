@@ -22,21 +22,21 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-4", 
-            "parentid": "1-1"
+            "parentid": "2-3"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 沉默寡言；缄默'>taciturnity</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-5", 
-            "parentid": "1-1"
+            "parentid": "3-4"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 缄默的；不言而喻的'>tacit</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-6", 
-            "parentid": "1-1"
+            "parentid": "3-4"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 简洁的，简明的'>2. laconic</div>", 
@@ -50,315 +50,315 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-9", 
-            "parentid": "1-1"
+            "parentid": "2-8"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 饶舌的，多话的'>loquacious</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-10", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. （说话） 简洁; 简练的格言，精辟的警句;'>laconism</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-11", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 独白；自言自语（solus 独+loquor 说）'>soliloquy</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-12", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='alone 独'>1. solus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-13", 
-            "parentid": "1-1"
+            "parentid": "4-12"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='vi. 自言自语；独白'>soliloquize</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-14", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.说腹语的人（ventri 腹部+ loquor说）'>ventriloquist</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-15", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='腹部 belly (前侧)'>1. venter，ventris</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-16", 
-            "parentid": "1-1"
+            "parentid": "4-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 腹侧的；[解剖] 腹部的（ventris 腹+al）'>ventral</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-17", 
-            "parentid": "1-1"
+            "parentid": "5-16"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 室；心室；脑室'>ventricle</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-18", 
-            "parentid": "1-1"
+            "parentid": "5-16"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 心室的；脑室的；膨胀的；腹部的'>ventricular</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-19", 
-            "parentid": "1-1"
+            "parentid": "5-16"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='back （后侧）'>2. dorsum</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-20", 
-            "parentid": "1-1"
+            "parentid": "4-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 背部的；背的，背侧的（dorsum 背+al)'>dorsal</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-21", 
-            "parentid": "1-1"
+            "parentid": "5-20"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='vt.认可；签署；赞同；在背面签名（en-in+dorse背面）'>endorse</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-22", 
-            "parentid": "1-1"
+            "parentid": "5-20"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='ear'>3. auris</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-23", 
-            "parentid": "1-1"
+            "parentid": "4-15"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 耳廓；外耳；心耳（auris 耳朵+cle）'>auricle</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-24", 
-            "parentid": "1-1"
+            "parentid": "5-23"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.白话的，通俗的，口语的 （col-共同+loquor 说）'>colloquial</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-25", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='共同'>1. col- (con-,com-)</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-26", 
-            "parentid": "1-1"
+            "parentid": "4-25"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.婉转的说法 （circum 环形+loquor说）'>circumlocution</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-27", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='around 环形'>1. circum-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-28", 
-            "parentid": "1-1"
+            "parentid": "4-27"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='锁骨'>clavicle</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-29", 
-            "parentid": "1-1"
+            "parentid": "5-28"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='皮质'>cuticle</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-30", 
-            "parentid": "1-1"
+            "parentid": "5-28"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='囊'>vesicle</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-31", 
-            "parentid": "1-1"
+            "parentid": "5-28"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='睾丸'>testicle</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-32", 
-            "parentid": "1-1"
+            "parentid": "5-28"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='叔叔'>uncle</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-33", 
-            "parentid": "1-1"
+            "parentid": "5-28"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 伯父的；叔伯的；慈祥的（avunculus 叔叔）'>1. avuncular</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "7-34", 
-            "parentid": "1-1"
+            "parentid": "6-33"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='拉哥尼亚（Laconia）是希腊南部的一个王国，位于伯罗奔尼撒半岛南部，其都城为斯巴达。拉哥尼亚人以勇敢善战、生活简朴、语言简练而闻名。英语里用Laconic reply表示简洁地回答。'>Laconia</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-35", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 简洁的 （是verbose精确的反义，来自Lconia，斯巴达）'>laconic</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-36", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 雄辩的，有口才的（e- 出+loquor 说）'>eloquent</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-37", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='out'>1. ex-(e-)</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-38", 
-            "parentid": "1-1"
+            "parentid": "4-37"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 夸张的；说大话的 （magnus 大+loquor 说+ent）'>magniloquent</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-39", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='large'>1. magnus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-40", 
-            "parentid": "1-1"
+            "parentid": "4-39"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.心胸宽广的（magnus 大+animous 心）'>magnanimous</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-41", 
-            "parentid": "1-1"
+            "parentid": "5-40"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='mind'>1. animus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "7-42", 
-            "parentid": "1-1"
+            "parentid": "6-41"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.巨头'>magnate</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-43", 
-            "parentid": "1-1"
+            "parentid": "5-40"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.杰作（magnus大 opus 工作）'>magnum opus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-44", 
-            "parentid": "1-1"
+            "parentid": "5-40"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 大酒瓶（容量为1.5升）；头状骨'>magnum</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-45", 
-            "parentid": "1-1"
+            "parentid": "5-40"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 壮丽的; 瑰丽的; 伟大的，高尚的; 华丽的，高贵的;'>magnificent</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-46", 
-            "parentid": "1-1"
+            "parentid": "5-40"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 量级; 巨大，广大; 重大，重要; （地震） 级数;'>magnitude</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-47", 
-            "parentid": "1-1"
+            "parentid": "5-40"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='抽象名词后缀'>1. -tude</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "7-48", 
-            "parentid": "1-1"
+            "parentid": "6-47"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 坚韧，刚毅; 刚毅精神; 松柏节操;'>fortitude</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-49", 
-            "parentid": "1-1"
+            "parentid": "7-48"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 大量，许多; 大众，人群;'>multitude</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-50", 
-            "parentid": "1-1"
+            "parentid": "7-48"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 谢意; 感激，感谢; 感激的样子; 恩义;'>gratitude</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-51", 
-            "parentid": "1-1"
+            "parentid": "7-48"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj.夸张的，说大话的（grand 大+loquor说+ent）'>grandiloquent</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-52", 
-            "parentid": "1-1"
+            "parentid": "3-9"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='grand'>1. gramdos</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-53", 
-            "parentid": "1-1"
+            "parentid": "4-52"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 口齿不清的；说不出话的'>3. inarticulate</div>", 
@@ -372,21 +372,21 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-56", 
-            "parentid": "1-1"
+            "parentid": "2-55"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='a joint'>2. articulate</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-57", 
-            "parentid": "1-1"
+            "parentid": "2-55"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='文章，separate parts of anything written'>article</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-58", 
-            "parentid": "1-1"
+            "parentid": "3-57"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 唠叨的；喋喋不休的；多嘴的'>4. garrulous</div>", 
@@ -400,14 +400,14 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-61", 
-            "parentid": "1-1"
+            "parentid": "2-60"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 饶舌；多言；多嘴 （garrio 聊天+ity）'>garrulity</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-62", 
-            "parentid": "1-1"
+            "parentid": "3-61"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 陈腐的；平庸的；老一套的'>5. banal</div>", 
@@ -428,35 +428,35 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-67", 
-            "parentid": "1-1"
+            "parentid": "2-66"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 冗长；赘言；唠叨（verbum 词+ity）'>verbosity</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-68", 
-            "parentid": "1-1"
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adv. 逐字地'>verbatim</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-69", 
-            "parentid": "1-1"
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 口头的；言语的，字面的（verbum 词+al）'>verbal</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-70", 
-            "parentid": "1-1"
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. （1）冗词；废话；（2）措辞方式'>verbiage</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-71", 
-            "parentid": "1-1"
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 健谈的；缠绕的；易旋转的'>7. voluble</div>", 
@@ -470,49 +470,49 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-75", 
-            "parentid": "1-1"
+            "parentid": "2-74"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='v.旋转，循环出现（re- 再次+volvo 转）'>revolve</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-76", 
-            "parentid": "1-1"
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='again'>1. re-</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-77", 
-            "parentid": "1-1"
+            "parentid": "4-76"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='革命'>revolution</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-78", 
-            "parentid": "1-1"
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='roll in'>involve</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-79", 
-            "parentid": "1-1"
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='v.进化 （ex-出+volvo旋转） roll out'>evolve</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-80", 
-            "parentid": "1-1"
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.流利，健谈（volutus 滚出，词不断从嘴里滚出+ity）'>volubility</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-81", 
-            "parentid": "1-1"
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 强有力的；使人信服的'>8. cogent</div>", 
@@ -526,14 +526,14 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-84", 
-            "parentid": "1-1"
+            "parentid": "2-83"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.中肯，恳切（ cogo+ent+cy)'>cogency</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-85", 
-            "parentid": "1-1"
+            "parentid": "3-84"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 大声叫的；喊叫的，喧嚷的'>9. vociferous</div>", 
@@ -547,98 +547,98 @@
             "direction": "left", 
             "expanded": false, 
             "id": "3-88", 
-            "parentid": "1-1"
+            "parentid": "2-87"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='to carry，bear'>2. fero</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-89", 
-            "parentid": "1-1"
+            "parentid": "2-87"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 催眠的；使爱睡的；想睡的 （somnus睡+fero带来）'>somniferous</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "4-90", 
-            "parentid": "1-1"
+            "parentid": "3-89"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='sleep'>1. somnus</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-91", 
-            "parentid": "1-1"
+            "parentid": "4-90"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 失眠症，失眠（in-否定+somnus睡）'>insomnia</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-92", 
-            "parentid": "1-1"
+            "parentid": "5-91"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 催眠的，想睡的'>somnolent</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-93", 
-            "parentid": "1-1"
+            "parentid": "5-91"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 梦游病（somnus睡+ambulo 走+ism）'>somnambulism</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-94", 
-            "parentid": "1-1"
+            "parentid": "5-91"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='走'>1. ambulo</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "7-95", 
-            "parentid": "1-1"
+            "parentid": "6-94"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 流动的；走动的；非固定的（ambulo走+atory）'>ambulatory</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-96", 
-            "parentid": "1-1"
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 巡视者；摇篮车（per-通过+ambulo走）'>perambulator</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-97", 
-            "parentid": "1-1"
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='v.漫无目的的走'>amble</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-98", 
-            "parentid": "1-1"
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.先驱（pre-先+ambulo走）'>preamble</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "8-99", 
-            "parentid": "1-1"
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='sleep'>2. sopor</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-100", 
-            "parentid": "1-1"
+            "parentid": "4-90"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 安眠药 adj. 催眠的（sopor睡+fic 使做）'>soporific</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "6-101", 
-            "parentid": "1-1"
+            "parentid": "5-100"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 饶舌的，多话的'>10.loquacious</div>", 
