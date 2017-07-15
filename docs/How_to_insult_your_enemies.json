@@ -1,0 +1,274 @@
+{
+    "meta": {
+        "version": "1.0", 
+        "name": "How to insult your enemies", 
+        "author": "lingfeng_ai"
+    }, 
+    "data": [
+        {
+            "topic": "How To Insult Your Enemies", 
+            "id": "root", 
+            "isroot": true
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 严格执行纪律的人'>1. martinet</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-3", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 谄媚者；奉承者'>2. sycophant</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-5", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='fig'>1. sykon</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-7", 
+            "parentid": "2-5"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to show'>2. phanein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-9", 
+            "parentid": "2-5"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 业余爱好者；半吊子'>3. dilettante</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-11", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to delight 起初是褒义的'>1. dilettare</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-13", 
+            "parentid": "2-11"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.泼妇'>4. virago</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-17", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='man（male）男'>1. vir-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-19", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='father'>2. pater，patris</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-20", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='mother'>3. mater，matris</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-36", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='of oneself'>4. sui</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-45", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='sister'>5. soror</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-46", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='brother'>6. frater，fratris</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-48", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='human，people'>7. homo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-51", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='king'>8. rex，regis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-52", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='wife'>9. uxor</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-56", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='husband'>10. maritus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-58", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='baby'>11. infans，infantis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-62", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='race，kind'>12. genos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-63", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='killing'>13. -cide</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-64", 
+            "parentid": "2-17"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.沙文主义者，盲目爱国者'>5. chauvinist</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-75", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 沙文主义；盲目的爱国心'>chauvinism</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-76", 
+            "parentid": "2-75"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.偏执狂'>6. monomaniac</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-78", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='one'>1. monos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-79", 
+            "parentid": "2-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='madness'>2. mania</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-82", 
+            "parentid": "2-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='morbid dread'>3. phobia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-102", 
+            "parentid": "2-78"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 偶像破坏者；提倡打破旧习的人'>7. iconoclast</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-111", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='religious image'>1. eikon</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-113", 
+            "parentid": "2-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to break'>2. klaein</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-114", 
+            "parentid": "2-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.无神论者'>8. atheist</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-117", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='否定'>1. a-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-119", 
+            "parentid": "2-117"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='God'>2. theos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-129", 
+            "parentid": "2-117"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.色狼'>9. lecher</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-138", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to lick 舔'>1. lechier</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-140", 
+            "parentid": "2-138"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.臆想狂'>10.hypochondriac</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-149", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='under'>1. hypos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-151", 
+            "parentid": "2-149"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='over'>2. hyper</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-154", 
+            "parentid": "2-149"
+        }
+    ], 
+    "format": "node_array"
+}
