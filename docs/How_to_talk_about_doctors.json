@@ -130,11 +130,18 @@
             "parentid": "2-19"
         }, 
         {
+            "topic": "<div data-toggle='popover' data-content='老年病学'>geriatrics</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-28", 
+            "parentid": "3-27"
+        }, 
+        {
             "topic": "<div data-toggle='popover' data-content='老的，old'>1. mgeras</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "5-29", 
-            "parentid": "4-24"
+            "parentid": "4-28"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='脚 foot'>3. pedis</div>", 

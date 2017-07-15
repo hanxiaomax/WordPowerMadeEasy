@@ -312,6 +312,20 @@
             "parentid": "3-59"
         }, 
         {
+            "topic": "<div data-toggle='popover' data-content='单一'>1. mono-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-62", 
+            "parentid": "4-61"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='多的'>2. polys-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-63", 
+            "parentid": "4-61"
+        }, 
+        {
             "topic": "<div data-toggle='popover' data-content='man,来自拉丁语andros'>2. andry</div>", 
             "direction": "left", 
             "expanded": false, 

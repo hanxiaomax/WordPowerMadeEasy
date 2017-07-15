@@ -25,7 +25,7 @@
 		1. agogos 		:带领，指引 leading
 		2. demos 		:人，people
 2. iatreia               : 治疗 medical healing
-    - geriatrics         :老年病学
+	- geriatrics         :老年病学
 		1. mgeras           :   老的，old
 
 
@@ -70,7 +70,7 @@
 	- optician           n.眼镜商, 验光师
 	- optics              n.光学
 
-           
+		   
 
 ## 7. orthopedist       : 整形外科医生
 

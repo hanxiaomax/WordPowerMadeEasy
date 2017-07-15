@@ -60,6 +60,13 @@
             "parentid": "3-5"
         }, 
         {
+            "topic": "<div data-toggle='popover' data-content='together，with'>1. con- com-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-10", 
+            "parentid": "4-9"
+        }, 
+        {
             "topic": "<div data-toggle='popover' data-content='n.同等, 等位,常态, 票面价值, [体]标准杆数'>par</div>", 
             "direction": "left", 
             "expanded": false, 
@@ -877,6 +884,13 @@
             "expanded": false, 
             "id": "5-143", 
             "parentid": "4-142"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 不重要的，琐碎的；琐细的 （tri- 三+via 路，交叉路口很吵，不适合谈重要的事情）'>trivial</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-144", 
+            "parentid": "5-143"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 浅薄，轻浮；琐事；平凡'>trivialities</div>", 

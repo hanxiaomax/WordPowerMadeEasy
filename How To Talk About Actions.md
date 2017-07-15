@@ -7,7 +7,7 @@
 	- peer              :               n.同辈, 同等的人, 贵族 （同样来自par）
 	- parity 			:				n.	奇偶性; 平价，价值对等; 同等，平等;
 	- compare           :           	v.比较 （com-共同+par一致） 
- 		1. con- com-    :               together，with     
+		1. con- com-    :               together，with     
 	- par                :              n.同等, 等位,常态, 票面价值, [体]标准杆数
 	- parity             :              n.相等, 势均力敌, 等值
 	- disparity          :            	n.不一致
@@ -141,10 +141,10 @@
 	- Via Appia							:	阿庇亚大道
 	- trivia                       		:	n. 琐事                                   
 		1.tri-                          :   three              
-       		- trivial      				:	adj. 不重要的，琐碎的；琐细的 （tri- 三+via 路，交叉路口很吵，不适合谈重要的事情）
+			- trivial      				:	adj. 不重要的，琐碎的；琐细的 （tri- 三+via 路，交叉路口很吵，不适合谈重要的事情）
 			- trivialities              :	n. 浅薄，轻浮；琐事；平凡                       
 
-         
+		 
 ## 10. placate         :   v.抚慰, 平息, 和解
 
 1. plac-                               	:		to please，appease，soothe，pacify
@@ -161,9 +161,9 @@
 
 
 
-                                 
-     
-           
+								 
+	 
+		   
 
 
 
