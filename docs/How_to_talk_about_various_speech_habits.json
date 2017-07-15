@@ -427,224 +427,224 @@
             "topic": "<div data-toggle='popover' data-content='word'>1. verbum</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-68", 
+            "id": "3-67", 
             "parentid": "2-66"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 冗长；赘言；唠叨（verbum 词+ity）'>verbosity</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-69", 
-            "parentid": "3-68"
+            "id": "4-68", 
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adv. 逐字地'>verbatim</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-70", 
-            "parentid": "3-68"
+            "id": "4-69", 
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 口头的；言语的，字面的（verbum 词+al）'>verbal</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-71", 
-            "parentid": "3-68"
+            "id": "4-70", 
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. （1）冗词；废话；（2）措辞方式'>verbiage</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-72", 
-            "parentid": "3-68"
+            "id": "4-71", 
+            "parentid": "3-67"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 健谈的；缠绕的；易旋转的'>7. voluble</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-75", 
+            "id": "2-74", 
             "parentid": "root"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='旋转，to roll'>1. volvo,volutus</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-76", 
-            "parentid": "2-75"
+            "id": "3-75", 
+            "parentid": "2-74"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='v.旋转，循环出现（re- 再次+volvo 转）'>revolve</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-77", 
-            "parentid": "3-76"
+            "id": "4-76", 
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='again'>1. re-</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "5-78", 
-            "parentid": "4-77"
+            "id": "5-77", 
+            "parentid": "4-76"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='革命'>revolution</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-79", 
-            "parentid": "3-76"
+            "id": "4-78", 
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='roll in'>involve</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-80", 
-            "parentid": "3-76"
+            "id": "4-79", 
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='v.进化 （ex-出+volvo旋转） roll out'>evolve</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-81", 
-            "parentid": "3-76"
+            "id": "4-80", 
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.流利，健谈（volutus 滚出，词不断从嘴里滚出+ity）'>volubility</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-82", 
-            "parentid": "3-76"
+            "id": "4-81", 
+            "parentid": "3-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 强有力的；使人信服的'>8. cogent</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-84", 
+            "id": "2-83", 
             "parentid": "root"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='to drive together，compel force'>1. cogo</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-85", 
-            "parentid": "2-84"
+            "id": "3-84", 
+            "parentid": "2-83"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.中肯，恳切（ cogo+ent+cy)'>cogency</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-86", 
-            "parentid": "3-85"
+            "id": "4-85", 
+            "parentid": "3-84"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 大声叫的；喊叫的，喧嚷的'>9. vociferous</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-88", 
+            "id": "2-87", 
             "parentid": "root"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='voice'>1. vox,vocis</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-89", 
-            "parentid": "2-88"
+            "id": "3-88", 
+            "parentid": "2-87"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='to carry，bear'>2. fero</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-90", 
-            "parentid": "2-88"
+            "id": "3-89", 
+            "parentid": "2-87"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 催眠的；使爱睡的；想睡的 （somnus睡+fero带来）'>somniferous</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-91", 
-            "parentid": "3-90"
+            "id": "4-90", 
+            "parentid": "3-89"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='sleep'>1. somnus</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "5-92", 
-            "parentid": "4-91"
+            "id": "5-91", 
+            "parentid": "4-90"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 失眠症，失眠（in-否定+somnus睡）'>insomnia</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "6-93", 
-            "parentid": "5-92"
+            "id": "6-92", 
+            "parentid": "5-91"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 催眠的，想睡的'>somnolent</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "6-94", 
-            "parentid": "5-92"
+            "id": "6-93", 
+            "parentid": "5-91"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 梦游病（somnus睡+ambulo 走+ism）'>somnambulism</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "6-95", 
-            "parentid": "5-92"
+            "id": "6-94", 
+            "parentid": "5-91"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='走'>1. ambulo</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "7-96", 
-            "parentid": "6-95"
+            "id": "7-95", 
+            "parentid": "6-94"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 流动的；走动的；非固定的（ambulo走+atory）'>ambulatory</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "8-97", 
-            "parentid": "7-96"
+            "id": "8-96", 
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 巡视者；摇篮车（per-通过+ambulo走）'>perambulator</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "8-98", 
-            "parentid": "7-96"
+            "id": "8-97", 
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='v.漫无目的的走'>amble</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "8-99", 
-            "parentid": "7-96"
+            "id": "8-98", 
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n.先驱（pre-先+ambulo走）'>preamble</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "8-100", 
-            "parentid": "7-96"
+            "id": "8-99", 
+            "parentid": "7-95"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='sleep'>2. sopor</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "5-101", 
-            "parentid": "4-91"
+            "id": "5-100", 
+            "parentid": "4-90"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='n. 安眠药 adj. 催眠的（sopor睡+fic 使做）'>soporific</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "6-102", 
-            "parentid": "5-101"
+            "id": "6-101", 
+            "parentid": "5-100"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='adj. 饶舌的，多话的'>10.loquacious</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-105", 
+            "id": "2-104", 
             "parentid": "root"
         }
     ], 

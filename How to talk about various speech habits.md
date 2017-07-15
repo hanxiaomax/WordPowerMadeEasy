@@ -64,7 +64,6 @@
 ## 5. banal                         :		 	adj. 陈腐的；平庸的；老一套的
 
 ## 6. verbose                       :	 		adj. 冗长的；啰嗦的  
-
 1. verbum                           :			word
 	- verbosity                     : 			n. 冗长；赘言；唠叨（verbum 词+ity）
 	- verbatim                      :   		adv. 逐字地
@@ -102,14 +101,4 @@
 			- soporific                 :           n. 安眠药 adj. 催眠的（sopor睡+fic 使做）
 		
 
-## 10.loquacious                    :	 		adj. 饶舌的，多话的  
-
-                                                                                                                                          
-                                                                                  
-                                     
-                               
-                 
-                        
-                  
-
-       
+## 10.loquacious                    :	 		adj. 饶舌的，多话的         
