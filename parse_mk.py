@@ -6,8 +6,18 @@ import os
 
 l1=re.compile('## (?P<session>[\d]+.*?):[\s]*(?P<meaning>.+)')
 l2=re.compile('^(?P<session>(-|[\d]+.) .+)[\s]*:[\s]*(?P<meaning>.+)')
-l3=re.compile('(?P<tabs>\t+)(?P<session>(-|[\d].+) .+)[\s]*:[\s]*(?P<meaning>.+)')
+l3=re.compile('(?P<tabs>[\s]+)(?P<session>(-|[\d].+) .+)[\s]*:[\s]*(?P<meaning>.+)')
 
+
+
+def _get_len(s):
+	s=s.replace('\t','    ')
+	if(len(s)%4):
+		s=' '*(len(s)+4-len(s)%4)
+	else:
+		s=' '*(len(s)+len(s)%4)
+	s=s.replace('    ','\t')
+	return len(s)
 
 
 def  _getParentID(clevel):
@@ -89,7 +99,7 @@ for md in _getMarkDownFile():
 					buf.append(data_l3)
 				elif re.match(l3,line):
 					result = re.match(l3,line)
-					level = len(result.group('tabs'))+3
+					level = _get_len(result.group('tabs'))+3
 					data_n = {"id":str(level)+'-'+str(index+1), 
 								"parentid":_getParentID(level), 
 								"topic":_getTopic(l3,line), 
@@ -99,7 +109,7 @@ for md in _getMarkDownFile():
 					nodelist.append((level,index+1))
 					buf.append(data_n)
 			except Exception,e:
-				print line,e
+				print line,e,"level:",level
 				raise
 		output.write(json.dumps(mind, indent=4, sort_keys=False,ensure_ascii=False))
 

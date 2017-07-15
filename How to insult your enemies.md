@@ -3,7 +3,7 @@
 ## 1. martinet                       :       n. 严格执行纪律的人
 ## 2. sycophant                      :       n. 谄媚者；奉承者 
 1. sykon                             :       fig
-	- sycophancy                  :     n. 谄媚；奉承；追随；拍马屁
+    - sycophancy                  :     n. 谄媚；奉承；追随；拍马屁
 2. phanein                        :        to show
 
 ## 3. dilettante                     :       n. 业余爱好者；半吊子
