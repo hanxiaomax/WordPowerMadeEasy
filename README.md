@@ -31,7 +31,7 @@
 
 - 第八章：[How To Insult Your Enemies](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20insult%20your%20enemies.md)
 
-- 第九章：[How To Flatter Your Friends]()
+- 第九章：[How To Flatter Your Friends](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20flatter%20your%20friends.md)
 
 - 第十章：[How To Talk About Common Phenomena and Occurrences]()
 
