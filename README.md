@@ -33,7 +33,7 @@
 
 - 第九章：[How To Flatter Your Friends](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20flatter%20your%20friends.md)
 
-- 第十章：[How To Talk About Common Phenomena and Occurrences]()
+- 第十章：[How To Talk About Common Phenomena and Occurrences](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20common%20phenomena%20and%20occurrences.md)
 
 - 第十一章：[How To Talk About What Goes On]()
 

@@ -1,0 +1,603 @@
+{
+    "meta": {
+        "version": "1.0", 
+        "name": "How to flatter your friends", 
+        "author": "lingfeng_ai"
+    }, 
+    "data": [
+        {
+            "topic": "How To Flatter Your Friends", 
+            "id": "root", 
+            "isroot": true
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='欢快友善的'>1. convivial</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-3", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to live'>1. vivo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-4", 
+            "parentid": "2-3"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 活泼的；快活的；有生气的'>vivacious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-5", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 生动的；鲜明的；鲜艳的'>vivid</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-6", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='vi. 复兴；复活；苏醒；恢复精神'>revive</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-7", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 活体解剖'>vivisection</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-8", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. [脊椎]'>viviparous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-9", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='together'>2. con-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-10", 
+            "parentid": "2-3"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='egg'>3. ovum</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-13", 
+            "parentid": "2-3"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. [动] 卵生的；产卵的'>oviparous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-14", 
+            "parentid": "3-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to give birth'>1. pareo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-15", 
+            "parentid": "4-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [植] 子房；[解剖] 卵巢'>ovary</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-16", 
+            "parentid": "3-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. [解剖] 卵巢的；子房的'>ovarian</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-17", 
+            "parentid": "3-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [细胞][组织] 卵；卵子；卵形装饰，复数ova'>ovum</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-18", 
+            "parentid": "3-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='//www.zhihu.com/question/19695833?rf=20217621'>love : 零，为什么是0呢？请参考这个问题 http</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-19", 
+            "parentid": "3-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='live'>4. vita</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-21", 
+            "parentid": "2-3"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 至关重要的；生死攸关的；有活力的'>vital</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-22", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='vt. 使…复活；使…复兴；使…恢复生气'>revitalize</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-23", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='vt. 使衰弱；夺去生命'>devitalize</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-24", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [生化] 维生素；[生化] 维他命'>vitamin</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-25", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. （法）生活乐趣'>joie de vivre</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-26", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='（法）讲究美食及生活享受的人'>bon vivant</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-27", 
+            "parentid": "3-21"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='不知疲倦的'>2.indefatigable</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-29", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='negative prefix'>1. in-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-31", 
+            "parentid": "2-29"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 疲劳，疲乏；杂役，adj. 疲劳的，vt. 使疲劳；使心智衰弱'>fatigue</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-32", 
+            "parentid": "3-31"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 天真的；坦白的；正直的；朴实的'>ingenuous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-33", 
+            "parentid": "3-31"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 有独创性的；机灵的，精制的；心灵手巧的'>ingenious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-34", 
+            "parentid": "3-31"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 虚伪的；不诚实的；不老实的；狡猾的'>disingenuous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-35", 
+            "parentid": "3-31"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to believe'>2. credo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-38", 
+            "parentid": "2-29"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 轻信的；因轻信而产生的'>credulous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-39", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 信用，信誉；[金融] 贷款；学分；信任；声望'>credit</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-40", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 可靠的，可信的'>credible</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-41", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 难以置信的，惊人的'>incredible</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-42", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 信条，教义'>credo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-43", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 信条，教义'>creed</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-44", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 信任；凭证；祭器台'>credence</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-45", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 证书；凭据；国书'>credential</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-46", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 易受骗的；轻信的'>gullible</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-47", 
+            "parentid": "3-38"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='able to be'>3. -able</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-48", 
+            "parentid": "2-29"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='有洞察力的，聪颖的'>3. perspicacious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-50", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='through'>1. per</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-52", 
+            "parentid": "2-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 明了的；清晰明白的；易懂的'>perspicuous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-53", 
+            "parentid": "3-52"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to look'>2. specto</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-54", 
+            "parentid": "2-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 精彩的表演；奇特的现象；出人意外的情况'>spectacle</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-55", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 壮观的，惊人的；公开展示的'>spectacular</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-56", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 观众；旁观者'>spectator</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-57", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='vt. 检查；视察；检阅'>inspect</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-58", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 回顾，追溯 vi. 回顾，追溯；回想'>retrospect</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-59", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='backward'>1. retro-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-60", 
+            "parentid": "4-59"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 前途；预期；景色 vi. 勘探，找矿'>prospect</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-61", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='vi. 反省；内省'>introspect</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-62", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='inside'>1. intro-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-63", 
+            "parentid": "4-62"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 细心的，周到的；慎重的'>circumspect</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-64", 
+            "parentid": "3-54"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='around'>1. circum-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-65", 
+            "parentid": "4-64"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='心胸宽广的'>4. magnanimous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-67", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='pirit'>1. anima</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-68", 
+            "parentid": "2-67"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='mind'>2. animus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-69", 
+            "parentid": "2-67"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 宽宏大量的；有雅量的；宽大的'>magnanimous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-70", 
+            "parentid": "3-69"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 全体一致的；意见一致的；无异议的'>unanimous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-71", 
+            "parentid": "3-69"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='one'>1. unus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-72", 
+            "parentid": "4-71"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 平静；镇定'>equanimity</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-73", 
+            "parentid": "3-69"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='equal'>1. aequus（equ-）</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-74", 
+            "parentid": "4-73"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 敌意；意图；基本态度；女性的男性意向'>animus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-75", 
+            "parentid": "3-69"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 憎恶，仇恨，敌意'>animosity</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-76", 
+            "parentid": "3-69"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='large'>3. magnus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-77", 
+            "parentid": "2-67"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='多才多艺的'>5. versatile</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-82", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to turn'>1. verto，versus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-84", 
+            "parentid": "2-82"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='坚韧的'>6.stoical</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-86", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='porch'>1. stoa</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-87", 
+            "parentid": "2-86"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='勇敢的'>7.intrepid</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-89", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='negative prefix'>1. in-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-90", 
+            "parentid": "2-89"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to tremble'>2. trepido</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-91", 
+            "parentid": "2-89"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='才华横溢'>8. scintillating</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-93", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='a spark'>1. scintilla</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-95", 
+            "parentid": "2-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='彬彬有礼的'>9. urbane</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-97", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='city'>1. urbs</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-98", 
+            "parentid": "2-97"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 郊区的，城郊的；土气的；见闻不广的'>suburban</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-99", 
+            "parentid": "3-98"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='near,under,close to'>1. sub-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-100", 
+            "parentid": "4-99"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 市间铁路 adj. 都市间的'>interurban</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-101", 
+            "parentid": "3-98"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='between'>1. inter-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-102", 
+            "parentid": "4-101"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='市内的'>intraurban</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-103", 
+            "parentid": "3-98"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='inside'>1. intra-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-104", 
+            "parentid": "4-103"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 远郊地区；城市远郊；城市远郊富裕家庭居住区'>exurb</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-105", 
+            "parentid": "3-98"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='out'>1. ex-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-106", 
+            "parentid": "4-105"
+        }
+    ], 
+    "format": "node_array"
+}

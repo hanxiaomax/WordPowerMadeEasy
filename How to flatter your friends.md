@@ -25,16 +25,14 @@
 	- vitamin      		:		n. [生化] 维生素；[生化] 维他命
 	- joie de vivre 	:    	n. （法）生活乐趣
 	- bon vivant    	:		（法）讲究美食及生活享受的人
-
-          
      
-##2. indefatigable 		:		不知疲倦的
+## 2.indefatigable 		:		不知疲倦的
 
 1. in-          	:	 	negative prefix
-fatigue   			:  		n. 疲劳，疲乏；杂役，adj. 疲劳的，vt. 使疲劳；使心智衰弱
-ingenuous    		:     	adj. 天真的；坦白的；正直的；朴实的
-ingenious   		:		adj. 有独创性的；机灵的，精制的；心灵手巧的
-disingenuous  		: 		adj. 虚伪的；不诚实的；不老实的；狡猾的
+	- fatigue   			:  		n. 疲劳，疲乏；杂役，adj. 疲劳的，vt. 使疲劳；使心智衰弱
+	- ingenuous    		:     	adj. 天真的；坦白的；正直的；朴实的
+	- ingenious   		:		adj. 有独创性的；机灵的，精制的；心灵手巧的
+	- disingenuous  		: 		adj. 虚伪的；不诚实的；不老实的；狡猾的
 
         
 2. credo       		:     	to believe
@@ -66,7 +64,7 @@ disingenuous  		: 		adj. 虚伪的；不诚实的；不老实的；狡猾的
 	- circumspect   			:	adj. 细心的，周到的；慎重的
 		1. circum-      		:  	around
      
-###4. magnanimous		:		心胸宽广的
+## 4. magnanimous		:		心胸宽广的
 1. anima          	 	:		pirit
 2. animus          		: 		mind
 	- magnanimous       : 		adj. 宽宏大量的；有雅量的；宽大的
@@ -96,7 +94,7 @@ disingenuous  		: 		adj. 虚伪的；不诚实的；不老实的；狡猾的
 
 1. scintilla           :  		a spark
 
-##9. urbane 			:		彬彬有礼的
+## 9. urbane 			:		彬彬有礼的
 1. urbs              	:  		city
 	- suburban        	: 		adj. 郊区的，城郊的；土气的；见闻不广的
 		1. sub-         :       near,under,close to

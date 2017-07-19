@@ -4,7 +4,7 @@ import re
 import json
 import os
 
-l1=re.compile('## (?P<session>[\d]+.*?):[\s]*(?P<meaning>.+)')
+l1=re.compile('##[\s]*(?P<session>[\d]+.*?):[\s]*(?P<meaning>.+)')
 l2=re.compile('^(?P<session>(-|[\d]+.) .+)[\s]*:[\s]*(?P<meaning>.+)')
 l3=re.compile('(?P<tabs>[\s]+)(?P<session>(-|[\d].+) .+)[\s]*:[\s]*(?P<meaning>.+)')
 

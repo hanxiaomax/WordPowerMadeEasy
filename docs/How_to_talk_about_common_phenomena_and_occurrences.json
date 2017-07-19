@@ -1,0 +1,778 @@
+{
+    "meta": {
+        "version": "1.0", 
+        "name": "How to talk about common phenomena and occurrences", 
+        "author": "lingfeng_ai"
+    }, 
+    "data": [
+        {
+            "topic": "How To Talk About Common Phenomena and Occurrences", 
+            "id": "root", 
+            "isroot": true
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='生活贫困'>1. in penury</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-4", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='need，neediness'>1. penuria</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-5", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 吝啬的；缺乏的；贫困的'>penurious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-6", 
+            "parentid": "3-5"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 吝啬的；过于节俭的；质量差的'>parsimonious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-7", 
+            "parentid": "3-5"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='赤贫'>destitution</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-9", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='贫困'>indigence</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-10", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='富裕的'>affluent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-11", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to,toward'>1. ad-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-12", 
+            "parentid": "3-11"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to flow'>2. fluo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-13", 
+            "parentid": "3-11"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='液体，流体'>fluid</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-14", 
+            "parentid": "4-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='影响'>influence</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-15", 
+            "parentid": "4-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to flow together'>confluence</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-16", 
+            "parentid": "4-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='流利'>fluent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-17", 
+            "parentid": "4-13"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='奢侈，富丽堂皇'>opulence</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-18", 
+            "parentid": "2-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='wealthy'>1. opulentus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-19", 
+            "parentid": "3-18"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='感同身受'>2. vicarious feeling</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-21", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='短暂，朝生暮死'>3. ephemeral</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-24", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='dayfly'>1. ephemera</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-25", 
+            "parentid": "2-24"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 容易消散的；逐渐消失的'>evanescent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-26", 
+            "parentid": "3-25"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='out'>1. e-（ex-）</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-27", 
+            "parentid": "4-26"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to vanish'>2. vanesco</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-28", 
+            "parentid": "4-26"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='often means begin to'>3. -esce</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-29", 
+            "parentid": "4-26"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='may mean becoming or beginning to'>4. -escent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-30", 
+            "parentid": "4-26"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 青春期的'>adolescent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-31", 
+            "parentid": "5-30"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='vi. 渐愈；渐渐康复'>convalesce</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-32", 
+            "parentid": "5-30"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 腐败的；正在腐烂的'>putrescent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-33", 
+            "parentid": "5-30"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 荒废的；即将过时的'>obsolescent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-34", 
+            "parentid": "5-30"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='婉转语'>4. euphemisms</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-37", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='good'>1. eu-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-39", 
+            "parentid": "2-37"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 悦耳之音'>euphony</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-40", 
+            "parentid": "3-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 悼词；颂词'>eulogy</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-41", 
+            "parentid": "3-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 精神欢快'>euphoria</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-42", 
+            "parentid": "3-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 安乐死；安乐死术'>euthanasia</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-43", 
+            "parentid": "3-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='death'>1. thanatos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-44", 
+            "parentid": "4-43"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='speech，study'>2. logos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-46", 
+            "parentid": "2-37"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 文献学；语言学'>philology</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-47", 
+            "parentid": "3-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 独白'>monologue</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-48", 
+            "parentid": "3-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n.对话'>dialogue</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-49", 
+            "parentid": "3-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 结语，收场白；尾声'>epilogue</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-50", 
+            "parentid": "3-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='打趣，玩笑'>5. badinage</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-53", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='flat or broad'>1. platys</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-55", 
+            "parentid": "2-53"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 高原 vi. 达到平衡'>plateau</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-56", 
+            "parentid": "3-55"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 碟 vt. 电镀；给…装甲'>plate</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-57", 
+            "parentid": "3-55"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 大浅盘；唱片'>platter</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-58", 
+            "parentid": "3-55"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [脊椎] 鸭嘴兽'>platypus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-59", 
+            "parentid": "3-55"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 陈词滥调'>platitude</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-60", 
+            "parentid": "3-55"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='noun suffix'>1. -tude</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-61", 
+            "parentid": "4-60"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. [药] 止痛剂 adj. 止痛的；安慰人的'>anodyne</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-62", 
+            "parentid": "3-55"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='negative prefix'>1. an-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-63", 
+            "parentid": "4-62"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='pain'>2. odyne</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-64", 
+            "parentid": "4-62"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='牛一样的，迟钝的'>6. bovine</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-66", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='ox，cow'>1. bovis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-67", 
+            "parentid": "2-66"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='like，similar to，characteristic'>2. -ine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-68", 
+            "parentid": "2-66"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 狮子的，狮子般的'>leonine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-69", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 犬的'>canine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-70", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='dog'>1. canis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-71", 
+            "parentid": "4-70"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 猫科的 n. 猫科动物'>feline</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-72", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='cat'>1. felis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-73", 
+            "parentid": "4-72"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 猪的，像猪的'>porcine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-74", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='pig'>1. porcus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-75", 
+            "parentid": "4-74"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 猪肉'>pork</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-76", 
+            "parentid": "5-75"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 狐狸的；诡计多端的'>vulpine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-77", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='fox'>1. vulpus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-78", 
+            "parentid": "4-77"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. [脊椎] 熊的；似熊的'>ursine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-79", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='bear'>1. ursus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-80", 
+            "parentid": "4-79"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='小熊星座'>Ursa Minor</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-81", 
+            "parentid": "5-80"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='大熊星座'>Ursa Major</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-82", 
+            "parentid": "5-80"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='(女子名)厄休拉(小熊)'>Ursula</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-83", 
+            "parentid": "5-80"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 狼的；凶残的；贪婪的'>lupine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-84", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='wolf'>1. lupus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-85", 
+            "parentid": "4-84"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='狼疮'>lupus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-86", 
+            "parentid": "5-85"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 马的；象马的'>equine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-87", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='horse'>1. equus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-88", 
+            "parentid": "4-87"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='鱼的，鱼族的；似鱼的 n. 浴池'>piscine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-89", 
+            "parentid": "3-68"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='fish'>1. piscis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-90", 
+            "parentid": "4-89"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='思乡病，怀旧'>7. nostalgia</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-93", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='a return'>1. nostos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-95", 
+            "parentid": "2-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='pain'>2. algos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-96", 
+            "parentid": "2-93"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='发音不和谐的，刺耳的'>8. cacophonous</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-98", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='bad，harsh'>1. kakos</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-99", 
+            "parentid": "2-98"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='sound'>2. phone</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-100", 
+            "parentid": "2-98"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='电话'>telephone</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-101", 
+            "parentid": "3-100"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='悦耳的声音'>euphony</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-102", 
+            "parentid": "3-100"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 留声机'>phonograph</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-103", 
+            "parentid": "3-100"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='萨克斯'>saxophone</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-104", 
+            "parentid": "3-100"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 木琴'>xylophone</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-105", 
+            "parentid": "3-100"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='wood'>1. xylon</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-106", 
+            "parentid": "4-105"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 发音学，语音学'>phonetics</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-107", 
+            "parentid": "3-100"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 声学；声音基础教学法'>phonics</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-108", 
+            "parentid": "3-100"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='肉食的'>9. carnivorous</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-110", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='flesh'>1. carnis</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-111", 
+            "parentid": "2-110"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 玛瑙；[宝] 红玉髓，[矿物] 光玉髓'>carnelian</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-112", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 狂欢节，嘉年华会；饮宴狂欢'>carnival</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-113", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='肉体的'>carnal</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-114", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='大屠杀'>carnage</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-115", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 再生；化身'>reincarnation</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-116", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 化身的 vt. 体现'>incarnate</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-117", 
+            "parentid": "3-111"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to devour'>2. voro</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-119", 
+            "parentid": "2-110"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='草食的'>herbivorous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-120", 
+            "parentid": "3-119"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='herb'>1. herba</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-121", 
+            "parentid": "4-120"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='杂食的'>omnivorous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-122", 
+            "parentid": "3-119"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='all'>1. omni-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-123", 
+            "parentid": "4-122"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='全能的'>omnipotent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-124", 
+            "parentid": "5-123"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='全知的'>omniscient</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-125", 
+            "parentid": "5-123"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='无处不在的'>omnipresent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-126", 
+            "parentid": "5-123"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='n. 公共汽车 adj. 综合性的'>omnibus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "6-127", 
+            "parentid": "5-123"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='adj. 贪婪的；贪吃的；狼吞虎咽的'>voracious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-128", 
+            "parentid": "3-119"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='秘密的，私下的'>10. clandestine</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-130", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='secretly'>1. clam</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-131", 
+            "parentid": "2-130"
+        }
+    ], 
+    "format": "node_array"
+}

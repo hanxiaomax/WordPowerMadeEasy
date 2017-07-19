@@ -34,7 +34,7 @@
 			- obsolescent 		:	adj. 荒废的；即将过时的	
 
 
-##4. euphemisms 婉转语
+##4. euphemisms 			:		婉转语
 
 1. eu-						:		good
 	- euphony 				:		n. 悦耳之音
@@ -50,44 +50,44 @@
 	- epilogue 				:		n. 结语，收场白；尾声
 
 
-##5. badinage 打趣，玩笑
+##5. badinage 				:		打趣，玩笑
 
-1. platys					:	flat or broad
-	- plateau 				:	n. 高原 vi. 达到平衡
-	- plate 				:	n. 碟 vt. 电镀；给…装甲
-	- platter 				:	n. 大浅盘；唱片
-	- platypus 				:	n. [脊椎] 鸭嘴兽
-	- platitude 			:	n. 陈词滥调
-		1. -tude			:	noun suffix
-	- anodyne 				:	n. [药] 止痛剂 adj. 止痛的；安慰人的
-		1. an-				:	negative prefix
-		2. odyne			:	pain
+1. platys					:		flat or broad
+	- plateau 				:		n. 高原 vi. 达到平衡
+	- plate 				:		n. 碟 vt. 电镀；给…装甲
+	- platter 				:		n. 大浅盘；唱片
+	- platypus 				:		n. [脊椎] 鸭嘴兽
+	- platitude 			:		n. 陈词滥调
+		1. -tude			:		noun suffix
+	- anodyne 				:		n. [药] 止痛剂 adj. 止痛的；安慰人的
+		1. an-				:		negative prefix
+		2. odyne			:		pain
 
-##6. bovine 牛一样的，迟钝的
-1. bovis					:	ox，cow
-2. -ine						:	like，similar to，characteristic
-	- leonine 				:	adj. 狮子的，狮子般的
-	- canine 				:	adj. 犬的
-		1. canis			:	dog
-	- feline 				:	adj. 猫科的 n. 猫科动物
-		1. felis			:	cat
-	- porcine 				:	adj. 猪的，像猪的
-		1. porcus			:	pig
-			- pork 			:	n. 猪肉
-	- vulpine 				:	adj. 狐狸的；诡计多端的
-		1. vulpus			:	fox
-	- ursine 				:	adj. [脊椎] 熊的；似熊的
-		1. ursus			:	bear
-			- Ursa Minor	:	小熊星座
-			- Ursa Major	:	大熊星座
-			- Ursula		: 	(女子名)厄休拉(小熊)
-	- lupine 				:	adj. 狼的；凶残的；贪婪的
-		1. lupus			:	wolf
-			- lupus 		:	狼疮
-	- equine 				:	adj. 马的；象马的
-		1. equus			:	horse
-	- piscine 	 			:	鱼的，鱼族的；似鱼的 n. 浴池
-		1. piscis			:	fish
+##6. bovine 				:		牛一样的，迟钝的
+1. bovis					:		ox，cow
+2. -ine						:		like，similar to，characteristic
+	- leonine 				:		adj. 狮子的，狮子般的
+	- canine 				:		adj. 犬的
+		1. canis			:		dog
+	- feline 				:		adj. 猫科的 n. 猫科动物
+		1. felis			:		cat
+	- porcine 				:		adj. 猪的，像猪的
+		1. porcus			:		pig
+			- pork 			:		n. 猪肉
+	- vulpine 				:		adj. 狐狸的；诡计多端的
+		1. vulpus			:		fox
+	- ursine 				:		adj. [脊椎] 熊的；似熊的
+		1. ursus			:		bear
+			- Ursa Minor	:		小熊星座
+			- Ursa Major	:		大熊星座
+			- Ursula		: 		(女子名)厄休拉(小熊)
+	- lupine 				:		adj. 狼的；凶残的；贪婪的
+		1. lupus			:		wolf
+			- lupus 		:		狼疮
+	- equine 				:		adj. 马的；象马的
+		1. equus			:		horse
+	- piscine 	 			:		鱼的，鱼族的；似鱼的 n. 浴池
+		1. piscis			:		fish
 
 
 ##7. nostalgia 		:	思乡病，怀旧
