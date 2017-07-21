@@ -1,113 +1,85 @@
-# How To Talk About Science And Scientist
+#How To Talk About What Goes On
 
+## 1. to enervate       :     使衰竭，使衰弱 
 
-## 1. anthropologist  : 人类学家
+1. e-（ex-）										:	out
+	- energy 									:	能量
+	  1. en- 									:	in
+	  2. ergon									:	work
+		- synergism 							: 	增效作用，合作
+		- synergy								: 	协同增效作用
+			1. sym-（syn-） 						:	together
+				- synagogue 					:	犹太教会堂
+					1. agogos 					:	leading
+				- symbiosis 					:	共生
+					1. bio 						:	life
+				- symphony 						:	交响乐	
+				- symmetry 						:	对称
+					1. metron 					:	measurement
+				- syndrome 						:	综合征；综合症状；并发症状
+					1. dromos 					:	a running
+						- hippodrome 			:	跑马场
+							1. hippos			:	horse
+							2. potamos 			:	river
+								- hippopotamus 	:	河马
+2. nervus		:	nerve 神经
+	
+## 2. to castigate : 责骂，苛责
+## 3. to self-abnegate : 自我舍弃，利他
+1. ab-			:		away
+2. nego			:		to deny
+3. neg-			:		not，no
+	- negative 	:		消极的
 
-1. anthropos                      	: 人类 mankind
-	- anthropology               	: 人类学（人类+科学）
-2. logos                           	:	科学，研究 science，study 文字 word
+## 4. to recapitulate   : 概括；重述要点
 
-## 2. astronomer      :  天文学家
+1. re-  				:	again
+2. caput 				:	capitis，head
+	- captain			:	船长
+	- capital			:	首都
+	- decapitate		: 	砍头
+		1. de- 			:	donw
+	- capitulate 		:	认输，屈服；有条件投降
 
-1. astron                          	: 	星星 star
-	- astronomer                  	:	天文学家（星星+秩序)
-	- astrology                     : 	占星学（星星+科学）
-	- astronaut                     :	宇航员（星星+水手）
-	- cosmonaut                   	:	宇航员（宇宙+水手）
-		1. cos                      :	宇宙 universe
-	- asterisk                      : 	星号
-	- disaster                      :	灾难（反+星星=星星站在你的对立面，于是就有灾难）
-		1. dis-                  	:   反 against
-2. nautes                           : 	水手 sailor
-3. naus                             :	船 ship
-	- nautical                      :	海上的, 航海的, 船员的
+## 5. to vegetate       :   过单调呆板的生活
+1. vegeto 				:	to live and grow
+	- vegetation 		:	植被，植物
 
-## 3. geologist      :    地质学家
+## 6. to simulate : 伪装，假装
+1. simulo		:	to copy
+2. smilis		:	like
+	- dissimulation 掩饰；虚伪
+	- dissemble 掩饰，掩盖；假装
 
-1. ge（geo-）        :          土地 earth
-	- geology        :         地质学家（土地+学科）
-	- geometry       :         几何（土地+测量）
-	- geography      :         地理（土地+画）
-2. graphein          :         写 to write
+## 7. to intimate : 暗示
+1. intimus			: 		innermost
+	- intimacy 		:	 	性行为；亲密.
+	- intimation 	: 		暗示；告知；讽示
 
+## 8. to alleviate      :       减轻
+1. al-（ad-） 			:		to
+2. levis 				:		light
+	- relieve  			:		解除,减轻
+		1. re- 			:		again
+	- elevate 提升 		:		使升高
+		1. e-（ex-）		:		out
+	- elevator 			:		电梯
+	- levitation 		: 		升空；飘浮
+	- levitate 			: 		使轻轻浮起；使飘浮空中
+	- levity  			: 		多变；轻浮；轻率；不稳定
 
-## 4. biologist       :     生物学家
+## 9. to commiserate    :       同情
 
-1. bios              		:     生命 life
-	- biology        		:     生物学（生命+学科）
-	- biography      		:     传记（生命+写）
-	- autobiography   		:     自传（自己+生命+写）
-		1. autos       		:     自动 self
-			- autonomy  	:     自治（自己+法律）
-			- nomos     	:     法律，安排，秩序  law，arrangement，order
-	- biopsy                :      活组织检查
-		1. autopsy          :		验尸, 解剖
-
-## 5. botanist        :     植物学家
-
-1. botane            :		植物	plant
-
-## 6. zoologist       :     动物学家
-
-1.zoion               :               动物 animal
-	- zoology         :               动物学（动物+学科）
-	- zodiac          :               黄道带, 十二宫图（十二星座由动物组成）
-
-## 7. entomologist    :  昆虫学家
-
-1. en-                     : 	内 in
-2. tome                    :	切断,切下 a cutting
-	- atom                 : 	原子（否+分割=当然认为原子不能再被分割了）
-		1. a-              : 	否定 not，negative
-		2. anti-                      反对 against
-	- anatomy              :	解剖学（在...上+切割）
-		1. ana-            :	上 up
-	- tome                 :	一大本书，大部头
-	- dichotomous        	:	一分为二的（二+切=一分为二）
-		1. dicha-           :	in two
-	- epitome               :	缩影
-		1. epi-        		:   在。。上 on upon
-
-3. in-                      : 	内 in
-4. sectus                   :	切 cut
-
-
-
-## 8. philologist     :     语言学者, 文献学者
-
-1. philein              :    		爱 to love
-	- philology         :     		语言学，文字学（爱+文字）
-	- philanthropy      :   		慈善（爱+人）
-	- philander         :   		调戏妇女的人（这个我也不知道为什么是爱+男。。。）
-	- philter           :       	春药
-	- aphrodisiac       :   		n.春药 adj.引起性欲的
-	- philosophy        :   		哲学（爱+智慧）
-		1. sophos       :           智慧 wise
-	- philidaphia		: 			（美国）费城
-		1. adelphos     :         	兄弟 brother
-	- anglophile        :   		亲英派的人（英国的+爱）
-		1. anglus       :           英国的 english
-
-
-2. logos                 :   		文字，演讲 word，speech
-3. lingua                :   		舌头 tongue
-	- linguistic         :      	语言学的
-
-
-## 9. semanticist      :  语义学家
-
-1. semantic              :		语义学
-
-## 10. sociologist    :   社会学家
-
-1. socius                   :	陪伴，同伴 companion
-	- sociology             : 	社会学（陪伴，社会+学科）
-	- asocial               : 	反社会的，不合群的（反对+同伴，社会）
-
-
-
-
-
-
-
-
+1. com-(con-) 			:	 	together,with
+2. miser 				:		wretched
+	- miserly 			:	 	吝啬的；贪婪的
+	- miserable 		:	 	悲惨的；痛苦的；卑鄙的
+	- misery  			:	 	穷困，悲惨；不幸
+	
+## 10. to vacillate     :       拿不定主意
+1. vacillo 						:	 	to swing back and forth
+	- vacillatory 				:	 	犹豫，踌躇；摇摆不定
+	- ambivalent 				:	 	矛盾的；好恶相克的
+		1. ambi-				: 		both
+			- ambivert 			:		既外向又内向的人；中间性格者
+			- ambidextrous 		:		双手灵巧的；怀有二心的
