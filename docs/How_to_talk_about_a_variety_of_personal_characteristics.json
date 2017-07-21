@@ -1,0 +1,351 @@
+{
+    "meta": {
+        "version": "1.0", 
+        "name": "How to talk about a variety of personal characteristics", 
+        "author": "lingfeng_ai"
+    }, 
+    "data": [
+        {
+            "topic": "How To Talk About a Variety of Personal Characteristics", 
+            "id": "root", 
+            "isroot": true
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='巴结的，奉承迎合'>1. obsequious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-3", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to follow'>1. sequor (sequ-)</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-4", 
+            "parentid": "2-3"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='葬礼'>obsequies</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-5", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='随后的'>subsequent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-6", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='结果，结局'>sequel</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-7", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='一系列，顺序'>sequence</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-8", 
+            "parentid": "3-4"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='抱怨的'>2. querulous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-10", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to complain'>1. queror</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-11", 
+            "parentid": "2-10"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='傲慢的'>3. supercilious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-14", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='above'>1. super</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-15", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='eyelid'>2. cilium</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-16", 
+            "parentid": "2-14"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='任性的，喧闹的'>4. obstreperous</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-18", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to make a noise'>1. strepo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-19", 
+            "parentid": "2-18"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='一贫如洗'>5. impecunious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "2-22", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='cattle , 古时候的财富是以牲口的数量来衡量的'>1. pecus</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-23", 
+            "parentid": "2-22"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='金钱的'>pecuniary</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-24", 
+            "parentid": "3-23"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='否定前缀'>2. im-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-25", 
+            "parentid": "2-22"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='彬彬有礼的，骑士精神'>6. chivalrous</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-27", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='horse'>1. cheval</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-28", 
+            "parentid": "2-27"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='hourse'>2. caval-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-29", 
+            "parentid": "2-27"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='起码队列，车队'>cavalcade</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-30", 
+            "parentid": "3-29"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='傲慢的'>cavalier</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-31", 
+            "parentid": "3-29"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='骑兵'>cavalry</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-32", 
+            "parentid": "3-29"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='骑士精神'>chivalry</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-33", 
+            "parentid": "3-29"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='horse'>3. equus-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-34", 
+            "parentid": "2-27"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='男骑手'>equestrian</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-35", 
+            "parentid": "3-34"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='女骑手'>equestienne</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-36", 
+            "parentid": "3-34"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='马的，像马一样'>equine</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-37", 
+            "parentid": "3-34"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='无害的'>7. inncouous</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-39", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to injure'>1. noceo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-40", 
+            "parentid": "2-39"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='无辜的'>innocent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-41", 
+            "parentid": "3-40"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='有毒有害的'>noxious</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-42", 
+            "parentid": "3-40"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='喝酒的，饮酒的'>8. bibulous</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-44", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to drink'>1. bibo-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-45", 
+            "parentid": "2-44"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='酗酒'>imbibe</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-46", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='in'>1. im-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-47", 
+            "parentid": "4-46"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='围嘴'>bib</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-48", 
+            "parentid": "3-45"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='形容枯槁'>9. cadaverous</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-50", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to fall'>1. cada</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-51", 
+            "parentid": "2-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='尸体'>cadaver</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-52", 
+            "parentid": "3-51"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='颓废的'>decadent</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-53", 
+            "parentid": "3-51"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='down'>1. de-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-54", 
+            "parentid": "4-53"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='痛苦的，悲哀的'>10. dolorous</div>", 
+            "direction": "right", 
+            "expanded": false, 
+            "id": "2-56", 
+            "parentid": "root"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='to suffer or grieve'>1. doleo</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "3-57", 
+            "parentid": "2-56"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='悲伤'>dolor</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-58", 
+            "parentid": "3-57"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='悲伤的'>doleful</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-59", 
+            "parentid": "3-57"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='表示同情，吊唁'>condole</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-60", 
+            "parentid": "3-57"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='together'>1. con-</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "5-61", 
+            "parentid": "4-60"
+        }
+    ], 
+    "format": "node_array"
+}
