@@ -1,7 +1,7 @@
 # How To Talk About Common Phenomena and Occurrences
 
 
-##1. in penury 		:	生活贫困
+## 1. in penury 		:	生活贫困
 1. penuria			:	need，neediness
 	- penurious 	:	adj. 吝啬的；缺乏的；贫困的
 	- parsimonious 	:	adj. 吝啬的；过于节俭的；质量差的
@@ -18,10 +18,10 @@
 - opulence				:	奢侈，富丽堂皇
 	1. opulentus 		:	wealthy
 
-##2. vicarious feeling 			:	感同身受
+## 2. vicarious feeling 			:	感同身受
 
 
-##3. ephemeral 					:	短暂，朝生暮死
+## 3. ephemeral 					:	短暂，朝生暮死
 1. ephemera						:	dayfly
 	- evanescent 				:	adj. 容易消散的；逐渐消失的
 		1. e-（ex-）				:	out
@@ -34,7 +34,7 @@
 			- obsolescent 		:	adj. 荒废的；即将过时的	
 
 
-##4. euphemisms 			:		婉转语
+## 4. euphemisms 			:		婉转语
 
 1. eu-						:		good
 	- euphony 				:		n. 悦耳之音
@@ -50,7 +50,7 @@
 	- epilogue 				:		n. 结语，收场白；尾声
 
 
-##5. badinage 				:		打趣，玩笑
+## 5. badinage 				:		打趣，玩笑
 
 1. platys					:		flat or broad
 	- plateau 				:		n. 高原 vi. 达到平衡
@@ -63,7 +63,7 @@
 		1. an-				:		negative prefix
 		2. odyne			:		pain
 
-##6. bovine 				:		牛一样的，迟钝的
+## 6. bovine 				:		牛一样的，迟钝的
 1. bovis					:		ox，cow
 2. -ine						:		like，similar to，characteristic
 	- leonine 				:		adj. 狮子的，狮子般的
@@ -90,12 +90,12 @@
 		1. piscis			:		fish
 
 
-##7. nostalgia 		:	思乡病，怀旧
+## 7. nostalgia 		:	思乡病，怀旧
 
 1. nostos			:	a return
 2. algos			:	pain
 
-##8. cacophonous 	:	发音不和谐的，刺耳的
+## 8. cacophonous 	:	发音不和谐的，刺耳的
 1. kakos			:	bad，harsh
 2. phone			:	sound
 	- telephone 	:	电话
@@ -107,7 +107,7 @@
 	- phonetics 	:	n. 发音学，语音学
 	- phonics 		:	n. 声学；声音基础教学法
 
-##9. carnivorous 	:	肉食的
+## 9. carnivorous 	:	肉食的
 1. carnis			:	flesh
 	- carnelian 	:	n. 玛瑙；[宝] 红玉髓，[矿物] 光玉髓
 	- carnival 		:	n. 狂欢节，嘉年华会；饮宴狂欢
@@ -127,5 +127,5 @@
 			- omnibus 		:	n. 公共汽车 adj. 综合性的
 	- voracious 			:	adj. 贪婪的；贪吃的；狼吞虎咽的
 
-##10. clandestine 			:	秘密的，私下的
+## 10. clandestine 			:	秘密的，私下的
 1. clam						:	secretly
