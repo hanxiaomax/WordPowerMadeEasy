@@ -37,7 +37,7 @@
 
 - 第十一章：[How To Talk About What Goes On](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20what%20goes%20on.md)
 
-- 第十二章：[How To Talk About a Variety of Personal Characteristics]()
+- 第十二章：[How To Talk About a Variety of Personal Characteristics](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20a%20variety%20of%20personal%20characteristics.md)
 
 
 
