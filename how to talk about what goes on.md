@@ -46,10 +46,14 @@
 	- vegetation 		:	植被，植物
 
 ## 6. to simulate : 伪装，假装
-1. simulo		:	to copy
-2. smilis		:	like
-	- dissimulation 掩饰；虚伪
-	- dissemble 掩饰，掩盖；假装
+1. simulo				:	to copy
+2. similis				:	like
+	- dissimulation 	:	掩饰；虚伪
+	- dissemble			:	掩饰，掩盖；假装
+	- simulation		:	模仿
+	- similar			:	相似的
+	- The Sims			:	模拟人生
+	- Simcity			:	模拟城市，很多模拟类游戏都以sim开头
 
 ## 7. to intimate : 暗示
 1. intimus			: 		innermost

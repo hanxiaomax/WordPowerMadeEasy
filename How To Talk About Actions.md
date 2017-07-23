@@ -50,7 +50,8 @@
 ## 3. titillate        :        v.使…觉得痒,挑逗, 刺激, 挠痒，触动
 
 ## 4. adulate          :    v.奉承
-1.
+1. ad- 					: 		to
+2. ul-					:		尾巴
 	- adulation         : 		n. 奉承；谄媚                       
 	- adulatory         ;      	adj. 阿谀的，奉承的；谄媚的   
 

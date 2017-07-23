@@ -298,207 +298,249 @@
             "parentid": "2-48"
         }, 
         {
-            "topic": "<div data-toggle='popover' data-content='like'>2. smilis</div>", 
+            "topic": "<div data-toggle='popover' data-content='like'>2. similis</div>", 
             "direction": "left", 
             "expanded": false, 
             "id": "3-50", 
             "parentid": "2-48"
         }, 
         {
+            "topic": "<div data-toggle='popover' data-content='掩饰；虚伪'>dissimulation</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-51", 
+            "parentid": "3-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='掩饰，掩盖；假装'>dissemble</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-52", 
+            "parentid": "3-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='模仿'>simulation</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-53", 
+            "parentid": "3-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='相似的'>similar</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-54", 
+            "parentid": "3-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='模拟人生'>The Sims</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-55", 
+            "parentid": "3-50"
+        }, 
+        {
+            "topic": "<div data-toggle='popover' data-content='模拟城市，很多模拟类游戏都以sim开头'>Simcity</div>", 
+            "direction": "left", 
+            "expanded": false, 
+            "id": "4-56", 
+            "parentid": "3-50"
+        }, 
+        {
             "topic": "<div data-toggle='popover' data-content='暗示'>7. to intimate</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-54", 
+            "id": "2-58", 
             "parentid": "root"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='innermost'>1. intimus</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-55", 
-            "parentid": "2-54"
+            "id": "3-59", 
+            "parentid": "2-58"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='性行为；亲密.'>intimacy</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-56", 
-            "parentid": "3-55"
+            "id": "4-60", 
+            "parentid": "3-59"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='暗示；告知；讽示'>intimation</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-57", 
-            "parentid": "3-55"
+            "id": "4-61", 
+            "parentid": "3-59"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='减轻'>8. to alleviate</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-59", 
+            "id": "2-63", 
             "parentid": "root"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='to'>1. al-（ad-）</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-60", 
-            "parentid": "2-59"
+            "id": "3-64", 
+            "parentid": "2-63"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='light'>2. levis</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-61", 
-            "parentid": "2-59"
+            "id": "3-65", 
+            "parentid": "2-63"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='解除,减轻'>relieve</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-62", 
-            "parentid": "3-61"
+            "id": "4-66", 
+            "parentid": "3-65"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='again'>1. re-</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "5-63", 
-            "parentid": "4-62"
+            "id": "5-67", 
+            "parentid": "4-66"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='使升高'>elevate 提升</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-64", 
-            "parentid": "3-61"
+            "id": "4-68", 
+            "parentid": "3-65"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='out'>1. e-（ex-）</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "5-65", 
-            "parentid": "4-64"
+            "id": "5-69", 
+            "parentid": "4-68"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='电梯'>elevator</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-66", 
-            "parentid": "3-61"
+            "id": "4-70", 
+            "parentid": "3-65"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='升空；飘浮'>levitation</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-67", 
-            "parentid": "3-61"
+            "id": "4-71", 
+            "parentid": "3-65"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='使轻轻浮起；使飘浮空中'>levitate</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-68", 
-            "parentid": "3-61"
+            "id": "4-72", 
+            "parentid": "3-65"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='多变；轻浮；轻率；不稳定'>levity</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-69", 
-            "parentid": "3-61"
+            "id": "4-73", 
+            "parentid": "3-65"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='同情'>9. to commiserate</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-71", 
+            "id": "2-75", 
             "parentid": "root"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='together,with'>1. com-(con-)</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-73", 
-            "parentid": "2-71"
+            "id": "3-77", 
+            "parentid": "2-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='wretched'>2. miser</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-74", 
-            "parentid": "2-71"
+            "id": "3-78", 
+            "parentid": "2-75"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='吝啬的；贪婪的'>miserly</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-75", 
-            "parentid": "3-74"
+            "id": "4-79", 
+            "parentid": "3-78"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='悲惨的；痛苦的；卑鄙的'>miserable</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-76", 
-            "parentid": "3-74"
+            "id": "4-80", 
+            "parentid": "3-78"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='穷困，悲惨；不幸'>misery</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-77", 
-            "parentid": "3-74"
+            "id": "4-81", 
+            "parentid": "3-78"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='拿不定主意'>10. to vacillate</div>", 
             "direction": "right", 
             "expanded": false, 
-            "id": "2-79", 
+            "id": "2-83", 
             "parentid": "root"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='to swing back and forth'>1. vacillo</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "3-80", 
-            "parentid": "2-79"
+            "id": "3-84", 
+            "parentid": "2-83"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='犹豫，踌躇；摇摆不定'>vacillatory</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-81", 
-            "parentid": "3-80"
+            "id": "4-85", 
+            "parentid": "3-84"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='矛盾的；好恶相克的'>ambivalent</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "4-82", 
-            "parentid": "3-80"
+            "id": "4-86", 
+            "parentid": "3-84"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='both'>1. ambi-</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "5-83", 
-            "parentid": "4-82"
+            "id": "5-87", 
+            "parentid": "4-86"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='既外向又内向的人；中间性格者'>ambivert</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "6-84", 
-            "parentid": "5-83"
+            "id": "6-88", 
+            "parentid": "5-87"
         }, 
         {
             "topic": "<div data-toggle='popover' data-content='双手灵巧的；怀有二心的'>ambidextrous</div>", 
             "direction": "left", 
             "expanded": false, 
-            "id": "6-85", 
-            "parentid": "5-83"
+            "id": "6-89", 
+            "parentid": "5-87"
         }
     ], 
     "format": "node_array"
