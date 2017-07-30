@@ -5,18 +5,17 @@
 1. penuria			:	need，neediness
 	- penurious 	:	adj. 吝啬的；缺乏的；贫困的
 	- parsimonious 	:	adj. 吝啬的；过于节俭的；质量差的
-2. 
-- destitution		:	赤贫
-- indigence 		:	贫困
-- affluent			:		富裕的
-	1. ad-			: 		to,toward
-	2. fluo 		:		to flow
-		- fluid			:	液体，流体
-		- influence		:	影响
-		- confluence	: 	to flow together
-		- fluent		: 	流利
-- opulence				:	奢侈，富丽堂皇
-	1. opulentus 		:	wealthy
+    - destitution		:	赤贫
+    - indigence 		:	贫困
+    - affluent			:		富裕的
+        1. ad-			: 		to,toward
+        2. fluo 		:		to flow
+            - fluid			:	液体，流体
+            - influence		:	影响
+            - confluence	: 	to flow together
+            - fluent		: 	流利
+    - opulence				:	奢侈，富丽堂皇
+        1. opulentus 		:	wealthy
 
 ## 2. vicarious feeling 			:	感同身受
 

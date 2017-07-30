@@ -126,7 +126,7 @@
 	- benefactor						:			n.	恩人; 捐助者; 施主;
 	- bona fide							:			adj.	善意的; 真正的; 真诚的; 真实的;
 		1. fide							:			faith,trust
-			- Fido						:			狗名 https://en.wikipedia.org/wiki/Fido_(dog)
+			- Fido						:			狗名
 			- fidelity                  :         	n. 保真度；忠诚；精确；尽责
 			- infidelity                :          	n. 无信仰，不信神；背信
 			- infidel                   :          	n. 异教徒；无信仰者（in- 否定+fide信仰）
