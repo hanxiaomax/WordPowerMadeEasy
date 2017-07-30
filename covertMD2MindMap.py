@@ -53,7 +53,8 @@ class Markdown2MindMap(object):
                     d = {
                         'id': self._getid(),
                         'topic': _get_topic(tree.contents[0]),
-                        'children': []
+                        'children': [],
+                        "expanded": False,
                     }
                     data['children'].append(d)
                     for node in filter(lambda x: x != '\n', tree.children)[1:]:  # 第一个child是<li>par : equal<ul>中的字符串
