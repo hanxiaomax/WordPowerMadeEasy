@@ -10,63 +10,75 @@
     "children": [
       {
         "topic": "<div data-toggle='popover' data-content='生活贫困'>1. in penury</div>", 
-        "direction": "left", 
+        "direction": "right", 
         "id": 1, 
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='need，neediness'>penuria</div>", 
+            "expanded": false, 
             "id": 2, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 吝啬的；缺乏的；贫困的'>penurious</div>", 
+                "expanded": false, 
                 "id": 3, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 吝啬的；过于节俭的；质量差的'>parsimonious</div>", 
+                "expanded": false, 
                 "id": 4, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='赤贫'>destitution</div>", 
+                "expanded": false, 
                 "id": 5, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='贫困'>indigence</div>", 
+                "expanded": false, 
                 "id": 6, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='富裕的'>affluent</div>", 
+                "expanded": false, 
                 "id": 7, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='to,toward'>ad-</div>", 
+                    "expanded": false, 
                     "id": 8, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='to flow'>fluo</div>", 
+                    "expanded": false, 
                     "id": 9, 
                     "children": [
                       {
                         "topic": "<div data-toggle='popover' data-content='液体，流体'>fluid</div>", 
+                        "expanded": false, 
                         "id": 10, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='影响'>influence</div>", 
+                        "expanded": false, 
                         "id": 11, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='to flow together'>confluence</div>", 
+                        "expanded": false, 
                         "id": 12, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='流利'>fluent</div>", 
+                        "expanded": false, 
                         "id": 13, 
                         "children": []
                       }
@@ -76,10 +88,12 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='奢侈，富丽堂皇'>opulence</div>", 
+                "expanded": false, 
                 "id": 14, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='wealthy'>opulentus</div>", 
+                    "expanded": false, 
                     "id": 15, 
                     "children": []
                   }
@@ -91,53 +105,63 @@
       }, 
       {
         "topic": "<div data-toggle='popover' data-content='感同身受'>2. vicarious feeling</div>", 
-        "direction": "left", 
+        "direction": "right", 
         "id": 16, 
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='dayfly'>ephemera</div>", 
+            "expanded": false, 
             "id": 17, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 容易消散的；逐渐消失的'>evanescent</div>", 
+                "expanded": false, 
                 "id": 18, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='out'>e-（ex-）</div>", 
+                    "expanded": false, 
                     "id": 19, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='to vanish'>vanesco</div>", 
+                    "expanded": false, 
                     "id": 20, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='often means begin to'>-esce</div>", 
+                    "expanded": false, 
                     "id": 21, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='may mean becoming or beginning to'>-escent</div>", 
+                    "expanded": false, 
                     "id": 22, 
                     "children": [
                       {
                         "topic": "<div data-toggle='popover' data-content='adj. 青春期的'>adolescent</div>", 
+                        "expanded": false, 
                         "id": 23, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='vi. 渐愈；渐渐康复'>convalesce</div>", 
+                        "expanded": false, 
                         "id": 24, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='adj. 腐败的；正在腐烂的'>putrescent</div>", 
+                        "expanded": false, 
                         "id": 25, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='adj. 荒废的；即将过时的'>obsolescent</div>", 
+                        "expanded": false, 
                         "id": 26, 
                         "children": []
                       }
@@ -151,53 +175,63 @@
       }, 
       {
         "topic": "<div data-toggle='popover' data-content='短暂，朝生暮死'>3. ephemeral</div>", 
-        "direction": "left", 
+        "direction": "right", 
         "id": 27, 
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='dayfly'>ephemera</div>", 
+            "expanded": false, 
             "id": 28, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 容易消散的；逐渐消失的'>evanescent</div>", 
+                "expanded": false, 
                 "id": 29, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='out'>e-（ex-）</div>", 
+                    "expanded": false, 
                     "id": 30, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='to vanish'>vanesco</div>", 
+                    "expanded": false, 
                     "id": 31, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='often means begin to'>-esce</div>", 
+                    "expanded": false, 
                     "id": 32, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='may mean becoming or beginning to'>-escent</div>", 
+                    "expanded": false, 
                     "id": 33, 
                     "children": [
                       {
                         "topic": "<div data-toggle='popover' data-content='adj. 青春期的'>adolescent</div>", 
+                        "expanded": false, 
                         "id": 34, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='vi. 渐愈；渐渐康复'>convalesce</div>", 
+                        "expanded": false, 
                         "id": 35, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='adj. 腐败的；正在腐烂的'>putrescent</div>", 
+                        "expanded": false, 
                         "id": 36, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='adj. 荒废的；即将过时的'>obsolescent</div>", 
+                        "expanded": false, 
                         "id": 37, 
                         "children": []
                       }
@@ -211,35 +245,41 @@
       }, 
       {
         "topic": "<div data-toggle='popover' data-content='婉转语'>4. euphemisms</div>", 
-        "direction": "left", 
+        "direction": "right", 
         "id": 38, 
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='good'>eu-</div>", 
+            "expanded": false, 
             "id": 39, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 悦耳之音'>euphony</div>", 
+            "expanded": false, 
             "id": 40, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 悼词；颂词'>eulogy</div>", 
+            "expanded": false, 
             "id": 41, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 精神欢快'>euphoria</div>", 
+            "expanded": false, 
             "id": 42, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 安乐死；安乐死术'>euthanasia</div>", 
+            "expanded": false, 
             "id": 43, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='death'>thanatos</div>", 
+                "expanded": false, 
                 "id": 44, 
                 "children": []
               }
@@ -247,26 +287,31 @@
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='speech，study'>logos</div>", 
+            "expanded": false, 
             "id": 45, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 文献学；语言学'>philology</div>", 
+            "expanded": false, 
             "id": 46, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 独白'>monologue</div>", 
+            "expanded": false, 
             "id": 47, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n.对话'>dialogue</div>", 
+            "expanded": false, 
             "id": 48, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 结语，收场白；尾声'>epilogue</div>", 
+            "expanded": false, 
             "id": 49, 
             "children": []
           }
@@ -274,39 +319,46 @@
       }, 
       {
         "topic": "<div data-toggle='popover' data-content='打趣，玩笑'>5. badinage</div>", 
-        "direction": "left", 
+        "direction": "right", 
         "id": 50, 
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='flat or broad'>platys</div>", 
+            "expanded": false, 
             "id": 51, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='n. 高原 vi. 达到平衡'>plateau</div>", 
+                "expanded": false, 
                 "id": 52, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. 碟 vt. 电镀；给…装甲'>plate</div>", 
+                "expanded": false, 
                 "id": 53, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. 大浅盘；唱片'>platter</div>", 
+                "expanded": false, 
                 "id": 54, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. [脊椎] 鸭嘴兽'>platypus</div>", 
+                "expanded": false, 
                 "id": 55, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. 陈词滥调'>platitude</div>", 
+                "expanded": false, 
                 "id": 56, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='noun suffix'>-tude</div>", 
+                    "expanded": false, 
                     "id": 57, 
                     "children": []
                   }
@@ -314,15 +366,18 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. [药] 止痛剂 adj. 止痛的；安慰人的'>anodyne</div>", 
+                "expanded": false, 
                 "id": 58, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='negative prefix'>an-</div>", 
+                    "expanded": false, 
                     "id": 59, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='pain'>odyne</div>", 
+                    "expanded": false, 
                     "id": 60, 
                     "children": []
                   }
@@ -339,24 +394,29 @@
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='ox，cow'>bovis</div>", 
+            "expanded": false, 
             "id": 62, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='like，similar to，characteristic'>-ine</div>", 
+            "expanded": false, 
             "id": 63, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 狮子的，狮子般的'>leonine</div>", 
+                "expanded": false, 
                 "id": 64, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 犬的'>canine</div>", 
+                "expanded": false, 
                 "id": 65, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='dog'>canis</div>", 
+                    "expanded": false, 
                     "id": 66, 
                     "children": []
                   }
@@ -364,10 +424,12 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 猫科的 n. 猫科动物'>feline</div>", 
+                "expanded": false, 
                 "id": 67, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='cat'>felis</div>", 
+                    "expanded": false, 
                     "id": 68, 
                     "children": []
                   }
@@ -375,14 +437,17 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 猪的，像猪的'>porcine</div>", 
+                "expanded": false, 
                 "id": 69, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='pig'>porcus</div>", 
+                    "expanded": false, 
                     "id": 70, 
                     "children": [
                       {
                         "topic": "<div data-toggle='popover' data-content='n. 猪肉'>pork</div>", 
+                        "expanded": false, 
                         "id": 71, 
                         "children": []
                       }
@@ -392,10 +457,12 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 狐狸的；诡计多端的'>vulpine</div>", 
+                "expanded": false, 
                 "id": 72, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='fox'>vulpus</div>", 
+                    "expanded": false, 
                     "id": 73, 
                     "children": []
                   }
@@ -403,24 +470,29 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. [脊椎] 熊的；似熊的'>ursine</div>", 
+                "expanded": false, 
                 "id": 74, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='bear'>ursus</div>", 
+                    "expanded": false, 
                     "id": 75, 
                     "children": [
                       {
                         "topic": "<div data-toggle='popover' data-content='小熊星座'>Ursa Minor</div>", 
+                        "expanded": false, 
                         "id": 76, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='大熊星座'>Ursa Major</div>", 
+                        "expanded": false, 
                         "id": 77, 
                         "children": []
                       }, 
                       {
                         "topic": "<div data-toggle='popover' data-content='(女子名)厄休拉(小熊)'>Ursula</div>", 
+                        "expanded": false, 
                         "id": 78, 
                         "children": []
                       }
@@ -430,14 +502,17 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 狼的；凶残的；贪婪的'>lupine</div>", 
+                "expanded": false, 
                 "id": 79, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='wolf'>lupus</div>", 
+                    "expanded": false, 
                     "id": 80, 
                     "children": [
                       {
                         "topic": "<div data-toggle='popover' data-content='狼疮'>lupus</div>", 
+                        "expanded": false, 
                         "id": 81, 
                         "children": []
                       }
@@ -447,10 +522,12 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='adj. 马的；象马的'>equine</div>", 
+                "expanded": false, 
                 "id": 82, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='horse'>equus</div>", 
+                    "expanded": false, 
                     "id": 83, 
                     "children": []
                   }
@@ -458,10 +535,12 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='鱼的，鱼族的；似鱼的 n. 浴池'>piscine</div>", 
+                "expanded": false, 
                 "id": 84, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='fish'>piscis</div>", 
+                    "expanded": false, 
                     "id": 85, 
                     "children": []
                   }
@@ -478,11 +557,13 @@
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='a return'>nostos</div>", 
+            "expanded": false, 
             "id": 87, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='pain'>algos</div>", 
+            "expanded": false, 
             "id": 88, 
             "children": []
           }
@@ -495,39 +576,47 @@
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='bad，harsh'>kakos</div>", 
+            "expanded": false, 
             "id": 90, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='sound'>phone</div>", 
+            "expanded": false, 
             "id": 91, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='电话'>telephone</div>", 
+                "expanded": false, 
                 "id": 92, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='悦耳的声音'>euphony</div>", 
+                "expanded": false, 
                 "id": 93, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. 留声机'>phonograph</div>", 
+                "expanded": false, 
                 "id": 94, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='萨克斯'>saxophone</div>", 
+                "expanded": false, 
                 "id": 95, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. 木琴'>xylophone</div>", 
+                "expanded": false, 
                 "id": 96, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='wood'>xylon</div>", 
+                    "expanded": false, 
                     "id": 97, 
                     "children": []
                   }
@@ -535,11 +624,13 @@
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. 发音学，语音学'>phonetics</div>", 
+                "expanded": false, 
                 "id": 98, 
                 "children": []
               }, 
               {
                 "topic": "<div data-toggle='popover' data-content='n. 声学；声音基础教学法'>phonics</div>", 
+                "expanded": false, 
                 "id": 99, 
                 "children": []
               }
@@ -554,50 +645,60 @@
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='flesh'>carnis</div>", 
+            "expanded": false, 
             "id": 101, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 玛瑙；[宝] 红玉髓，[矿物] 光玉髓'>carnelian</div>", 
+            "expanded": false, 
             "id": 102, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 狂欢节，嘉年华会；饮宴狂欢'>carnival</div>", 
+            "expanded": false, 
             "id": 103, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='肉体的'>carnal</div>", 
+            "expanded": false, 
             "id": 104, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='大屠杀'>carnage</div>", 
+            "expanded": false, 
             "id": 105, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='n. 再生；化身'>reincarnation</div>", 
+            "expanded": false, 
             "id": 106, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='adj. 化身的 vt. 体现'>incarnate</div>", 
+            "expanded": false, 
             "id": 107, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='to devour'>voro</div>", 
+            "expanded": false, 
             "id": 108, 
             "children": []
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='草食的'>herbivorous</div>", 
+            "expanded": false, 
             "id": 109, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='herb'>herba</div>", 
+                "expanded": false, 
                 "id": 110, 
                 "children": []
               }
@@ -605,29 +706,35 @@
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='杂食的'>omnivorous</div>", 
+            "expanded": false, 
             "id": 111, 
             "children": [
               {
                 "topic": "<div data-toggle='popover' data-content='all'>omni-</div>", 
+                "expanded": false, 
                 "id": 112, 
                 "children": [
                   {
                     "topic": "<div data-toggle='popover' data-content='全能的'>omnipotent</div>", 
+                    "expanded": false, 
                     "id": 113, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='全知的'>omniscient</div>", 
+                    "expanded": false, 
                     "id": 114, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='无处不在的'>omnipresent</div>", 
+                    "expanded": false, 
                     "id": 115, 
                     "children": []
                   }, 
                   {
                     "topic": "<div data-toggle='popover' data-content='n. 公共汽车 adj. 综合性的'>omnibus</div>", 
+                    "expanded": false, 
                     "id": 116, 
                     "children": []
                   }
@@ -637,6 +744,7 @@
           }, 
           {
             "topic": "<div data-toggle='popover' data-content='adj. 贪婪的；贪吃的；狼吞虎咽的'>voracious</div>", 
+            "expanded": false, 
             "id": 117, 
             "children": []
           }
@@ -649,6 +757,7 @@
         "children": [
           {
             "topic": "<div data-toggle='popover' data-content='secretly'>clam</div>", 
+            "expanded": false, 
             "id": 119, 
             "children": []
           }
