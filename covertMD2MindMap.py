@@ -103,5 +103,5 @@ if __name__ == '__main__':
         with open(md) as f:
             print md
             covertor = Markdown2MindMap(f.read())
-            covertor.run(out_put_file)
+            covertor.run("docs/"+out_put_file)
 
