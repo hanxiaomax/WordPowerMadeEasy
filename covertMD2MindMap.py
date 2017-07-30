@@ -12,11 +12,12 @@ def _get_topic(string):
     try:
         word = string.split(':')[0].strip()
         meaning = string.split(':')[1].strip()
+        topic = u"<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning, word)
+        return topic
     except Exception, e:
         print string
 
-    topic = u"<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning, word)
-    return topic
+
 
 def _get_markdown_file():
     return [file for file in os.listdir(".") if ((os.path.splitext(file)[1] == '.md') and (file != "README.md"))]
@@ -61,18 +62,17 @@ class Markdown2MindMap(object):
                     for node in filter(lambda x: x != '\n', tree.children):
                         self.parse_current_tree(data, node)
             except Exception, e:
-                pass
-                #print e
-                #print tree.parent
+                print e
+                print tree.parent
 
     def parse_h1(self, h1):
         self.data['topic'] = h1.string
 
-    def parse_h2(self, h2,num):
+    def parse_h2(self, h2,direction):
         data_h2 = {
             'id': self._getid(),
             'topic': _get_topic(h2.string),
-            "direction": "right" if id>=num/2 else "left",
+            "direction": direction,
             'children': []
         }
         self.data['children'].append(data_h2)
@@ -87,8 +87,9 @@ class Markdown2MindMap(object):
         data = self.parse_h1(soup.h1)
         h2_tags = soup.find_all('h2')
 
-        for h2 in h2_tags:
-            data_h2 = self.parse_h2(h2,len(list(h2_tags)))
+        for index,h2 in enumerate(h2_tags):
+            direction = 'left' if index>=len(list(h2_tags))/2 else 'right'
+            data_h2 = self.parse_h2(h2,direction)
             ol = h2.find_next_sibling('ol')
             self.parse_current_tree(data_h2, ol)
 
@@ -104,4 +105,10 @@ if __name__ == '__main__':
             print md
             covertor = Markdown2MindMap(f.read())
             covertor.run("docs/"+out_put_file)
+
+
+
+
+
+
 
