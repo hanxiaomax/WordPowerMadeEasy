@@ -64,9 +64,7 @@
 - `meaning`为该单词或词缀的解释，将显示为*tooltpis*
 - `root`为词根词缀 （**请用有序列表**）
 - `word`为该词根派生词（**请用无序列表**）
-- `## 1. mainword中的空格为必须`
-- **缩进必须使用tab**
 
-3. 您可以在文档的基础上继续向下联想或补充某个词根的派生词，markdown修改完成后，运行`python parse_mk.py`将其转换为json格式（可选操作），然后创建pull request
+3. 您可以在文档的基础上继续向下联想或补充某个词根的派生词，markdown修改完成后，运行`python covertMD2MindMap.py`将其转换为json格式（可选操作），然后创建pull request
 
 4. 打赏本项目作者小艾一根鸡腿，由他进行补充完善（滑稽）
