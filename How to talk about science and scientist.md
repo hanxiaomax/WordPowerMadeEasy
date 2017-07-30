@@ -59,7 +59,7 @@
 2. tome                    :	切断,切下 a cutting
 	- atom                 : 	原子（否+分割=当然认为原子不能再被分割了）
 		1. a-              : 	否定 not，negative
-		2. anti-                      反对 against
+		2. anti-           :           反对 against
 	- anatomy              :	解剖学（在...上+切割）
 		1. ana-            :	上 up
 	- tome                 :	一大本书，大部头

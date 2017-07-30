@@ -64,19 +64,19 @@
 	- oculist   		:	眼科医生
 	- inoculate     	:   注射 （针“眼”）
 
-3. opsis，optikos  :视力，vision，sight
-	- optometrist      n. 验光师, 视力测定者, 配镜师
-		1.metron              测量 measure
-	- optician           n.眼镜商, 验光师
-	- optics              n.光学
+3. opsis，optikos  : 视力，vision，sight
+	- optometrist  :    n. 验光师, 视力测定者, 配镜师
+		1.metron    :          测量 measure
+	- optician       :    n.眼镜商, 验光师
+	- optics          :    n.光学
 
 		   
 
 ## 7. orthopedist       : 整形外科医生
 
 1. orthos             : 直，正确 straight，correct
-	- orthopedic      adj. 整形外科的 
-	- orthodontist    n. 牙齿矫正医师
+	- orthopedic      : adj. 整形外科的
+	- orthodontist    : n. 牙齿矫正医师
 		1.Odontos           :牙，tooth
 
 ## 8.cardiologist       : 心脏病学家

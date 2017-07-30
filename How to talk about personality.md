@@ -62,7 +62,7 @@
 		1. mono-  				:单一
 		2. polys- 				:多的
 2. andry   						:man,来自拉丁语andros    
-	- polyandry 				一妻多夫
+	- polyandry 				:一妻多夫
 
 
 ## 9.misogamist   	       :反婚姻    

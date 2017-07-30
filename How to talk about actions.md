@@ -43,8 +43,8 @@
 3. ambi-                    :         		both
 	- ambiguous            	: 				adj.模棱两可的, 含糊不清的（ambi-双）
 	- double entendre       :  				带淫秽意味的双关语（法语读音）      
-4. -ate                    	;            	verb suffix
-5. equus(equ-)      
+4. -ate                    	:            	verb suffix
+5. equus(equ-)              :               马
 	- equine 				:				马的
 
 ## 3. titillate        :        v.使…觉得痒,挑逗, 刺激, 挠痒，触动
@@ -53,7 +53,7 @@
 1. ad- 					: 		to
 2. ul-					:		尾巴
 	- adulation         : 		n. 奉承；谄媚                       
-	- adulatory         ;      	adj. 阿谀的，奉承的；谄媚的   
+	- adulatory         :     	adj. 阿谀的，奉承的；谄媚的
 
 ## 5. proscribe        :   v.禁止,放逐,排斥,剥夺…的公权
 1. pro						: 		before
