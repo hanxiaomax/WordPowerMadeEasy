@@ -1,0 +1,477 @@
+{
+  "meta": {
+    "version": "0.2", 
+    "name": "jsMind-demo-tree", 
+    "author": "hizzgdev@163.com"
+  }, 
+  "data": {
+    "topic": "How To Talk About Science And Scientist", 
+    "id": "root", 
+    "children": [
+      {
+        "topic": "<div data-toggle='popover' data-content='人类学家'>1. anthropologist</div>", 
+        "direction": "left", 
+        "id": 1, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='人类 mankind'>anthropos</div>", 
+            "id": 2, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='人类学（人类+科学）'>anthropology</div>", 
+                "id": 3, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='科学，研究 science，study 文字 word'>logos</div>", 
+            "id": 4, 
+            "children": []
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='天文学家'>2. astronomer</div>", 
+        "direction": "left", 
+        "id": 5, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='星星 star'>astron</div>", 
+            "id": 6, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='天文学家（星星+秩序)'>astronomer</div>", 
+                "id": 7, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='占星学（星星+科学）'>astrology</div>", 
+                "id": 8, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='宇航员（星星+水手）'>astronaut</div>", 
+                "id": 9, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='宇航员（宇宙+水手）'>cosmonaut</div>", 
+                "id": 10, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='宇宙 universe'>cos</div>", 
+                    "id": 11, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='星号'>asterisk</div>", 
+                "id": 12, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='灾难（反+星星=星星站在你的对立面，于是就有灾难）'>disaster</div>", 
+                "id": 13, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='反 against'>dis-</div>", 
+                    "id": 14, 
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='水手 sailor'>nautes</div>", 
+            "id": 15, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='船 ship'>naus</div>", 
+            "id": 16, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='海上的, 航海的, 船员的'>nautical</div>", 
+                "id": 17, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='地质学家'>3. geologist</div>", 
+        "direction": "left", 
+        "id": 18, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='土地 earth'>ge（geo-）</div>", 
+            "id": 19, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='地质学家（土地+学科）'>geology</div>", 
+                "id": 20, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='几何（土地+测量）'>geometry</div>", 
+                "id": 21, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='地理（土地+画）'>geography</div>", 
+                "id": 22, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='写 to write'>graphein</div>", 
+            "id": 23, 
+            "children": []
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='生物学家'>4. biologist</div>", 
+        "direction": "left", 
+        "id": 24, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='生命 life'>bios</div>", 
+            "id": 25, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='生物学（生命+学科）'>biology</div>", 
+                "id": 26, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='传记（生命+写）'>biography</div>", 
+                "id": 27, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='自传（自己+生命+写）'>autobiography</div>", 
+                "id": 28, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='自动 self'>autos</div>", 
+                    "id": 29, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='自治（自己+法律）'>autonomy</div>", 
+                        "id": 30, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='法律，安排，秩序  law，arrangement，order'>nomos</div>", 
+                        "id": 31, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='活组织检查'>biopsy</div>", 
+                "id": 32, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='验尸, 解剖'>autopsy</div>", 
+                    "id": 33, 
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='植物学家'>5. botanist</div>", 
+        "direction": "left", 
+        "id": 34, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='植物  plant'>botane</div>", 
+            "id": 35, 
+            "children": []
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='动物学家'>6. zoologist</div>", 
+        "direction": "left", 
+        "id": 36, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='内 in'>en-</div>", 
+            "id": 37, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='切断,切下 a cutting'>tome</div>", 
+            "id": 38, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='原子（否+分割=当然认为原子不能再被分割了）'>atom</div>", 
+            "id": 39, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='否定 not，negative'>a-</div>", 
+                "id": 40, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='反对 against'>anti-</div>", 
+                "id": 41, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='解剖学（在...上+切割）'>anatomy</div>", 
+            "id": 42, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='上 up'>ana-</div>", 
+                "id": 43, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='一大本书，大部头'>tome</div>", 
+            "id": 44, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='一分为二的（二+切=一分为二）'>dichotomous</div>", 
+            "id": 45, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='in two'>dicha-</div>", 
+                "id": 46, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='缩影'>epitome</div>", 
+            "id": 47, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='在。。上 on upon'>epi-</div>", 
+                "id": 48, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='内 in'>in-</div>", 
+            "id": 49, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='切 cut'>sectus</div>", 
+            "id": 50, 
+            "children": []
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='昆虫学家'>7. entomologist</div>", 
+        "direction": "left", 
+        "id": 51, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='内 in'>en-</div>", 
+            "id": 52, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='切断,切下 a cutting'>tome</div>", 
+            "id": 53, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='原子（否+分割=当然认为原子不能再被分割了）'>atom</div>", 
+            "id": 54, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='否定 not，negative'>a-</div>", 
+                "id": 55, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='反对 against'>anti-</div>", 
+                "id": 56, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='解剖学（在...上+切割）'>anatomy</div>", 
+            "id": 57, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='上 up'>ana-</div>", 
+                "id": 58, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='一大本书，大部头'>tome</div>", 
+            "id": 59, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='一分为二的（二+切=一分为二）'>dichotomous</div>", 
+            "id": 60, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='in two'>dicha-</div>", 
+                "id": 61, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='缩影'>epitome</div>", 
+            "id": 62, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='在。。上 on upon'>epi-</div>", 
+                "id": 63, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='内 in'>in-</div>", 
+            "id": 64, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='切 cut'>sectus</div>", 
+            "id": 65, 
+            "children": []
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='语言学者, 文献学者'>8. philologist</div>", 
+        "direction": "left", 
+        "id": 66, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='爱 to love'>philein</div>", 
+            "id": 67, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='语言学，文字学（爱+文字）'>philology</div>", 
+                "id": 68, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='慈善（爱+人）'>philanthropy</div>", 
+                "id": 69, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='调戏妇女的人（这个我也不知道为什么是爱+男。。。）'>philander</div>", 
+                "id": 70, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='春药'>philter</div>", 
+                "id": 71, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.春药 adj.引起性欲的'>aphrodisiac</div>", 
+                "id": 72, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='哲学（爱+智慧）'>philosophy</div>", 
+                "id": 73, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='智慧 wise'>sophos</div>", 
+                    "id": 74, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='（美国）费城'>philidaphia</div>", 
+                "id": 75, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='兄弟 brother'>adelphos</div>", 
+                    "id": 76, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='亲英派的人（英国的+爱）'>anglophile</div>", 
+                "id": 77, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='英国的 english'>anglus</div>", 
+                    "id": 78, 
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='语义学家'>9. semanticist</div>", 
+        "direction": "left", 
+        "id": 79, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='语义学'>semantic</div>", 
+            "id": 80, 
+            "children": []
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='社会学家'>10. sociologist</div>", 
+        "direction": "left", 
+        "id": 81, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='陪伴，同伴 companion'>socius</div>", 
+            "id": 82, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='社会学（陪伴，社会+学科）'>sociology</div>", 
+                "id": 83, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='反社会的，不合群的（反对+同伴，社会）'>asocial</div>", 
+                "id": 84, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  "format": "node_tree"
+}
