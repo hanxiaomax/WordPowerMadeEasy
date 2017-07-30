@@ -7,7 +7,18 @@ from bs4.element import NavigableString
 import os
 
 id = 0
-def _getMarkDownFile():
+
+def _get_topic(string):
+    try:
+        word = string.split(':')[0].strip()
+        meaning = string.split(':')[1].strip()
+    except Exception, e:
+        print string
+
+    topic = u"<div data-toggle='popover' data-content='{0}'>{1}</div>".format(meaning, word)
+    return topic
+
+def _get_markdown_file():
     return [file for file in os.listdir(".") if ((os.path.splitext(file)[1] == '.md') and (file != "README.md"))]
 
 class Markdown2MindMap(object):
@@ -20,6 +31,7 @@ class Markdown2MindMap(object):
             'topic': "",
             'children': []
         }
+
         self.mind = {
             "meta": {
                 "name": "jsMind-demo-tree",
@@ -39,7 +51,7 @@ class Markdown2MindMap(object):
                 if tree.contents[0] != '\n' and isinstance(tree.contents[0], NavigableString):
                     d = {
                         'id': self._getid(),
-                        'topic': tree.contents[0],
+                        'topic': _get_topic(tree.contents[0]),
                         'children': []
                     }
                     data['children'].append(d)
@@ -49,27 +61,34 @@ class Markdown2MindMap(object):
                     for node in filter(lambda x: x != '\n', tree.children):
                         self.parse_current_tree(data, node)
             except Exception, e:
-                print e
-                print tree.parent
+                pass
+                #print e
+                #print tree.parent
 
     def parse_h1(self, h1):
         self.data['topic'] = h1.string
 
-    def parse_h2(self, h2):
+    def parse_h2(self, h2,num):
         data_h2 = {
             'id': self._getid(),
-            'topic': h2.string,
+            'topic': _get_topic(h2.string),
+            "direction": "right" if id>=num/2 else "left",
             'children': []
         }
         self.data['children'].append(data_h2)
         return data_h2
 
-    def run(self, output):
+    def run(self, output,toHtml=False):
         soup = BeautifulSoup(self.html, 'html.parser')
-        data = self.parse_h1(soup.h1)
+        if toHtml :
+            with open(output.replace('.json','.html'),'w') as f:
+                f.write(soup.prettify(encoding='utf-8'))
 
-        for h2 in soup.find_all('h2'):
-            data_h2 = self.parse_h2(h2)
+        data = self.parse_h1(soup.h1)
+        h2_tags = soup.find_all('h2')
+
+        for h2 in h2_tags:
+            data_h2 = self.parse_h2(h2,len(list(h2_tags)))
             ol = h2.find_next_sibling('ol')
             self.parse_current_tree(data_h2, ol)
 
@@ -79,10 +98,10 @@ class Markdown2MindMap(object):
 
 
 if __name__ == '__main__':
-    for md in _getMarkDownFile():
+    for md in _get_markdown_file():
         out_put_file = md.replace(' ','_').replace('.md','.json')
-        print out_put_file
         with open(md) as f:
+            print md
             covertor = Markdown2MindMap(f.read())
-            covertor.run('out.json')
+            covertor.run(out_put_file)
 
