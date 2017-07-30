@@ -1,547 +1,460 @@
 {
-    "meta": {
-        "version": "1.0", 
-        "name": "How to talk about what goes on", 
-        "author": "lingfeng_ai"
-    }, 
-    "data": [
-        {
-            "topic": "How To Talk About What Goes On", 
-            "id": "root", 
-            "isroot": true
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='使衰竭，使衰弱'>1. to enervate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-3", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='out'>1. e-（ex-）</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-5", 
-            "parentid": "2-3"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='能量'>energy</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-6", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='in'>1. en-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-7", 
-            "parentid": "4-6"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='work'>2. ergon</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-8", 
-            "parentid": "4-6"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='增效作用，合作'>synergism</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-9", 
-            "parentid": "4-6"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='协同增效作用'>synergy</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-10", 
-            "parentid": "4-6"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='together'>1. sym-（syn-）</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-11", 
-            "parentid": "5-10"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='犹太教会堂'>synagogue</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "7-12", 
-            "parentid": "6-11"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='leading'>1. agogos</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "8-13", 
-            "parentid": "7-12"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='共生'>symbiosis</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "7-14", 
-            "parentid": "6-11"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='life'>1. bio</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "8-15", 
-            "parentid": "7-14"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='交响乐'>symphony</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "7-16", 
-            "parentid": "6-11"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='对称'>symmetry</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "7-17", 
-            "parentid": "6-11"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='measurement'>1. metron</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "8-18", 
-            "parentid": "7-17"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='综合征；综合症状；并发症状'>syndrome</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "7-19", 
-            "parentid": "6-11"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='a running'>1. dromos</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "8-20", 
-            "parentid": "7-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='跑马场'>hippodrome</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "9-21", 
-            "parentid": "8-20"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='horse'>1. hippos</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "10-22", 
-            "parentid": "9-21"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='river'>2. potamos</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "10-23", 
-            "parentid": "9-21"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='河马'>hippopotamus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "11-24", 
-            "parentid": "10-23"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='nerve 神经'>2. nervus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-25", 
-            "parentid": "2-3"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='责骂，苛责'>2. to castigate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-27", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='自我舍弃，利他'>3. to self-abnegate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-28", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='away'>1. ab-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-29", 
-            "parentid": "2-28"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to deny'>2. nego</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-30", 
-            "parentid": "2-28"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='not，no'>3. neg-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-31", 
-            "parentid": "2-28"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='消极的'>negative</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-32", 
-            "parentid": "3-31"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='概括；重述要点'>4. to recapitulate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-34", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='again'>1. re-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-36", 
-            "parentid": "2-34"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='capitis，head'>2. caput</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-37", 
-            "parentid": "2-34"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='船长'>captain</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-38", 
-            "parentid": "3-37"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='首都'>capital</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-39", 
-            "parentid": "3-37"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='砍头'>decapitate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-40", 
-            "parentid": "3-37"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='donw'>1. de-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-41", 
-            "parentid": "4-40"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='认输，屈服；有条件投降'>capitulate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-42", 
-            "parentid": "3-37"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='过单调呆板的生活'>5. to vegetate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-44", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to live and grow'>1. vegeto</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-45", 
-            "parentid": "2-44"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='植被，植物'>vegetation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-46", 
-            "parentid": "3-45"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='伪装，假装'>6. to simulate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-48", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to copy'>1. simulo</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-49", 
-            "parentid": "2-48"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='like'>2. similis</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-50", 
-            "parentid": "2-48"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='掩饰；虚伪'>dissimulation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-51", 
-            "parentid": "3-50"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='掩饰，掩盖；假装'>dissemble</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-52", 
-            "parentid": "3-50"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='模仿'>simulation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-53", 
-            "parentid": "3-50"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='相似的'>similar</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-54", 
-            "parentid": "3-50"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='模拟人生'>The Sims</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-55", 
-            "parentid": "3-50"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='模拟城市，很多模拟类游戏都以sim开头'>Simcity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-56", 
-            "parentid": "3-50"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='暗示'>7. to intimate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-58", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='innermost'>1. intimus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-59", 
-            "parentid": "2-58"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='性行为；亲密.'>intimacy</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-60", 
-            "parentid": "3-59"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='暗示；告知；讽示'>intimation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-61", 
-            "parentid": "3-59"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='减轻'>8. to alleviate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-63", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to'>1. al-（ad-）</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-64", 
-            "parentid": "2-63"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='light'>2. levis</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-65", 
-            "parentid": "2-63"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='解除,减轻'>relieve</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-66", 
-            "parentid": "3-65"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='again'>1. re-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-67", 
-            "parentid": "4-66"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='使升高'>elevate 提升</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-68", 
-            "parentid": "3-65"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='out'>1. e-（ex-）</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-69", 
-            "parentid": "4-68"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='电梯'>elevator</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-70", 
-            "parentid": "3-65"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='升空；飘浮'>levitation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-71", 
-            "parentid": "3-65"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='使轻轻浮起；使飘浮空中'>levitate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-72", 
-            "parentid": "3-65"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='多变；轻浮；轻率；不稳定'>levity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-73", 
-            "parentid": "3-65"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='同情'>9. to commiserate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-75", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='together,with'>1. com-(con-)</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-77", 
-            "parentid": "2-75"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='wretched'>2. miser</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-78", 
-            "parentid": "2-75"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='吝啬的；贪婪的'>miserly</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-79", 
-            "parentid": "3-78"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='悲惨的；痛苦的；卑鄙的'>miserable</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-80", 
-            "parentid": "3-78"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='穷困，悲惨；不幸'>misery</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-81", 
-            "parentid": "3-78"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='拿不定主意'>10. to vacillate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-83", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to swing back and forth'>1. vacillo</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-84", 
-            "parentid": "2-83"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='犹豫，踌躇；摇摆不定'>vacillatory</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-85", 
-            "parentid": "3-84"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='矛盾的；好恶相克的'>ambivalent</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-86", 
-            "parentid": "3-84"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='both'>1. ambi-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-87", 
-            "parentid": "4-86"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='既外向又内向的人；中间性格者'>ambivert</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-88", 
-            "parentid": "5-87"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='双手灵巧的；怀有二心的'>ambidextrous</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-89", 
-            "parentid": "5-87"
-        }
-    ], 
-    "format": "node_array"
+  "meta": {
+    "version": "0.2", 
+    "name": "jsMind-demo-tree", 
+    "author": "hizzgdev@163.com"
+  }, 
+  "data": {
+    "topic": "How To Talk About What Goes On", 
+    "id": "root", 
+    "children": [
+      {
+        "topic": "<div data-toggle='popover' data-content='使衰竭，使衰弱'>1. to enervate</div>", 
+        "direction": "left", 
+        "id": 1, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='out'>e-（ex-）</div>", 
+            "id": 2, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='能量'>energy</div>", 
+                "id": 3, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='in'>en-</div>", 
+                    "id": 4, 
+                    "children": []
+                  }, 
+                  {
+                    "topic": "<div data-toggle='popover' data-content='work'>ergon</div>", 
+                    "id": 5, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='增效作用，合作'>synergism</div>", 
+                        "id": 6, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='协同增效作用'>synergy</div>", 
+                        "id": 7, 
+                        "children": [
+                          {
+                            "topic": "<div data-toggle='popover' data-content='together'>sym-（syn-）</div>", 
+                            "id": 8, 
+                            "children": [
+                              {
+                                "topic": "<div data-toggle='popover' data-content='犹太教会堂'>synagogue</div>", 
+                                "id": 9, 
+                                "children": [
+                                  {
+                                    "topic": "<div data-toggle='popover' data-content='leading'>agogos</div>", 
+                                    "id": 10, 
+                                    "children": []
+                                  }
+                                ]
+                              }, 
+                              {
+                                "topic": "<div data-toggle='popover' data-content='共生'>symbiosis</div>", 
+                                "id": 11, 
+                                "children": [
+                                  {
+                                    "topic": "<div data-toggle='popover' data-content='life'>bio</div>", 
+                                    "id": 12, 
+                                    "children": []
+                                  }
+                                ]
+                              }, 
+                              {
+                                "topic": "<div data-toggle='popover' data-content='交响乐'>symphony</div>", 
+                                "id": 13, 
+                                "children": []
+                              }, 
+                              {
+                                "topic": "<div data-toggle='popover' data-content='对称'>symmetry</div>", 
+                                "id": 14, 
+                                "children": [
+                                  {
+                                    "topic": "<div data-toggle='popover' data-content='measurement'>metron</div>", 
+                                    "id": 15, 
+                                    "children": []
+                                  }
+                                ]
+                              }, 
+                              {
+                                "topic": "<div data-toggle='popover' data-content='综合征；综合症状；并发症状'>syndrome</div>", 
+                                "id": 16, 
+                                "children": [
+                                  {
+                                    "topic": "<div data-toggle='popover' data-content='a running'>dromos</div>", 
+                                    "id": 17, 
+                                    "children": [
+                                      {
+                                        "topic": "<div data-toggle='popover' data-content='跑马场'>hippodrome</div>", 
+                                        "id": 18, 
+                                        "children": [
+                                          {
+                                            "topic": "<div data-toggle='popover' data-content='horse'>hippos</div>", 
+                                            "id": 19, 
+                                            "children": []
+                                          }, 
+                                          {
+                                            "topic": "<div data-toggle='popover' data-content='river'>potamos</div>", 
+                                            "id": 20, 
+                                            "children": [
+                                              {
+                                                "topic": "<div data-toggle='popover' data-content='河马'>hippopotamus</div>", 
+                                                "id": 21, 
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='nerve 神经'>nervus</div>", 
+            "id": 22, 
+            "children": []
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='责骂，苛责'>2. to castigate</div>", 
+        "direction": "left", 
+        "id": 23, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='away'>ab-</div>", 
+            "id": 24, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='to deny'>nego</div>", 
+            "id": 25, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='not，no'>neg-</div>", 
+            "id": 26, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='消极的'>negative</div>", 
+                "id": 27, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='自我舍弃，利他'>3. to self-abnegate</div>", 
+        "direction": "left", 
+        "id": 28, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='away'>ab-</div>", 
+            "id": 29, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='to deny'>nego</div>", 
+            "id": 30, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='not，no'>neg-</div>", 
+            "id": 31, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='消极的'>negative</div>", 
+                "id": 32, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='概括；重述要点'>4. to recapitulate</div>", 
+        "direction": "left", 
+        "id": 33, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='again'>re-</div>", 
+            "id": 34, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='capitis，head'>caput</div>", 
+            "id": 35, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='船长'>captain</div>", 
+                "id": 36, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='首都'>capital</div>", 
+                "id": 37, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='砍头'>decapitate</div>", 
+                "id": 38, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='donw'>de-</div>", 
+                    "id": 39, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='认输，屈服；有条件投降'>capitulate</div>", 
+                "id": 40, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='过单调呆板的生活'>5. to vegetate</div>", 
+        "direction": "left", 
+        "id": 41, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to live and grow'>vegeto</div>", 
+            "id": 42, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='植被，植物'>vegetation</div>", 
+                "id": 43, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='伪装，假装'>6. to simulate</div>", 
+        "direction": "left", 
+        "id": 44, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to copy'>simulo</div>", 
+            "id": 45, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='like'>similis</div>", 
+            "id": 46, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='掩饰；虚伪'>dissimulation</div>", 
+                "id": 47, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='掩饰，掩盖；假装'>dissemble</div>", 
+                "id": 48, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='模仿'>simulation</div>", 
+                "id": 49, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='相似的'>similar</div>", 
+                "id": 50, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='模拟人生'>The Sims</div>", 
+                "id": 51, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='模拟城市，很多模拟类游戏都以sim开头'>Simcity</div>", 
+                "id": 52, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='暗示'>7. to intimate</div>", 
+        "direction": "left", 
+        "id": 53, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='innermost'>intimus</div>", 
+            "id": 54, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='性行为；亲密.'>intimacy</div>", 
+                "id": 55, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='暗示；告知；讽示'>intimation</div>", 
+                "id": 56, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='减轻'>8. to alleviate</div>", 
+        "direction": "left", 
+        "id": 57, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to'>al-（ad-）</div>", 
+            "id": 58, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='light'>levis</div>", 
+            "id": 59, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='解除,减轻'>relieve</div>", 
+                "id": 60, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='again'>re-</div>", 
+                    "id": 61, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='使升高'>elevate 提升</div>", 
+                "id": 62, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='out'>e-（ex-）</div>", 
+                    "id": 63, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='电梯'>elevator</div>", 
+                "id": 64, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='升空；飘浮'>levitation</div>", 
+                "id": 65, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='使轻轻浮起；使飘浮空中'>levitate</div>", 
+                "id": 66, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='多变；轻浮；轻率；不稳定'>levity</div>", 
+                "id": 67, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='同情'>9. to commiserate</div>", 
+        "direction": "left", 
+        "id": 68, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='together,with'>com-(con-)</div>", 
+            "id": 69, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='wretched'>miser</div>", 
+            "id": 70, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='吝啬的；贪婪的'>miserly</div>", 
+                "id": 71, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='悲惨的；痛苦的；卑鄙的'>miserable</div>", 
+                "id": 72, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='穷困，悲惨；不幸'>misery</div>", 
+                "id": 73, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='拿不定主意'>10. to vacillate</div>", 
+        "direction": "left", 
+        "id": 74, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to swing back and forth'>vacillo</div>", 
+            "id": 75, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='犹豫，踌躇；摇摆不定'>vacillatory</div>", 
+                "id": 76, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='矛盾的；好恶相克的'>ambivalent</div>", 
+                "id": 77, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='both'>ambi-</div>", 
+                    "id": 78, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='既外向又内向的人；中间性格者'>ambivert</div>", 
+                        "id": 79, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='双手灵巧的；怀有二心的'>ambidextrous</div>", 
+                        "id": 80, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  "format": "node_tree"
 }

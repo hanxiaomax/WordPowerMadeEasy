@@ -1,988 +1,808 @@
 {
-    "meta": {
-        "version": "1.0", 
-        "name": "How To Talk About Actions", 
-        "author": "lingfeng_ai"
-    }, 
-    "data": [
-        {
-            "topic": "How To Talk About Actions", 
-            "id": "root", 
-            "isroot": true
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='vt. 蔑视, 贬损'>1. disparage</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-3", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='negative prefix'>1. dis-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-4", 
-            "parentid": "2-3"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='equal'>2. par</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-5", 
-            "parentid": "2-3"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.一对, 一双, 一副 （来自par）'>pair</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-6", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.同辈, 同等的人, 贵族 （同样来自par）'>peer</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-7", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 奇偶性; 平价，价值对等; 同等，平等;'>parity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-8", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.比较 （com-共同+par一致）'>compare</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-9", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='together，with'>1. con- com-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-10", 
-            "parentid": "4-9"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.同等, 等位,常态, 票面价值, [体]标准杆数'>par</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-11", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.相等, 势均力敌, 等值'>parity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-12", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.不一致'>disparity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-13", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 轻视, 轻蔑, 贬低'>disparagement</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-14", 
-            "parentid": "3-5"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='vi. 说模棱两可的话, 支吾其词'>2. equivocate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-17", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='equal'>1. aequus-（equ-)</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-19", 
-            "parentid": "2-17"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.公平, 公正'>equity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-20", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.公平的, 公正的'>equitable</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-21", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.不公平, 不公正(in- + equ公平)'>inequity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-22", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.不正的, 不法的,邪恶的（in- 否定+equ中的e变为i ）'>iniquitous</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-23", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='否定'>1. in-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-24", 
-            "parentid": "4-23"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.春分或秋分的（equi-相等+noctis 夜）'>equinoctial</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-25", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='night 夜晚'>1. nox,noctis</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-26", 
-            "parentid": "4-25"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.在夜间的, （指生物）夜间活动的'>nocturnal</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-27", 
-            "parentid": "5-26"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.夜曲, 夜景画'>nocturne</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-28", 
-            "parentid": "5-26"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.平静, 镇定（equ- 平衡+animus 心灵 ）'>equanimity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-29", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='mind 思维，心灵'>1. animus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-30", 
-            "parentid": "4-29"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 平静, 无变动'>equability</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-31", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.平衡, 均衡, 平静（equ- 相等+libra 重量 ）'>equilibrium</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-32", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='balance,weight,pound 平衡'>1. libra</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-33", 
-            "parentid": "4-32"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.等边的, 等面的（equ-相等+lateral 边）'>equilateral</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-34", 
-            "parentid": "3-19"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='side 边'>1. latus,lateris</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-35", 
-            "parentid": "4-34"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='voice'>2. vox，vocis</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-36", 
-            "parentid": "2-17"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.喧哗的, 大叫大嚷的'>vociferous</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-37", 
-            "parentid": "3-36"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to bear,carry 承担，携带'>1. fero</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-38", 
-            "parentid": "4-37"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v. 发声(ize的意思是put into，所以vocalize就是put into voice）'>vocalize</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-39", 
-            "parentid": "3-36"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.声乐家, 歌手'>vocalist</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-40", 
-            "parentid": "3-36"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='玛格纳沃克斯（音响品牌）'>magnavox</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-41", 
-            "parentid": "3-36"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='large'>1. magnus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-42", 
-            "parentid": "4-41"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='both'>3. ambi-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-43", 
-            "parentid": "2-17"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.模棱两可的, 含糊不清的（ambi-双）'>ambiguous</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-44", 
-            "parentid": "3-43"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='带淫秽意味的双关语（法语读音）'>double entendre</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-45", 
-            "parentid": "3-43"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='马的'>equine</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-48", 
-            "parentid": "3-43"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.使…觉得痒,挑逗, 刺激, 挠痒，触动'>3. titillate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-50", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.奉承'>4. adulate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-52", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to'>1. ad-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-53", 
-            "parentid": "2-52"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='尾巴'>2. ul-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-54", 
-            "parentid": "2-52"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 奉承；谄媚'>adulation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-55", 
-            "parentid": "3-54"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.禁止,放逐,排斥,剥夺…的公权'>5. proscribe</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "2-58", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='before'>1. pro</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-59", 
-            "parentid": "2-58"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to write'>2. scribo,scriptus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-60", 
-            "parentid": "2-58"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='附笔'>postscript</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-61", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='after'>1. post</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-62", 
-            "parentid": "4-61"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='抄写员，作者'>scribe</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-63", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='乱画，匆忙的写'>scribble</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-64", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='处方，嘱咐'>prescribe</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-65", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to write down'>describe</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-66", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='down'>1. de-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-67", 
-            "parentid": "4-66"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='订阅 to write one's name under an order or contract'>subscribe</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-68", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='under'>1. sub-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-69", 
-            "parentid": "4-68"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='地铁'>subway</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-70", 
-            "parentid": "5-69"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='潜水艇'>submarine</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-71", 
-            "parentid": "5-69"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 表面下的，地下的;'>subsurface</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-72", 
-            "parentid": "5-69"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='脚本，剧本'>script</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-73", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='手写'>manuscript</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-74", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='hand 手'>1. manus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-75", 
-            "parentid": "4-74"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='打印稿'>typescript</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-76", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='刻写'>inscribe</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-77", 
-            "parentid": "3-60"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='in,into'>1. in-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-78", 
-            "parentid": "4-77"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.发生作用, 有影响'>6. militate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-81", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='soldier'>1. militis</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-82", 
-            "parentid": "2-81"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 好战的 n. 富有战斗性的人；好斗者'>militant</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-83", 
-            "parentid": "3-82"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 战斗性，交战状态;'>militancy</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-84", 
-            "parentid": "3-82"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n.军队'>military</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-85", 
-            "parentid": "3-82"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='民兵组织'>militia</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-86", 
-            "parentid": "3-82"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.诽谤, 中伤, 说坏话 adj.有害的,恶性的, 有恶意的'>7. malign</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-88", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='bad'>1. malus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-89", 
-            "parentid": "2-88"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='vt. 诽谤 adj. 恶意的'>malign</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-90", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='vi. 有影响；产生作用（接against，而且不能对人'>militate</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-91", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 坏话，诅咒（malus 坏+dict 说+tion）'>malediction</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-92", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to say，tell'>1. dico，dictus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-93", 
-            "parentid": "4-92"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='预测'>predic</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-94", 
-            "parentid": "5-93"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 独裁的，专政的（dict 说+or 人+al）'>dictatorial</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-95", 
-            "parentid": "5-93"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='反驳，驳斥; 否认，矛盾'>contradict</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-96", 
-            "parentid": "5-93"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='against,opposite'>1. contra-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "7-97", 
-            "parentid": "6-96"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='上瘾'>addiction</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-98", 
-            "parentid": "5-93"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to ,toward'>1. ad-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "7-99", 
-            "parentid": "6-98"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.有恶意的；坏心肠的（malus 坏+volo 希望+ent）'>malevolent</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-100", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to wish'>1. volo</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-101", 
-            "parentid": "4-100"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content=''>voluntary</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-102", 
-            "parentid": "5-101"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 意志，意志力；决断力'>volition</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-103", 
-            "parentid": "5-101"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 有害的；犯罪的；做坏事的（malus 坏+fic 做+ent）'>maleficent</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-104", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to make'>1. facio（fec-，fic，fy,-fy）</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-105", 
-            "parentid": "4-104"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='工厂'>factory</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-106", 
-            "parentid": "5-105"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='小说，编造'>fiction</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-107", 
-            "parentid": "5-105"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='制造'>manufacture</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-108", 
-            "parentid": "5-105"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='vt. 使清楚，澄清;'>clarify</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-109", 
-            "parentid": "5-105"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 作恶者；罪犯；坏人（malus 坏+fic 做+or人）'>malefactor</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-110", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.不熟练的（malus坏+adroit 右手，熟练+ness）'>maladroitness</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-111", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 不舒服；心神不安'>malaise</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-112", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 恶意的，有敌意的;'>malicious</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-113", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 怨恨; 恶意，恶感; [法] 预谋; 祸心;'>malice</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-114", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 疾病; 病症, 弊病，弊端; 弊害'>malady</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-115", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 失调的，不适应环境的'>maladjusted</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-116", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 不满者;'>malcontent</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-117", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 弊端; <律>玩忽职守;'>malpractice</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-118", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 营养不良;'>malnutrition</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-119", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 奖金，额外津贴; 红利'>bonus</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-121", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.良性的'>benign</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-122", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 祝福; 恩赐;'>benediction</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-123", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 行善的; 仁慈的，慈爱的;'>beneficent</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-124", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 乐善好施的; 慈善的; 好心肠的; 与人为善的;'>benevolent</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-125", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 恩人; 捐助者; 施主;'>benefactor</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-126", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 善意的; 真正的; 真诚的; 真实的;'>bona fide</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-127", 
-            "parentid": "3-89"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='faith,trust'>1. fide</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-128", 
-            "parentid": "4-127"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='//en.wikipedia.org/wiki/Fido_(dog)'>Fido : 狗名 https</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-129", 
-            "parentid": "5-128"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 保真度；忠诚；精确；尽责'>fidelity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-130", 
-            "parentid": "5-128"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 无信仰，不信神；背信'>infidelity</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-131", 
-            "parentid": "5-128"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 异教徒；无信仰者（in- 否定+fide信仰）'>infidel</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-132", 
-            "parentid": "5-128"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='vt. 宽恕'>8. condone</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-134", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to give'>1. dono</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-135", 
-            "parentid": "2-134"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. （夫妻间对对方通奸的）宽恕；赦免；赎罪'>condonation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-136", 
-            "parentid": "3-135"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.排除, 消除, 避免'>9. obviate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-138", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='in front of, against'>1. ob-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-139", 
-            "parentid": "2-138"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 消除；回避；避免'>obviation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-140", 
-            "parentid": "3-139"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='road'>2. via</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-141", 
-            "parentid": "2-138"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='阿庇亚大道'>Via Appia</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-142", 
-            "parentid": "3-141"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 琐事'>trivia</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-143", 
-            "parentid": "3-141"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='three'>1.tri-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-144", 
-            "parentid": "4-143"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 不重要的，琐碎的；琐细的 （tri- 三+via 路，交叉路口很吵，不适合谈重要的事情）'>trivial</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-145", 
-            "parentid": "5-144"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 浅薄，轻浮；琐事；平凡'>trivialities</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "6-146", 
-            "parentid": "5-144"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='v.抚慰, 平息, 和解'>10. placate</div>", 
-            "direction": "right", 
-            "expanded": false, 
-            "id": "2-149", 
-            "parentid": "root"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='to please，appease，soothe，pacify'>1. plac-</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "3-151", 
-            "parentid": "2-149"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='无法消解的'>implacable</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-152", 
-            "parentid": "3-151"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='not，negative prefix'>1. im-（in-）</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-153", 
-            "parentid": "4-152"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='n. 安抚'>placation</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-154", 
-            "parentid": "3-151"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 易抚慰的；易和解的（plac-安抚+able可以）'>placable</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-155", 
-            "parentid": "3-151"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj.不易安抚的'>implacable</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-156", 
-            "parentid": "3-151"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 平静的；温和的；沉着的'>placid</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-157", 
-            "parentid": "3-151"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='adj. 自满的；得意的；满足的'>complacent</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "4-158", 
-            "parentid": "3-151"
-        }, 
-        {
-            "topic": "<div data-toggle='popover' data-content='with，together'>1. com-（con-）</div>", 
-            "direction": "left", 
-            "expanded": false, 
-            "id": "5-159", 
-            "parentid": "4-158"
-        }
-    ], 
-    "format": "node_array"
+  "meta": {
+    "version": "0.2", 
+    "name": "jsMind-demo-tree", 
+    "author": "hizzgdev@163.com"
+  }, 
+  "data": {
+    "topic": "How To Talk About Actions", 
+    "id": "root", 
+    "children": [
+      {
+        "topic": "<div data-toggle='popover' data-content='vt. 蔑视, 贬损'>1. disparage</div>", 
+        "direction": "left", 
+        "id": 1, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='negative prefix'>dis-</div>", 
+            "id": 2, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='equal'>par</div>", 
+            "id": 3, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='n.一对, 一双, 一副 （来自par）'>pair</div>", 
+                "id": 4, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.同辈, 同等的人, 贵族 （同样来自par）'>peer</div>", 
+                "id": 5, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  奇偶性; 平价，价值对等; 同等，平等;'>parity</div>", 
+                "id": 6, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='v.比较 （com-共同+par一致）'>compare</div>", 
+                "id": 7, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='together，with'>con- com-</div>", 
+                    "id": 8, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.同等, 等位,常态, 票面价值, [体]标准杆数'>par</div>", 
+                "id": 9, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.相等, 势均力敌, 等值'>parity</div>", 
+                "id": 10, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.不一致'>disparity</div>", 
+                "id": 11, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 轻视, 轻蔑, 贬低'>disparagement</div>", 
+                "id": 12, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='vi. 说模棱两可的话, 支吾其词'>2. equivocate</div>", 
+        "direction": "left", 
+        "id": 13, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='equal'>aequus-（equ-)</div>", 
+            "id": 14, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='n.公平, 公正'>equity</div>", 
+                "id": 15, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.公平的, 公正的'>equitable</div>", 
+                "id": 16, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.不公平, 不公正(in- + equ公平)'>inequity</div>", 
+                "id": 17, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.不正的, 不法的,邪恶的（in- 否定+equ中的e变为i ）'>iniquitous</div>", 
+                "id": 18, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='否定'>in-</div>", 
+                    "id": 19, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.春分或秋分的（equi-相等+noctis 夜）'>equinoctial</div>", 
+                "id": 20, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='night     夜晚'>nox,noctis</div>", 
+                    "id": 21, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='adj.在夜间的, （指生物）夜间活动的'>nocturnal</div>", 
+                        "id": 22, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='n.夜曲, 夜景画'>nocturne</div>", 
+                        "id": 23, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.平静, 镇定（equ- 平衡+animus 心灵 ）'>equanimity</div>", 
+                "id": 24, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='mind   思维，心灵'>animus</div>", 
+                    "id": 25, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 平静, 无变动'>equability</div>", 
+                "id": 26, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.平衡, 均衡, 平静（equ- 相等+libra 重量 ）'>equilibrium</div>", 
+                "id": 27, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='balance,weight,pound           平衡'>libra</div>", 
+                    "id": 28, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.等边的, 等面的（equ-相等+lateral 边）'>equilateral</div>", 
+                "id": 29, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='side      边'>latus,lateris</div>", 
+                    "id": 30, 
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='voice'>vox，vocis</div>", 
+            "id": 31, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.喧哗的, 大叫大嚷的'>vociferous</div>", 
+                "id": 32, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='to bear,carry                          承担，携带'>fero</div>", 
+                    "id": 33, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='v. 发声(ize的意思是put into，所以vocalize就是put into voice）'>vocalize</div>", 
+                "id": 34, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.声乐家, 歌手'>vocalist</div>", 
+                "id": 35, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='玛格纳沃克斯（音响品牌）'>magnavox</div>", 
+                "id": 36, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='large'>magnus</div>", 
+                    "id": 37, 
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='both'>ambi-</div>", 
+            "id": 38, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.模棱两可的, 含糊不清的（ambi-双）'>ambiguous</div>", 
+                "id": 39, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='带淫秽意味的双关语（法语读音）'>double entendre</div>", 
+                "id": 40, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='verb suffix'>-ate</div>", 
+            "id": 41, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='马'>equus(equ-)</div>", 
+            "id": 42, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='马的'>equine</div>", 
+                "id": 43, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='v.使…觉得痒,挑逗, 刺激, 挠痒，触动'>3. titillate</div>", 
+        "direction": "left", 
+        "id": 44, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to'>ad-</div>", 
+            "id": 45, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='尾巴'>ul-</div>", 
+            "id": 46, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 奉承；谄媚'>adulation</div>", 
+                "id": 47, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj. 阿谀的，奉承的；谄媚的'>adulatory</div>", 
+                "id": 48, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='v.奉承'>4. adulate</div>", 
+        "direction": "left", 
+        "id": 49, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to'>ad-</div>", 
+            "id": 50, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='尾巴'>ul-</div>", 
+            "id": 51, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 奉承；谄媚'>adulation</div>", 
+                "id": 52, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj. 阿谀的，奉承的；谄媚的'>adulatory</div>", 
+                "id": 53, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='v.禁止,放逐,排斥,剥夺…的公权'>5. proscribe</div>", 
+        "direction": "left", 
+        "id": 54, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='before'>pro</div>", 
+            "id": 55, 
+            "children": []
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='to write'>scribo,scriptus</div>", 
+            "id": 56, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='附笔'>postscript</div>", 
+                "id": 57, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='after'>post</div>", 
+                    "id": 58, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='抄写员，作者'>scribe</div>", 
+                "id": 59, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='乱画，匆忙的写'>scribble</div>", 
+                "id": 60, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='处方，嘱咐'>prescribe</div>", 
+                "id": 61, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='to write down'>describe</div>", 
+                "id": 62, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='down'>de-</div>", 
+                    "id": 63, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='订阅 to write one's name under an order or contract'>subscribe</div>", 
+                "id": 64, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='under'>sub-</div>", 
+                    "id": 65, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='地铁'>subway</div>", 
+                        "id": 66, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='潜水艇'>submarine</div>", 
+                        "id": 67, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='adj.    表面下的，地下的;'>subsurface</div>", 
+                        "id": 68, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='脚本，剧本'>script</div>", 
+                "id": 69, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='手写'>manuscript</div>", 
+                "id": 70, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='hand 手'>manus</div>", 
+                    "id": 71, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='打印稿'>typescript</div>", 
+                "id": 72, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='刻写'>inscribe</div>", 
+                "id": 73, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='in,into'>in-</div>", 
+                    "id": 74, 
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='v.发生作用, 有影响'>6. militate</div>", 
+        "direction": "left", 
+        "id": 75, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='soldier'>militis</div>", 
+            "id": 76, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='adj. 好战的  n. 富有战斗性的人；好斗者'>militant</div>", 
+                "id": 77, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  战斗性，交战状态;'>militancy</div>", 
+                "id": 78, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.军队'>military</div>", 
+                "id": 79, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='民兵组织'>militia</div>", 
+                "id": 80, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='v.诽谤, 中伤, 说坏话 adj.有害的,恶性的, 有恶意的'>7. malign</div>", 
+        "direction": "left", 
+        "id": 81, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='bad'>malus</div>", 
+            "id": 82, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='vt. 诽谤 adj. 恶意的'>malign</div>", 
+                "id": 83, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='vi. 有影响；产生作用（接against，而且不能对人'>militate</div>", 
+                "id": 84, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 坏话，诅咒（malus 坏+dict 说+tion）'>malediction</div>", 
+                "id": 85, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='to say，tell'>dico，dictus</div>", 
+                    "id": 86, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='预测'>predic</div>", 
+                        "id": 87, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='adj. 独裁的，专政的（dict 说+or 人+al）'>dictatorial</div>", 
+                        "id": 88, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='反驳，驳斥; 否认，矛盾'>contradict</div>", 
+                        "id": 89, 
+                        "children": [
+                          {
+                            "topic": "<div data-toggle='popover' data-content='against,opposite'>contra-</div>", 
+                            "id": 90, 
+                            "children": []
+                          }
+                        ]
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='上瘾'>addiction</div>", 
+                        "id": 91, 
+                        "children": [
+                          {
+                            "topic": "<div data-toggle='popover' data-content='to ,toward'>ad-</div>", 
+                            "id": 92, 
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.有恶意的；坏心肠的（malus 坏+volo 希望+ent）'>malevolent</div>", 
+                "id": 93, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='to wish'>volo</div>", 
+                    "id": 94, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content=''>voluntary</div>", 
+                        "id": 95, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='n. 意志，意志力；决断力'>volition</div>", 
+                        "id": 96, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj. 有害的；犯罪的；做坏事的（malus 坏+fic 做+ent）'>maleficent</div>", 
+                "id": 97, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='to make'>facio（fec-，fic，fy,-fy）</div>", 
+                    "id": 98, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='工厂'>factory</div>", 
+                        "id": 99, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='小说，编造'>fiction</div>", 
+                        "id": 100, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='制造'>manufacture</div>", 
+                        "id": 101, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='vt. 使清楚，澄清;'>clarify</div>", 
+                        "id": 102, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 作恶者；罪犯；坏人（malus 坏+fic 做+or人）'>malefactor</div>", 
+                "id": 103, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.不熟练的（malus坏+adroit 右手，熟练+ness）'>maladroitness</div>", 
+                "id": 104, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 不舒服；心神不安'>malaise</div>", 
+                "id": 105, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.    恶意的，有敌意的;'>malicious</div>", 
+                "id": 106, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  怨恨; 恶意，恶感; [法] 预谋; 祸心;'>malice</div>", 
+                "id": 107, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  疾病; 病症, 弊病，弊端; 弊害'>malady</div>", 
+                "id": 108, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.    失调的，不适应环境的'>maladjusted</div>", 
+                "id": 109, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  不满者;'>malcontent</div>", 
+                "id": 110, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  弊端; <律>玩忽职守;'>malpractice</div>", 
+                "id": 111, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  营养不良;'>malnutrition</div>", 
+                "id": 112, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content=''>bene</div>", 
+            "id": 113, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  奖金，额外津贴; 红利'>bonus</div>", 
+                "id": 114, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.良性的'>benign</div>", 
+                "id": 115, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  祝福; 恩赐;'>benediction</div>", 
+                "id": 116, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.    行善的; 仁慈的，慈爱的;'>beneficent</div>", 
+                "id": 117, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.    乐善好施的; 慈善的; 好心肠的; 与人为善的;'>benevolent</div>", 
+                "id": 118, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n.  恩人; 捐助者; 施主;'>benefactor</div>", 
+                "id": 119, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.    善意的; 真正的; 真诚的; 真实的;'>bona fide</div>", 
+                "id": 120, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='faith,trust'>fide</div>", 
+                    "id": 121, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='狗名'>Fido</div>", 
+                        "id": 122, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='n. 保真度；忠诚；精确；尽责'>fidelity</div>", 
+                        "id": 123, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='n. 无信仰，不信神；背信'>infidelity</div>", 
+                        "id": 124, 
+                        "children": []
+                      }, 
+                      {
+                        "topic": "<div data-toggle='popover' data-content='n. 异教徒；无信仰者（in- 否定+fide信仰）'>infidel</div>", 
+                        "id": 125, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='vt. 宽恕'>8. condone</div>", 
+        "direction": "left", 
+        "id": 126, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to give'>dono</div>", 
+            "id": 127, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='n. （夫妻间对对方通奸的）宽恕；赦免；赎罪'>condonation</div>", 
+                "id": 128, 
+                "children": []
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='v.排除, 消除, 避免'>9. obviate</div>", 
+        "direction": "left", 
+        "id": 129, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='in front of, against'>ob-</div>", 
+            "id": 130, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 消除；回避；避免'>obviation</div>", 
+                "id": 131, 
+                "children": []
+              }
+            ]
+          }, 
+          {
+            "topic": "<div data-toggle='popover' data-content='road'>via</div>", 
+            "id": 132, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='阿庇亚大道'>Via Appia</div>", 
+                "id": 133, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 琐事'>trivia</div>", 
+                "id": 134, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='three'>1.tri-</div>", 
+                    "id": 135, 
+                    "children": [
+                      {
+                        "topic": "<div data-toggle='popover' data-content='adj. 不重要的，琐碎的；琐细的 （tri- 三+via 路，交叉路口很吵，不适合谈重要的事情）\n  - trivialities'>- trivial</div>", 
+                        "id": 136, 
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "topic": "<div data-toggle='popover' data-content='v.抚慰, 平息, 和解'>10. placate</div>", 
+        "direction": "left", 
+        "id": 137, 
+        "children": [
+          {
+            "topic": "<div data-toggle='popover' data-content='to please，appease，soothe，pacify'>plac-</div>", 
+            "id": 138, 
+            "children": [
+              {
+                "topic": "<div data-toggle='popover' data-content='无法消解的'>implacable</div>", 
+                "id": 139, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='not，negative prefix'>im-（in-）</div>", 
+                    "id": 140, 
+                    "children": []
+                  }
+                ]
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='n. 安抚'>placation</div>", 
+                "id": 141, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj. 易抚慰的；易和解的（plac-安抚+able可以）'>placable</div>", 
+                "id": 142, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj.不易安抚的'>implacable</div>", 
+                "id": 143, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj. 平静的；温和的；沉着的'>placid</div>", 
+                "id": 144, 
+                "children": []
+              }, 
+              {
+                "topic": "<div data-toggle='popover' data-content='adj. 自满的；得意的；满足的'>complacent</div>", 
+                "id": 145, 
+                "children": [
+                  {
+                    "topic": "<div data-toggle='popover' data-content='with，together'>com-（con-）</div>", 
+                    "id": 146, 
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  "format": "node_tree"
 }
