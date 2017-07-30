@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='利己主义者'>1.egoist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -49,6 +50,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='自大的人'>2.egotist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 7, 
         "children": [
           {
@@ -105,6 +107,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='利他主义者'>3.altruist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 16, 
         "children": [
           {
@@ -161,6 +164,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='内向的人'>4.introvert</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 25, 
         "children": [
           {
@@ -180,6 +184,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='外向的人'>5.extrovert</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 28, 
         "children": [
           {
@@ -193,6 +198,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='又内向又外向的普通人'>6.ambivert</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 30, 
         "children": [
           {
@@ -256,6 +262,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='反人类'>7.misanthrope</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 40, 
         "children": [
           {
@@ -308,6 +315,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='反女人'>8.misogynist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 48, 
         "children": [
           {
@@ -360,6 +368,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='反婚姻'>9.misogamist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 56, 
         "children": [
           {
@@ -392,6 +401,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='禁欲主义者'>10.ascetic</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 61, 
         "children": [
           {

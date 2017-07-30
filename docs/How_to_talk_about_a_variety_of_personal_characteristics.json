@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='巴结的，奉承迎合'>1. obsequious</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -49,6 +50,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='抱怨的'>2. querulous</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 7, 
         "children": [
           {
@@ -62,6 +64,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='傲慢的'>3. supercilious</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 9, 
         "children": [
           {
@@ -81,6 +84,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='任性的，喧闹的'>4. obstreperous</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 12, 
         "children": [
           {
@@ -94,6 +98,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='一贫如洗'>5. impecunious</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 14, 
         "children": [
           {
@@ -120,6 +125,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='彬彬有礼的，骑士精神'>6. chivalrous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 18, 
         "children": [
           {
@@ -189,6 +195,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='无害的'>7. inncouous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 29, 
         "children": [
           {
@@ -215,6 +222,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='喝酒的，饮酒的'>8. bibulous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 33, 
         "children": [
           {
@@ -248,6 +256,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='形容枯槁'>9. cadaverous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 38, 
         "children": [
           {
@@ -281,6 +290,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='痛苦的，悲哀的'>10. dolorous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 43, 
         "children": [
           {

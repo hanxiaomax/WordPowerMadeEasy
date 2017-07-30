@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n. 严格执行纪律的人'>1. martinet</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -37,6 +38,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n. 谄媚者；奉承者'>2. sycophant</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 5, 
         "children": [
           {
@@ -63,6 +65,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n. 业余爱好者；半吊子'>3. dilettante</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 9, 
         "children": [
           {
@@ -89,6 +92,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n.泼妇'>4. virago</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 13, 
         "children": [
           {
@@ -441,6 +445,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n.沙文主义者，盲目爱国者'>5. chauvinist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 69, 
         "children": [
           {
@@ -642,6 +647,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n.偏执狂'>6. monomaniac</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 100, 
         "children": [
           {
@@ -843,6 +849,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n. 偶像破坏者；提倡打破旧习的人'>7. iconoclast</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 131, 
         "children": [
           {
@@ -869,6 +876,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n.无神论者'>8. atheist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 135, 
         "children": [
           {
@@ -987,6 +995,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n.色狼'>9. lecher</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 153, 
         "children": [
           {
@@ -1043,6 +1052,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='n.臆想狂'>10.hypochondriac</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 162, 
         "children": [
           {

@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='人类学家'>1. anthropologist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -37,6 +38,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='天文学家'>2. astronomer</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 5, 
         "children": [
           {
@@ -120,6 +122,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='地质学家'>3. geologist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 18, 
         "children": [
           {
@@ -158,6 +161,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='生物学家'>4. biologist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 24, 
         "children": [
           {
@@ -223,6 +227,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='植物学家'>5. botanist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 34, 
         "children": [
           {
@@ -236,6 +241,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='动物学家'>6. zoologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 36, 
         "children": [
           {
@@ -331,6 +337,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='昆虫学家'>7. entomologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 51, 
         "children": [
           {
@@ -426,6 +433,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='语言学者, 文献学者'>8. philologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 66, 
         "children": [
           {
@@ -509,6 +517,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='语义学家'>9. semanticist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 79, 
         "children": [
           {
@@ -522,6 +531,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='社会学家'>10. sociologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 81, 
         "children": [
           {

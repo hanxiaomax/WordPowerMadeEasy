@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 沉默寡言的；无言的，不太说话的'>1. taciturn</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -37,6 +38,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 简洁的，简明的'>2. laconic</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 5, 
         "children": [
           {
@@ -331,6 +333,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 口齿不清的；说不出话的'>3. inarticulate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 51, 
         "children": [
           {
@@ -357,6 +360,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 唠叨的；喋喋不休的；多嘴的'>4. garrulous</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 55, 
         "children": [
           {
@@ -377,6 +381,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 陈腐的；平庸的；老一套的'>5. banal</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 58, 
         "children": [
           {
@@ -415,6 +420,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 冗长的；啰嗦的'>6. verbose</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 64, 
         "children": [
           {
@@ -453,6 +459,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 健谈的；缠绕的；易旋转的'>7. voluble</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 70, 
         "children": [
           {
@@ -504,6 +511,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 强有力的；使人信服的'>8. cogent</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 78, 
         "children": [
           {
@@ -524,6 +532,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 大声叫的；喊叫的，喧嚷的'>9. vociferous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 81, 
         "children": [
           {
@@ -621,6 +630,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='adj. 饶舌的，多话的'>10.loquacious</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 96, 
         "children": []
       }

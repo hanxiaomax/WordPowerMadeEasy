@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='欢快友善的'>1. convivial</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -61,6 +62,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='不知疲倦的'>2.indefatigable</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 9, 
         "children": [
           {
@@ -99,6 +101,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='有洞察力的，聪颖的'>3. perspicacious</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 15, 
         "children": [
           {
@@ -195,6 +198,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='心胸宽广的'>4. magnanimous</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 30, 
         "children": [
           {
@@ -265,6 +269,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='多才多艺的'>5. versatile</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 41, 
         "children": [
           {
@@ -278,6 +283,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='坚韧的'>6.stoical</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 43, 
         "children": [
           {
@@ -291,6 +297,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='勇敢的'>7.intrepid</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 45, 
         "children": [
           {
@@ -310,6 +317,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='才华横溢'>8. scintillating</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 48, 
         "children": [
           {
@@ -323,6 +331,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='彬彬有礼的'>9. urbane</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 50, 
         "children": [
           {

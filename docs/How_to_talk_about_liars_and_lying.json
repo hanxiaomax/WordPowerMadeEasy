@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='臭名昭著的骗子'>1. A notorious liar</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -31,6 +32,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='说慌老手'>2. A consummate liar</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 4, 
         "children": [
           {
@@ -51,6 +53,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='积习难改的骗子'>3. An incorrigible liar</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 7, 
         "children": [
           {
@@ -70,6 +73,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='说谎成瘾的人'>4. An inveterate liar</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 10, 
         "children": [
           {
@@ -96,6 +100,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='天生的骗子'>5. A congenial liar</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 14, 
         "children": [
           {
@@ -134,6 +139,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='常年说谎的骗子'>6. A chronic liar</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 20, 
         "children": [
           {
@@ -282,6 +288,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='病态撒谎者'>7. A pathological liar</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 43, 
         "children": [
           {
@@ -350,6 +357,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='无意的说谎者'>8. An unconscionable liar</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 54, 
         "children": [
           {
@@ -418,6 +426,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='油嘴滑舌的说谎者'>9. A glib liar</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 65, 
         "children": [
           {
@@ -463,6 +472,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='恶名昭彰的的说谎者'>10. A egregious liar</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 72, 
         "children": [
           {

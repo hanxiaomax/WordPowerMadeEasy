@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='内科医生'>1. internist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -24,6 +25,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='妇科医生'>2. gynecologist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 3, 
         "children": [
           {
@@ -37,6 +39,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='产科医生'>3. obstetrician</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 5, 
         "children": [
           {
@@ -69,6 +72,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='儿科医生'>4.pediatrician</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 10, 
         "children": [
           {
@@ -134,6 +138,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='皮肤科医生'>5.dermatologist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 20, 
         "children": [
           {
@@ -209,6 +214,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='眼科医生'>6.ophthalmologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 32, 
         "children": [
           {
@@ -290,6 +296,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='整形外科医生'>7. orthopedist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 45, 
         "children": [
           {
@@ -316,6 +323,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='心脏病学家'>8.cardiologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 49, 
         "children": [
           {
@@ -348,6 +356,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='神经病学家'>9.neurologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 54, 
         "children": [
           {
@@ -394,6 +403,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='精神病医生'>10.psychiatrist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 61, 
         "children": [
           {

@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='vt. 蔑视, 贬损'>1. disparage</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -86,6 +87,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='vi. 说模棱两可的话, 支吾其词'>2. equivocate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 13, 
         "children": [
           {
@@ -285,6 +287,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='v.使…觉得痒,挑逗, 刺激, 挠痒，触动'>3. titillate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 44, 
         "children": [
           {
@@ -317,6 +320,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='v.奉承'>4. adulate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 49, 
         "children": [
           {
@@ -349,6 +353,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='v.禁止,放逐,排斥,剥夺…的公权'>5. proscribe</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 54, 
         "children": [
           {
@@ -483,6 +488,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='v.发生作用, 有影响'>6. militate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 75, 
         "children": [
           {
@@ -521,6 +527,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='v.诽谤, 中伤, 说坏话 adj.有害的,恶性的, 有恶意的'>7. malign</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 81, 
         "children": [
           {
@@ -804,6 +811,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='vt. 宽恕'>8. condone</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 126, 
         "children": [
           {
@@ -824,6 +832,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='v.排除, 消除, 避免'>9. obviate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 129, 
         "children": [
           {
@@ -877,6 +886,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='v.抚慰, 平息, 和解'>10. placate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 137, 
         "children": [
           {

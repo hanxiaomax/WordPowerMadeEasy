@@ -74,7 +74,8 @@ class Markdown2MindMap(object):
             'id': self._getid(),
             'topic': _get_topic(h2.string),
             "direction": direction,
-            'children': []
+            'children': [],
+            "expanded": False,
         }
         self.data['children'].append(data_h2)
         return data_h2

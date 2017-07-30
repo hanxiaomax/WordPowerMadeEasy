@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='心理学家'>1. psychologist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -80,6 +81,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='精神分析学家'>2. psychoanalyst</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 12, 
         "children": [
           {
@@ -145,6 +147,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='牙齿矫正师'>3. orthodontist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 22, 
         "children": [
           {
@@ -210,6 +213,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='视力测量师'>4. optometrist</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 32, 
         "children": [
           {
@@ -262,6 +266,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='配镜师'>5. optician</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 40, 
         "children": [
           {
@@ -288,6 +293,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='整骨疗法家,整骨医生'>6. osteopath</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 44, 
         "children": [
           {
@@ -314,6 +320,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='按摩师'>7. chiropractor</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 48, 
         "children": [
           {
@@ -346,6 +353,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='脚病医生'>8. podiatrist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 53, 
         "children": [
           {
@@ -418,6 +426,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='笔迹学家'>9. graphologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 64, 
         "children": [
           {
@@ -522,6 +531,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='老年医学家'>10. gerontologist</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 80, 
         "children": [
           {

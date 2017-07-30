@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='使衰竭，使衰弱'>1. to enervate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -156,6 +157,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='责骂，苛责'>2. to castigate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 23, 
         "children": [
           {
@@ -188,6 +190,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='自我舍弃，利他'>3. to self-abnegate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 28, 
         "children": [
           {
@@ -220,6 +223,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='概括；重述要点'>4. to recapitulate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 33, 
         "children": [
           {
@@ -271,6 +275,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='过单调呆板的生活'>5. to vegetate</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 41, 
         "children": [
           {
@@ -291,6 +296,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='伪装，假装'>6. to simulate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 44, 
         "children": [
           {
@@ -347,6 +353,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='暗示'>7. to intimate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 53, 
         "children": [
           {
@@ -373,6 +380,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='减轻'>8. to alleviate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 57, 
         "children": [
           {
@@ -443,6 +451,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='同情'>9. to commiserate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 68, 
         "children": [
           {
@@ -481,6 +490,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='拿不定主意'>10. to vacillate</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 74, 
         "children": [
           {

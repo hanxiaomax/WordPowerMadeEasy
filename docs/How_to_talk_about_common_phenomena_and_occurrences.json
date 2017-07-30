@@ -11,6 +11,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='生活贫困'>1. in penury</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 1, 
         "children": [
           {
@@ -106,6 +107,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='感同身受'>2. vicarious feeling</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 16, 
         "children": [
           {
@@ -176,6 +178,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='短暂，朝生暮死'>3. ephemeral</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 27, 
         "children": [
           {
@@ -246,6 +249,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='婉转语'>4. euphemisms</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 38, 
         "children": [
           {
@@ -320,6 +324,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='打趣，玩笑'>5. badinage</div>", 
         "direction": "right", 
+        "expanded": false, 
         "id": 50, 
         "children": [
           {
@@ -390,6 +395,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='牛一样的，迟钝的'>6. bovine</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 61, 
         "children": [
           {
@@ -553,6 +559,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='思乡病，怀旧'>7. nostalgia</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 86, 
         "children": [
           {
@@ -572,6 +579,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='发音不和谐的，刺耳的'>8. cacophonous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 89, 
         "children": [
           {
@@ -641,6 +649,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='肉食的'>9. carnivorous</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 100, 
         "children": [
           {
@@ -753,6 +762,7 @@
       {
         "topic": "<div data-toggle='popover' data-content='秘密的，私下的'>10. clandestine</div>", 
         "direction": "left", 
+        "expanded": false, 
         "id": 118, 
         "children": [
           {
