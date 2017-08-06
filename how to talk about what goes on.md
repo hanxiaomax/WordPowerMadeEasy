@@ -25,6 +25,10 @@
 2. nervus		:	nerve 神经
 	
 ## 2. to castigate : 责骂，苛责
+1. castus				:	pure，纯洁
+	- caste				:	种姓制度
+2. agere				: 	to do
+
 ## 3. to self-abnegate : 自我舍弃，利他
 1. ab-			:		away
 2. nego			:		to deny

@@ -1,6 +1,7 @@
 # How To Insult Your Enemies
 
 ## 1. martinet                       :       n. 严格执行纪律的人
+
 ## 2. sycophant                      :       n. 谄媚者；奉承者 
 1. sykon                             :       fig
     - sycophancy                  :     n. 谄媚；奉承；追随；拍马屁

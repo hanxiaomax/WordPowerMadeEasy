@@ -1,7 +1,8 @@
 # How To Talk About a Variety of Personal Characteristics
 
 ## 1. obsequious : 巴结的，奉承迎合
-1. sequor (sequ-)		: 	to follow
+1. ob- 					:	after
+2. sequor (sequ-)		: 	to follow
 	- obsequies 		:	葬礼
 	- subsequent 		:	随后的
 	- sequel 			: 	结果，结局
@@ -47,7 +48,7 @@
 		1. im- 		: 	in
 	- bib 			: 	围嘴
 
-## 9. cadaverous   :    形容枯槁
+## 9. cadaverous   :    形容枯槁 looking like a corpse
 1. cada 			:	 to fall
 	- cadaver 		:	 尸体
 	- decadent 		:	 颓废的
@@ -56,9 +57,9 @@
 ## 10. dolorous    :	痛苦的，悲哀的
 1. doleo  			: 	to suffer or grieve
 	- dolor 		:	悲伤
-	- doleful 		:  悲伤的
-	- condole 		: 表示同情，吊唁
-		1. con- 	: together
+	- doleful 		:  	悲伤的
+	- condole 		: 	表示同情，吊唁
+		1. con- 	: 	together
 
 
 

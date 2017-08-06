@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "version": "0.2", 
+    "name": "jsMind-demo-tree", 
+    "author": "hizzgdev@163.com"
+  }, 
+  "data": {
+    "topic": "Python 资源大全中文版", 
+    "id": "root", 
+    "children": [
+      {
+        "topic": null, 
+        "direction": "right", 
+        "expanded": false, 
+        "id": 1, 
+        "children": []
+      }, 
+      {
+        "topic": null, 
+        "direction": "left", 
+        "expanded": false, 
+        "id": 2, 
+        "children": []
+      }
+    ]
+  }, 
+  "format": "node_tree"
+}
