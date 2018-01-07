@@ -1,6 +1,7 @@
 # How To Flatter Your Friends
 
-## 1. convivial     :   欢快友善的. 1660s, "pertaining to a feast," from Late Latin convivialis, from Latin convivium "a feast," from convivere "to carouse together," from com "with, together" (see com-) + vivere "to live" (from PIE root *gwei- "to live"). Meaning "sociable" is from 18c. Related: Conviviality.
+## 1. convivial     :   欢快友善的.   
+
 1. vivo         	:               to live 
 	- vivacious   	:               adj. 活泼的；快活的；有生气的
 	- vivid       	:               adj. 生动的；鲜明的；鲜艳的
@@ -104,3 +105,4 @@
 		1. intra-   	:       inside
 	- exurb       		: 		n. 远郊地区；城市远郊；城市远郊富裕家庭居住区
 		1. ex-     		:      	out
+
