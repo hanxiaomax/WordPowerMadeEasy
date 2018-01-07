@@ -14,30 +14,30 @@
 
 ### 文字笔记
 
-- 第一章：[How To Talk About Personality](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20personality.md)
+- 第一章：[How To Talk About Personality](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_personality.md)
 
 
-- 第二章：[How To Talk About Doctors](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20doctors.md)
+- 第二章：[How To Talk About Doctors](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_doctors.md)
 
-- 第三章：[How To Talk About Various Practitioners](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20various%20practitioners.md)
+- 第三章：[How To Talk About Various Practitioners](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_various_practitioners.md)
 
-- 第四章：[How To Talk About Science And Scientists](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20science%20and%20scientist.md)
+- 第四章：[How To Talk About Science And Scientists](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_science_and_scientist.md)
 
-- 第五章：[How To Talk About Liars And Lying](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20liars%20and%20lying.md)
+- 第五章：[How To Talk About Liars And Lying](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_liars_and_lying.md)
 
-- 第六章：[How To Talk About Actions](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20actions.md)
+- 第六章：[How To Talk About Actions](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_actions.md)
 
-- 第七章：[How To Talk About Various Speech Habits](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20various%20speech%20habits.md)
+- 第七章：[How To Talk About Various Speech Habits](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_various_speech_habits.md)
 
-- 第八章：[How To Insult Your Enemies](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20insult%20your%20enemies.md)
+- 第八章：[How To Insult Your Enemies](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_insult_your_enemies.md)
 
-- 第九章：[How To Flatter Your Friends](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20flatter%20your%20friends.md)
+- 第九章：[How To Flatter Your Friends](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_flatter_your_friends.md)
 
-- 第十章：[How To Talk About Common Phenomena and Occurrences](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20common%20phenomena%20and%20occurrences.md)
+- 第十章：[How To Talk About Common Phenomena and Occurrences](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_common_phenomena_and_occurrences.md)
 
-- 第十一章：[How To Talk About What Goes On](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/how%20to%20talk%20about%20what%20goes%20on.md)
+- 第十一章：[How To Talk About What Goes On](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/how_to_talk_about_what_goes_on.md)
 
-- 第十二章：[How To Talk About a Variety of Personal Characteristics](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How%20to%20talk%20about%20a%20variety%20of%20personal%20characteristics.md)
+- 第十二章：[How To Talk About a Variety of Personal Characteristics](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_a_variety_of_personal_characteristics.md)
 
 
 
