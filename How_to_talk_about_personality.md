@@ -13,7 +13,7 @@
 ## 3.altruist 		:利他主义者
 
 1. alter                :other
-	- alism				:利他主义
+	- alterism				:利他主义
 	- altruistic			:	利他主义的
 	- alternate             :  		other possible 替代物，skip one and take other 间隔，轮换
 	- alternative            :		other choice   替代物            
