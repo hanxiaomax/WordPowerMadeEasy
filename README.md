@@ -41,7 +41,7 @@
 
 
 
-### 如何参与
+### 如何参与([使用 prose.io进行编辑](http://prose.io/#hanxiaomax/WordPowerMadeEasy))
 
 1. fork本项目
 2. 编辑根目录下的markdown文档
