@@ -12,6 +12,8 @@
 
 - [MindMap](https://hanxiaomax.github.io/WordPowerMadeEasy/)
 
+![](http://oat186w2g.bkt.clouddn.com/Xnip2018-10-03_21-08-38.png)
+
 ### 文字笔记
 
 - 第一章：[How To Talk About Personality](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/How_to_talk_about_personality.md)
