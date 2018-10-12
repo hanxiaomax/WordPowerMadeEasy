@@ -75,3 +75,5 @@ title: 首页
 3. 您可以在文档的基础上继续向下联想或补充某个词根的派生词，markdown修改完成后，运行`python covertMD2MindMap.py`将其转换为json格式（可选操作），然后创建pull request
 
 4. 打赏本项目作者小艾一根鸡腿，由他进行补充完善（滑稽）
+
+### Note: 思维导图已经移动到[word_power_made_easy_mindmap](https://github.com/hanxiaomax/word_power_made_easy_mindmap)
