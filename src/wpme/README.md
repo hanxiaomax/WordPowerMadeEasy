@@ -14,7 +14,7 @@ title: 首页
 
 ### 思维导图
 
-- [MindMap](https://hanxiaomax.github.io/WordPowerMadeEasy/)
+- [MindMap](https://hanxiaomax.github.io/word_power_made_easy_mindmap/)
 
 ![](http://oat186w2g.bkt.clouddn.com/Xnip2018-10-03_21-08-38.png)
 
