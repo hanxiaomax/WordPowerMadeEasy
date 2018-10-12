@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "63f773116be312810fbf07972e0a10b7"
+    "revision": "74b34ecc4fe3322f682685d4a751bc17"
   },
   {
     "url": "assets/css/1.styles.3ac4ce2d.css",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "revision": "df7c35ec8029dbbde0735a45f875eaf7"
   },
   {
-    "url": "assets/css/styles.dcf4db5b.css",
+    "url": "assets/css/styles.3628cd5d.css",
     "revision": "8789b38942cebba3353302492f619760"
   },
   {
@@ -104,64 +104,64 @@ self.__precacheManifest = [
     "revision": "8863760cfc42c61931fcf9189d527601"
   },
   {
-    "url": "assets/js/app.dcf4db5b.js",
-    "revision": "0479a239e52f5bb76e741325d986dfcd"
+    "url": "assets/js/app.3628cd5d.js",
+    "revision": "2377a719734c48af58635178a8d2f392"
   },
   {
     "url": "index.html",
-    "revision": "bad3e54cd9ac1cbceb2bf1039788e158"
+    "revision": "c3027fc8434b143bde4533a070882a03"
   },
   {
     "url": "wpme/How_to_flatter_your_friends.html",
-    "revision": "892d449e77f1872bc9a15c88ae50919e"
+    "revision": "1f29421e6fb18a6933f79e755cc0f48b"
   },
   {
     "url": "wpme/How_to_insult_your_enemies.html",
-    "revision": "07d5390e07dc07ed795be1bbe9d4fab2"
+    "revision": "35547e468a24cbe5650b8a8de21a1ad3"
   },
   {
     "url": "wpme/How_to_talk_about_a_variety_of_personal_characteristics.html",
-    "revision": "9e9ca37b0ad0d34f0e26388d8309bba2"
+    "revision": "ff30de2754c57ca4069b5a40a8a799ce"
   },
   {
     "url": "wpme/How_to_talk_about_actions.html",
-    "revision": "7acbd42f748c26e954dd64e02a11abd5"
+    "revision": "c26833799ad8490161eb5b024396c120"
   },
   {
     "url": "wpme/How_to_talk_about_common_phenomena_and_occurrences.html",
-    "revision": "45ac3a3485796e5aebbec3f06c26159c"
+    "revision": "26e7980491181b0364a0209dca2ad8e3"
   },
   {
     "url": "wpme/How_to_talk_about_doctors.html",
-    "revision": "fd259c3cb3e738cbad3fa3306461f152"
+    "revision": "06f17666ece33dbec87eae0aa11d74ce"
   },
   {
     "url": "wpme/How_to_talk_about_liars_and_lying.html",
-    "revision": "2e5d7b9620b81e9053d44993fb84cb2f"
+    "revision": "ad04dd0ed1ebdcbb9d0aff7446483f8f"
   },
   {
     "url": "wpme/How_to_talk_about_personality.html",
-    "revision": "24dc619b54b8612dc137deb9da0eb1e7"
+    "revision": "dd274897cccea445f91e9ce927f82020"
   },
   {
     "url": "wpme/How_to_talk_about_science_and_scientist.html",
-    "revision": "66dacd51738234cb41c708c0bdf5bab6"
+    "revision": "ec42a5802ed17a68dde6a661f4b6b423"
   },
   {
     "url": "wpme/How_to_talk_about_various_practitioners.html",
-    "revision": "049e8f1ae913141d4fedbfc36af5f947"
+    "revision": "ae6cb588a8cd167146035076376ae8d1"
   },
   {
     "url": "wpme/How_to_talk_about_various_speech_habits.html",
-    "revision": "317b9c1715da4806f37ce5c100db31cf"
+    "revision": "bbc9fabfe4e5936b82b65c44fa3baf36"
   },
   {
     "url": "wpme/How_to_talk_about_what_goes_on.html",
-    "revision": "c4c7630e929612fcf25ba9842261ee6d"
+    "revision": "a7209c2382b7bf992a3c415f3e572e9e"
   },
   {
     "url": "wpme/index.html",
-    "revision": "be03893588bce23ca0170c5c1618554b"
+    "revision": "8f1bc755f9af67302db1d86c2011c0a9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
