@@ -17,7 +17,7 @@ wpme_notes = {
 module.exports = {
     title: 'Hello VuePress',
     description: 'Just playing around',
-    dest: 'dist',
+    dest: 'docs',
     base: '/WordPowerMadeEasy/',
     locales: {
         '/': {
