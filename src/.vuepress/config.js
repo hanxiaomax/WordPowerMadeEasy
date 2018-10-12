@@ -84,17 +84,17 @@ module.exports = {
                     },
                     {
                         text: '思维导图',
-                        link: '/wpme/'
+                        link: 'https://hanxiaomax.github.io/word_power_made_easy_mindmap/'
                     },
                 ]
             },
             {
                 text: '资源',
-                link: '/res/'
+                link: 'https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1jIEEp86/'
             },
             {
                 text: '联系',
-                link: '/contact/'
+                link: 'https://www.zhihu.com/people/lingfeng/'
             },
         ],
         sidebar: {
