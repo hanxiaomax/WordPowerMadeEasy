@@ -10,5 +10,5 @@ features:
   details: 提供了在线交互式思维导图，方便进行探索和复习
 - title: 音频资源
   details: 您可以点击顶部导航栏中的资源按钮，进入百度网盘下载音频资源（提取密码：kdcy）
-footer: MIT Licensed | Copyright © 2018-present Lingfeng_ai
+footer: CC Licensed | Copyright © 2018-present Lingfeng_ai
 ---
