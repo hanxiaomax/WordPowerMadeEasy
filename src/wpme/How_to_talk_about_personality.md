@@ -5,6 +5,7 @@
 1. ego					:		I,self
 	- ego              	:        	自我
 	- egocentric        :     	自我为中心的
+		- centric	: 	123123123
 	- egomaniac         :		极端利己主义者, 极端自我主义者,自大狂
 	- egomaniacal       :	极端利己的
 
