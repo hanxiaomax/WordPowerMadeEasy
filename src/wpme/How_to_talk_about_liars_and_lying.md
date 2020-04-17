@@ -22,7 +22,7 @@
 2. senex              	:	old 老
 
 
-## 5. A congenial liar                 :     天生的骗子
+## 5. A congenital liar                 :     天生的骗子
 
 1. genesis           				:	birth，origin       出生，起源	
 	- genetics 						:	n.遗传学 genetic adj.遗传的 geneticist 遗传学家
