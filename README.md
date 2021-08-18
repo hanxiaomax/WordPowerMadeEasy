@@ -20,6 +20,8 @@ title: 首页
 
 ### 文字笔记
 
+https://hanxiaomax.github.io/WordPowerMadeEasy/
+
 - 第一章：[How To Talk About Personality](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/src/wpme/How_to_talk_about_personality.md)
 
 - 第二章：[How To Talk About Doctors](https://github.com/hanxiaomax/WordPowerMadeEasy/blob/master/src/wpme/How_to_talk_about_doctors.md)
